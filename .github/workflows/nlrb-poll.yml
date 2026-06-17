@@ -20,7 +20,10 @@ on:
         required: false
         default: ''
   schedule:
-    - cron: '0 14 * * *'     # ~10:00 AM ET (daily) — after the nightly DB build
+    - cron: '0 12 * * *'     # 12:00 UTC = 8 AM ET (7 AM EST) — lands before 9 AM ET,
+                             # after labordata's nightly DB build (cron 04:15 UTC,
+                             # actually finishes ~08:30-10:20 UTC). GitHub cron is
+                             # best-effort; the 7/14-day lookback covers any late build.
 
 permissions:
   contents: write
