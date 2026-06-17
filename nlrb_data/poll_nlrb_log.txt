@@ -1,0 +1,448 @@
+[2026-06-16 19:43:34 ET]   --no-download: reusing existing nlrb.db
+[2026-06-16 19:43:34 ET]   source DB freshness (max filing.updated_at): 2026-06-16 10:15:58
+[2026-06-16 19:43:34 ET] === NLRB backfill (filings+decisions 2026-01-01 → today, live=False) ===
+[2026-06-16 19:43:35 ET]   + FILING: 04-CA-378120 | CA | Timber Ridge SNF Operations LLC d/b/a River View N
+[2026-06-16 19:43:35 ET]   + FILING: 04-CB-378114 | CB | Teamsters Local 773 (United Parcel Service)
+[2026-06-16 19:43:36 ET]   + FILING: 04-CB-378126 | CB | National Association of Letter Carriers (United St
+[2026-06-16 19:43:36 ET]   + FILING: 04-CA-378223 | CA | Sunbelt Rentals
+[2026-06-16 19:43:37 ET]   + FILING: 04-CA-378249 | CA | SRS Distribution
+[2026-06-16 19:43:37 ET]   + FILING: 04-CB-378168 | CB | ILA local 2076 (Enstructure LLC Wilmington)
+[2026-06-16 19:43:37 ET]   + FILING: 04-CB-378183 | CB | APWU Local 89 (United States Postal Service)
+[2026-06-16 19:43:38 ET]   + FILING: 04-CA-378358 | CA | 773 Teamsters (Coca Cola North)
+[2026-06-16 19:43:38 ET]   + FILING: 04-CB-378287 | CB | ILA Local 1694 (Enstructure Wilmington)
+[2026-06-16 19:43:38 ET]   + FILING: 04-CB-378360 | CB | Teamsters 773 (Coca Cola North)
+[2026-06-16 19:43:39 ET]   + FILING: 04-RC-378338 | RC | Inspira Medical Centers, Inc.
+[2026-06-16 19:43:39 ET]   + FILING: 04-CA-378430 | CA | Timothy S. Zeiger, Psy.D., PLLC
+[2026-06-16 19:43:39 ET]   + FILING: 04-CA-378485 | CA | Timber Ridge SNF Operations LLC d/b/a River View N
+[2026-06-16 19:43:40 ET]   + FILING: 04-CA-378492 | CA | Timber Ridge SNF Operations LLC d/b/a River View N
+[2026-06-16 19:43:40 ET]   + FILING: 04-CB-378519 | CB | United Food and Commercial Workers 1776 (River Vie
+[2026-06-16 19:43:41 ET]   + FILING: 04-CB-378540 | CB | United Food and Commercial Workers 1776 (River Vie
+[2026-06-16 19:43:41 ET]   + FILING: 04-CB-378552 | CB | Local 74 Union-Plumbers and Pipefitters Delaware (
+[2026-06-16 19:43:41 ET]   + FILING: 04-CG-378567 | CG | Teamsters Local 771 (Lancaster Behavioral Health H
+[2026-06-16 19:43:42 ET]   + FILING: 04-RC-378569 | RC | The Berks Packing Company, Inc.
+[2026-06-16 19:43:42 ET]   + FILING: 04-CA-378659 | CA | Merakey
+[2026-06-16 19:43:42 ET]   + FILING: 04-CB-378670 | CB | Local IBT 500 (SEPTA)
+[2026-06-16 19:43:43 ET]   + FILING: 04-RC-378651 | RC | Bucks County Courier Times
+[2026-06-16 19:43:44 ET]   + FILING: 04-CA-378682 | CA | Monumental Post Acute Care
+[2026-06-16 19:43:44 ET]   + FILING: 04-CA-378702 | CA | International Association of Machinists and Aerosp
+[2026-06-16 19:43:45 ET]   + FILING: 04-CA-378715 | CA | Constellation Energy
+[2026-06-16 19:43:45 ET]   + FILING: 04-CA-378892 | CA | American Federation of Teachers - Pennsylvania
+[2026-06-16 19:43:46 ET]   + FILING: 04-RC-378935 | RC | GateHouse Media Pennsylvania Holdings, Inc., d/b/a
+[2026-06-16 19:43:46 ET]   + FILING: 04-CA-379046 | CA | Penn Valley Shows LLC
+[2026-06-16 19:43:47 ET]   + FILING: 04-CA-379256 | CA | United States Postal Service
+[2026-06-16 19:43:47 ET]   + FILING: 04-CB-379255 | CB | IBT Local 676 Teamsters (UPS)
+[2026-06-16 19:43:47 ET]   + FILING: 04-CA-379312 | CA | Center City District
+[2026-06-16 19:43:48 ET]   + FILING: 04-CA-379332 | CA | Learning World Child Academy
+[2026-06-16 19:43:48 ET]   + FILING: 04-CA-379348 | CA | Advance Auto Parts DC30
+[2026-06-16 19:43:48 ET]   + FILING: 04-CA-379352 | CA | Rams Pint house and Roof top Lounge
+[2026-06-16 19:43:49 ET]   + FILING: 04-CB-379262 | CB | Keystone Area Local 1566 (United States Postal Ser
+[2026-06-16 19:43:49 ET]   + FILING: 04-CB-379306 | CB | International Union SPFPA Local 511 (Center City D
+[2026-06-16 19:43:50 ET]   + FILING: 04-RC-379267 | RC | Temple University Hospital, Inc. d/b/a Temple Wome
+[2026-06-16 19:43:50 ET]   + FILING: 04-RC-379268 | RC | STA of Pennsylvania, Inc.
+[2026-06-16 19:43:50 ET]   + FILING: 04-RC-379296 | RC | Genserve Inc.
+[2026-06-16 19:43:51 ET]   + FILING: 04-CA-379358 | CA | Rams Pint House and Rooftop Lounge
+[2026-06-16 19:43:51 ET]   + FILING: 04-CA-379370 | CA | United Parcel Service (UPS)
+[2026-06-16 19:43:51 ET]   + FILING: 04-CA-379384 | CA | CVVY Enterprises, LLC d/b/a NWIN Overlook Group
+[2026-06-16 19:43:52 ET]   + FILING: 04-CB-379373 | CB | Teamsters Local 331 (United Parcel Service)
+[2026-06-16 19:43:52 ET]   + FILING: 04-RC-379361 | RC | A J Jersey, Inc.
+[2026-06-16 19:43:53 ET]   + FILING: 04-CA-379499 | CA | Atlantic Exposition Services, LLC
+[2026-06-16 19:43:53 ET]   + FILING: 04-CB-379503 | CB | International Union of Painters and Allied Trades 
+[2026-06-16 19:43:53 ET]   + FILING: 04-CB-379517 | CB | International Association of Bridge, Structural, O
+[2026-06-16 19:43:54 ET]   + FILING: 04-CA-379614 | CA | United States Postal Service
+[2026-06-16 19:43:54 ET]   + FILING: 04-CB-379680 | CB | International Brotherhood of Teamsters Local Union
+[2026-06-16 19:43:54 ET]   + FILING: 04-CA-379698 | CA | United States Postal Service
+[2026-06-16 19:43:55 ET]   + FILING: 04-CA-379709 | CA | Northern Dauphin Nursing and Rehabilitation Center
+[2026-06-16 19:43:55 ET]   + FILING: 04-RC-379702 | RC | Inspira Medical Centers Inc.
+[2026-06-16 19:43:55 ET]   + FILING: 04-RM-379703 | RM | Philadelphia Building Associates, LLC
+[2026-06-16 19:43:56 ET]   + FILING: 04-CA-379867 | CA | Complete Care at Marcella
+[2026-06-16 19:43:56 ET]   + FILING: 04-CA-380088 | CA | Timken/GGB
+[2026-06-16 19:43:56 ET]   + FILING: 04-CA-380094 | CA | BLES Healthcare Management, LLC - Rosemont Care an
+[2026-06-16 19:43:57 ET]   + FILING: 04-CB-380099 | CB | Communication Workers of Americal Local 81134 (Tim
+[2026-06-16 19:43:57 ET]   + FILING: 04-CA-380082 | CA | Bryn Mawr Terrace
+[2026-06-16 19:43:58 ET]   + FILING: 04-CA-380134 | CA | Krapf School Bus
+[2026-06-16 19:43:58 ET]   + FILING: 04-CB-380135 | CB | United Government Security Officers of America and
+[2026-06-16 19:43:58 ET]   + FILING: 04-CA-380161 | CA | Powerhouse Equipment & Engineering Co., Inc.
+[2026-06-16 19:43:59 ET]   + FILING: 04-CA-380184 | CA | Klein Electric Advertising, Inc.
+[2026-06-16 19:43:59 ET]   + FILING: 04-CA-380215 | CA | BBC Management Services, Inc./B. Blair Corp.
+[2026-06-16 19:43:59 ET]   + FILING: 04-CA-380237 | CA | BBC Management Services Inc. / B. Blair Corp.
+[2026-06-16 19:44:00 ET]   + FILING: 04-CA-380267 | CA | BBC Management Services Inc. / B. Blair Corp.
+[2026-06-16 19:44:00 ET]   + FILING: 04-CA-380269 | CA | BBC Management Services Inc. / B. Blair Corp.
+[2026-06-16 19:44:01 ET]   + FILING: 04-CA-380313 | CA | Tusk Industrial Corporation
+[2026-06-16 19:44:01 ET]   + FILING: 04-CB-380415 | CB | Philadelphia Federation of Teachers (The School Di
+[2026-06-16 19:44:01 ET]   + FILING: 04-CA-380331 | CA | Mack Trucks
+[2026-06-16 19:44:02 ET]   + FILING: 04-CA-380359 | CA | AFT Pennsylvania
+[2026-06-16 19:44:02 ET]   + FILING: 04-CA-380315 | CA | D's Diner
+[2026-06-16 19:44:02 ET]   + FILING: 04-CA-380361 | CA | Complete Care at Green Acres Manor
+[2026-06-16 19:44:03 ET]   + FILING: 04-CA-380368 | CA | United States Postal Service
+[2026-06-16 19:44:03 ET]   + FILING: 04-CB-380373 | CB | Jneso District Council 1 (Cedar Grove Respiratory 
+[2026-06-16 19:44:04 ET]   + FILING: 04-RC-380380 | RC | Interstate Waste Services
+[2026-06-16 19:44:04 ET]   + FILING: 04-UC-380401 | UC | American Federation of Teachers- Pennsylvania
+[2026-06-16 19:44:04 ET]   + FILING: 04-CA-380423 | CA | Amazon Services
+[2026-06-16 19:44:05 ET]   + FILING: 04-CA-380429 | CA | Liguori Academy
+[2026-06-16 19:44:05 ET]   + FILING: 04-CB-380458 | CB | International Union of Operating Engineers, Local 
+[2026-06-16 19:44:05 ET]   + FILING: 04-CB-380541 | CB | International Longshoremen's Association, Local 12
+[2026-06-16 19:44:06 ET]   + FILING: 04-RC-380580 | RC | Genserve, Inc.
+[2026-06-16 19:44:06 ET]   + FILING: 04-RD-380568 | RD | Cedar Grove Respiratory and Nursing Center
+[2026-06-16 19:44:07 ET]   + FILING: 04-RM-380555 | RM | B. Blair Corp.
+[2026-06-16 19:44:08 ET]   + FILING: 04-CA-380627 | CA | Gardenview Opco d/b/a Cedar Grove Respiratory & Nu
+[2026-06-16 19:44:08 ET]   + FILING: 04-CA-380675 | CA | First Student
+[2026-06-16 19:44:08 ET]   + FILING: 04-CA-380681 | CA | BBC Management Services, Inc. /  B. Blair Corp.
+[2026-06-16 19:44:09 ET]   + FILING: 04-RC-380688 | RC | Ryder Truck Rental, Inc.
+[2026-06-16 19:44:09 ET]   + FILING: 04-RC-380691 | RC | Clifford Hill Sanitation Services, LLC
+[2026-06-16 19:44:10 ET]   + FILING: 04-RC-380693 | RC | Foulkeways at Gwynedd
+[2026-06-16 19:44:10 ET]   + FILING: 04-RM-380713 | RM | Bryn Athyn Fire Company
+[2026-06-16 19:44:10 ET]   + FILING: 04-CA-380729 | CA | Johnson Matthey, Inc.
+[2026-06-16 19:44:11 ET]   + FILING: 04-CA-380763 | CA | United States Postal Service
+[2026-06-16 19:44:11 ET]   + FILING: 04-CB-380757 | CB | National Association of Letter Carriers (United St
+[2026-06-16 19:44:11 ET]   + FILING: 04-CA-380816 | CA | United States Postal Service
+[2026-06-16 19:44:12 ET]   + FILING: 04-CA-380867 | CA | Greenwich Terminals LLC and PMTA
+[2026-06-16 19:44:12 ET]   + FILING: 04-CA-380879 | CA | Lancaster Behavioral Health Hospital
+[2026-06-16 19:44:12 ET]   + FILING: 04-CA-380881 | CA | Airgas, Inc.
+[2026-06-16 19:44:13 ET]   + FILING: 04-CA-380888 | CA | PCI Pharma Services
+[2026-06-16 19:44:14 ET]   + FILING: 04-CB-380866 | CB | International Longshoremen's Association Local 129
+[2026-06-16 19:44:15 ET]   + FILING: 04-RM-380814 | RM | Jack Duggans PHL Inc.
+[2026-06-16 19:44:16 ET]   + FILING: 04-CA-380904 | CA | Flower & Flame, LLC
+[2026-06-16 19:44:16 ET]   + FILING: 04-CB-380918 | CB | United Food and Commercial Workers Union -AFL-CIO 
+[2026-06-16 19:44:17 ET]   + FILING: 04-CA-380979 | CA | United States Postal Service
+[2026-06-16 19:44:17 ET]   + FILING: 04-CB-380974 | CB | Unite Here Local 274 (GF Hospitality PHI LLC d/b/a
+[2026-06-16 19:44:17 ET]   + FILING: 04-CB-380999 | CB | Unite Here Local 54 (Hard Rock Casino)
+[2026-06-16 19:44:18 ET]   + FILING: 04-CA-381001 | CA | Jack Duggans, PHL Inc.
+[2026-06-16 19:44:18 ET]   + FILING: 04-CA-381017 | CA | Stradley Ronon Stevens & Young, LLP
+[2026-06-16 19:44:20 ET]   + FILING: 04-CA-381178 | CA | Jefferson Einstein Philadelphia
+[2026-06-16 19:44:20 ET]   + FILING: 04-CA-381185 | CA | GHR Healthcare
+[2026-06-16 19:44:21 ET]   + FILING: 04-CA-381351 | CA | ISS Building services
+[2026-06-16 19:44:21 ET]   + FILING: 04-CA-381352 | CA | Mercer Home Health Care
+[2026-06-16 19:44:21 ET]   + FILING: 04-CA-381364 | CA | Embassy Of Wyoming Valley
+[2026-06-16 19:44:22 ET]   + FILING: 04-CA-381369 | CA | Embassy of Scranton
+[2026-06-16 19:44:22 ET]   + FILING: 04-CA-381374 | CA | Embassy of Tunkhannock
+[2026-06-16 19:44:23 ET]   + FILING: 04-CA-381383 | CA | Embassy Of East Mountain
+[2026-06-16 19:44:23 ET]   + FILING: 04-CA-381477 | CA | Altitude Cannabis
+[2026-06-16 19:44:23 ET]   + FILING: 04-CG-381463 | CG | Teamsters Local 771(Lancaster Behavioral Health Ho
+[2026-06-16 19:44:24 ET]   + FILING: 04-CA-381603 | CA | Penn Medicine aka Lancaster General Hospital
+[2026-06-16 19:44:24 ET]   + FILING: 04-CA-381629 | CA | Independent Options LLC
+[2026-06-16 19:44:25 ET]   + FILING: 04-CA-381679 | CA | Blue Ridge Pressure Castings
+[2026-06-16 19:44:25 ET]   + FILING: 04-CB-381690 | CB | Teamsters Local Union 771(United Parcel Service)
+[2026-06-16 19:44:25 ET]   + FILING: 04-CA-381730 | CA | Constellation Nuclear Security, LLC
+[2026-06-16 19:44:26 ET]   + FILING: 04-RC-381727 | RC | PECO Energy Company
+[2026-06-16 19:44:26 ET]   + FILING: 04-CA-381811 | CA | Liberty Resources, Inc. d/b/a Liberty Resources Ho
+[2026-06-16 19:44:27 ET]   + FILING: 04-CA-381721 | CA | ChildFirst Services, Inc
+[2026-06-16 19:44:27 ET]   + FILING: 04-CA-381723 | CA | Talking Headz Salon/ Heather And Sabrina LLC
+[2026-06-16 19:44:27 ET]   + FILING: 04-CA-381786 | CA | United Safety and Survivability Corporation
+[2026-06-16 19:44:28 ET]   + FILING: 04-CA-381904 | CA | Charles Light Shenandoah Heights/Ridgeview Rehabil
+[2026-06-16 19:44:28 ET]   + FILING: 04-CA-381905 | CA | Propell CU formerly BHCU
+[2026-06-16 19:44:28 ET]   + FILING: 04-CA-381906 | CA | Advance Auto Parts
+[2026-06-16 19:44:29 ET]   + FILING: 04-CA-381908 | CA | Inspira Medical Center
+[2026-06-16 19:44:29 ET]   + FILING: 04-CA-381915 | CA | University of Pennsylvania
+[2026-06-16 19:44:30 ET]   + FILING: 04-CA-381981 | CA | T-Ross Brothers Construction
+[2026-06-16 19:44:30 ET]   + FILING: 04-CA-382044 | CA | Embassy Of Wyoming Valley
+[2026-06-16 19:44:30 ET]   + FILING: 04-CA-382048 | CA | Embassy of Scranton
+[2026-06-16 19:44:31 ET]   + FILING: 04-CA-382051 | CA | Embassy Of East Mountain
+[2026-06-16 19:44:31 ET]   + FILING: 04-CA-382053 | CA | Embassy of Tunkhannock
+[2026-06-16 19:44:32 ET]   + FILING: 04-CA-382055 | CA | Greenwich Terminals LLC and PMTA
+[2026-06-16 19:44:32 ET]   + FILING: 04-CA-382057 | CA | Rose City Nursing & Rehab
+[2026-06-16 19:44:32 ET]   + FILING: 04-CA-382062 | CA | The Gardens At York Terrace
+[2026-06-16 19:44:33 ET]   + FILING: 04-CA-382066 | CA | Fairlane Gardens N&R At Reading
+[2026-06-16 19:44:33 ET]   + FILING: 04-CA-382072 | CA | Complete Care Marcella
+[2026-06-16 19:44:33 ET]   + FILING: 04-CA-382073 | CA | Trinity Health Mid-Atlantic Hospital Mercy Fitzger
+[2026-06-16 19:44:34 ET]   + FILING: 04-CB-382065 | CB | International Longshoremen's Association Local 129
+[2026-06-16 19:44:34 ET]   + FILING: 04-RC-381989 | RC | TPS Parking Management, LLC d/b/a The Parking Spot
+[2026-06-16 19:44:35 ET]   + FILING: 04-CA-382115 | CA | ACME/Albertsons
+[2026-06-16 19:44:35 ET]   + FILING: 04-CA-382121 | CA | The Gardens At Memory Care Easton
+[2026-06-16 19:44:36 ET]   + FILING: 04-CA-382149 | CA | BLES Healthcare Management - Rosemont
+[2026-06-16 19:44:36 ET]   + FILING: 04-RD-382168 | RD | Cedar Grove Respiratory & Nursing Center
+[2026-06-16 19:44:36 ET]   + FILING: 04-CA-382190 | CA | Constellation Nuclear Security, LLC
+[2026-06-16 19:44:37 ET]   + FILING: 04-CA-382201 | CA | Schuylkill Center
+[2026-06-16 19:44:37 ET]   + FILING: 04-CA-382247 | CA | United Parcel Service
+[2026-06-16 19:44:37 ET]   + FILING: 04-CA-382252 | CA | BBC Management Services, Inc. / B. Blair Corp.
+[2026-06-16 19:44:38 ET]   + FILING: 04-CB-382243 | CB | SMART, Sheet Metal Workers Local Union No. 19 (Sou
+[2026-06-16 19:44:38 ET]   + FILING: 04-CB-382286 | CB | United Food and Commercial Workers Union - AFL-CIO
+[2026-06-16 19:44:39 ET]   + FILING: 04-CA-382350 | CA | Showboat Hotel and Casino
+[2026-06-16 19:44:39 ET]   + FILING: 04-CA-382358 | CA | Whole Foods Market Group, Inc.
+[2026-06-16 19:44:39 ET]   + FILING: 04-CA-382368 | CA | United Parcel Service, Inc.
+[2026-06-16 19:44:40 ET]   + FILING: 04-CA-382423 | CA | The Consortium
+[2026-06-16 19:44:40 ET]   + FILING: 04-CA-382519 | CA | United Parcel Service, Inc.
+[2026-06-16 19:44:40 ET]   + FILING: 04-CA-382565 | CA | Comcast Spectacor LLC
+[2026-06-16 19:44:41 ET]   + FILING: 04-CA-382570 | CA | Northbrook Behavioral Health
+[2026-06-16 19:44:41 ET]   + FILING: 04-CA-382574 | CA | Mullica Hill 27580 LLC (Smolar Group LLC) McDonald
+[2026-06-16 19:44:42 ET]   + FILING: 04-CA-382578 | CA | Shore Physicians Group
+[2026-06-16 19:44:42 ET]   + FILING: 04-CB-382583 | CB | AFSCME Local 2307 (Northbrook Behavioral Health)
+[2026-06-16 19:44:42 ET]   + FILING: 04-CA-382628 | CA | SEPTA
+[2026-06-16 19:44:43 ET]   + FILING: 04-CA-382666 | CA | Jefferson Einstein Philadelphia
+[2026-06-16 19:44:44 ET]   + FILING: 04-CA-382694 | CA | ACX1 Studios
+[2026-06-16 19:44:44 ET]   + FILING: 04-CB-382684 | CB | United Food & Commercial Workers Local 1776 (Timbe
+[2026-06-16 19:44:45 ET]   + FILING: 04-CB-382685 | CB | United Food & Commercial Workers Local 1776 (Timbe
+[2026-06-16 19:44:45 ET]   + FILING: 04-CB-382687 | CB | United Food & Commercial Workers Local 1776 (Timbe
+[2026-06-16 19:44:45 ET]   + FILING: 04-CB-382688 | CB | United Food & Commercial Workers Local 1776 (Timbe
+[2026-06-16 19:44:46 ET]   + FILING: 04-CB-382692 | CB | United Food & Commercial Workers 1776 (Timber Ridg
+[2026-06-16 19:44:46 ET]   + FILING: 04-CB-382693 | CB | United Food & Commercial Workers Local 1776 (Timbe
+[2026-06-16 19:44:46 ET]   + FILING: 04-RD-382689 | RD | Meritus Solutions Group LLC
+[2026-06-16 19:44:47 ET]   + FILING: 04-CB-382757 | CB | United Food and Commercial Workers 1776 (Timber Ri
+[2026-06-16 19:44:47 ET]   + FILING: 04-CA-382813 | CA | Comcast Cable Inc. of Philadelphia
+[2026-06-16 19:44:47 ET]   + FILING: 04-CB-382804 | CB | The International Union of Journeymen and Allied T
+[2026-06-16 19:44:48 ET]   + FILING: 04-CA-382873 | CA | United American Securities, LLC d/b/a Gardaworld
+[2026-06-16 19:44:48 ET]   + FILING: 04-RC-382883 | RC | Reach Climbing and Fitness, LLC
+[2026-06-16 19:44:48 ET]   + FILING: 04-RD-382908 | RD | Townsend Fire Department, Inc.
+[2026-06-16 19:44:49 ET]   + FILING: 04-CA-382977 | CA | Rutgers
+[2026-06-16 19:44:49 ET]   + FILING: 04-CA-382983 | CA | Gardenview Opco d/b/a Cedar Grove Respiratory & Nu
+[2026-06-16 19:44:50 ET]   + FILING: 04-CA-383004 | CA | Flagger Force
+[2026-06-16 19:44:50 ET]   + FILING: 04-CA-383034 | CA | United Parcel Service (UPS)
+[2026-06-16 19:44:50 ET]   + FILING: 04-CA-383049 | CA | Republic Services of New Jersey
+[2026-06-16 19:44:51 ET]   + FILING: 04-CA-383056 | CA | High Street Design LLC (d/b/a RTO Lighting)
+[2026-06-16 19:44:51 ET]   + FILING: 04-CA-383066 | CA | Inspira Medical Center Vineland
+[2026-06-16 19:44:52 ET]   + FILING: 04-CA-383067 | CA | ABM Facilities Management
+[2026-06-16 19:44:52 ET]   + FILING: 04-CA-383068 | CA | High Street Design LLC (d/b/a RTO Lighting)
+[2026-06-16 19:44:52 ET]   + FILING: 04-CA-383073 | CA | United States Postal Service
+[2026-06-16 19:44:53 ET]   + FILING: 04-RM-383078 | RM | The Trustees of the University of Pennsylvania
+[2026-06-16 19:44:53 ET]   + FILING: 04-CA-383069 | CA | Timber Ridge SNF Operations LLC d/b/a River View N
+[2026-06-16 19:44:53 ET]   + FILING: 04-CA-383142 | CA | United States Postal Service
+[2026-06-16 19:44:54 ET]   + FILING: 04-CA-383200 | CA | T-Ross Brothers Construction
+[2026-06-16 19:44:54 ET]   + FILING: 04-CB-383363 | CB | International Longshoremen's Association, Local 12
+[2026-06-16 19:44:55 ET]   + FILING: 04-CA-383347 | CA | Westport Axle
+[2026-06-16 19:44:55 ET]   + FILING: 04-RC-383376 | RC | Ambulnz PA, LLC
+[2026-06-16 19:44:55 ET]   + FILING: 04-RD-383369 | RD | TRI BMS LLC dba R&M Equipment
+[2026-06-16 19:44:56 ET]   + FILING: 04-CA-383403 | CA | Temple Faculties Physicians
+[2026-06-16 19:44:56 ET]   + FILING: 04-CA-383458 | CA | First Student, Inc.
+[2026-06-16 19:44:56 ET]   + FILING: 04-CB-383570 | CB | NALC Branch 191 (United States Postal Service)
+[2026-06-16 19:44:57 ET]   + FILING: 04-CB-383578 | CB | APWU Cape Atlantic Local 3617 (United States Posta
+[2026-06-16 19:44:57 ET]   + FILING: 04-CA-383601 | CA | Sheraton Philadelphia Downtown
+[2026-06-16 19:44:57 ET]   + FILING: 04-CA-383603 | CA | Restaurant Depot/ Jetro Holdings LLC
+[2026-06-16 19:44:58 ET]   + FILING: 04-CA-383688 | CA | UNIFIED Door and Hardware Group
+[2026-06-16 19:44:58 ET]   + FILING: 04-CB-383716 | CB | UNITE HERE Local 274 (Jack Duggans PHL INC.)
+[2026-06-16 19:44:59 ET]   + FILING: 04-CA-383745 | CA | Lancaster Behavioral Health Hospital
+[2026-06-16 19:44:59 ET]   + FILING: 04-CB-383753 | CB | National Postal Mail Handlers Union Local 308 (Uni
+[2026-06-16 19:44:59 ET]   + FILING: 04-CB-383843 | CB | Teamsters Local No. 676 (First Student, Inc.)
+[2026-06-16 19:45:00 ET]   + FILING: 04-CB-383845 | CB | Teamsters Local Union 384 (First Student, Inc.)
+[2026-06-16 19:45:00 ET]   + FILING: 04-CA-383850 | CA | PECO Energy Company
+[2026-06-16 19:45:01 ET]   + FILING: 04-CA-383885 | CA | Abington Manor
+[2026-06-16 19:45:01 ET]   + FILING: 04-CA-383924 | CA | The Philadelphia Federation of Teachers and the Ph
+[2026-06-16 19:45:01 ET]   + FILING: 04-CA-384008 | CA | Monell Chemical Senses Center
+[2026-06-16 19:45:02 ET]   + FILING: 04-CB-383952 | CB | United Automobile, Aerospace and Agricultural Impl
+[2026-06-16 19:45:02 ET]   + FILING: 04-CA-384041 | CA | Rhoads Industries
+[2026-06-16 19:45:02 ET]   + FILING: 04-CA-384057 | CA | American Oncological Hospital/Temple University He
+[2026-06-16 19:45:03 ET]   + FILING: 04-CB-384105 | CB | District 1199C a/w National Union of Hospital and 
+[2026-06-16 19:45:03 ET]   + FILING: 04-CA-384199 | CA | Home Depot RDC 5034
+[2026-06-16 19:45:03 ET]   + FILING: 04-CA-384370 | CA | Real Entertainment – Philadelphia, LLC, a wholly o
+[2026-06-16 19:45:04 ET]   + FILING: 04-CA-384376 | CA | Advance Auto Parts
+[2026-06-16 19:45:04 ET]   + FILING: 04-RC-384337 | RC | Valtris Specialty Chemicals
+[2026-06-16 19:45:05 ET]   + FILING: 04-CA-384397 | CA | Shenandoah Heights/Ridgeview Healthcare & Rehabili
+[2026-06-16 19:45:05 ET]   + FILING: 04-CA-384426 | CA | Lancaster Behavioral Health Hospital
+[2026-06-16 19:45:05 ET]   + FILING: 04-RC-384402 | RC | Marina District Development Company, LLC d/b/a Bor
+[2026-06-16 19:45:06 ET]   + FILING: 04-RM-384411 | RM | BradyIFS New Jersey, LLC d/b/a Camden Bag & Paper 
+[2026-06-16 19:45:06 ET]   + FILING: 04-CA-384415 | CA | Temple University Hospital/Temple University Healt
+[2026-06-16 19:45:07 ET]   + FILING: 04-CA-384621 | CA | United States Postal Service
+[2026-06-16 19:45:07 ET]   + FILING: 04-CA-384620 | CA | Jefferson Einstein Philadelphia
+[2026-06-16 19:45:07 ET]   + FILING: 04-CA-384623 | CA | Big Heads of Warminster Square, LLC
+[2026-06-16 19:45:08 ET]   + FILING: 04-CB-384647 | CB | International Brotherhood of Boilermakers Local 13
+[2026-06-16 19:45:08 ET]   + FILING: 04-CA-384707 | CA | Lehigh Valley Health Network
+[2026-06-16 19:45:09 ET]   + FILING: 04-CB-384652 | CB | Local Union 274 Health and Welfare Fund (Aramark)
+[2026-06-16 19:45:09 ET]   + FILING: 04-RC-384678 | RC | Penn State Health Milton S. Hershey Medical Center
+[2026-06-16 19:45:09 ET]   + FILING: 04-CA-384725 | CA | ABM
+[2026-06-16 19:45:10 ET]   + FILING: 04-CA-384727 | CA | The Shubert Organization, Inc., Operator of the Fo
+[2026-06-16 19:45:10 ET]   + FILING: 04-CB-384739 | CB | International Alliance of Theatrical Stage Employe
+[2026-06-16 19:45:11 ET]   + FILING: 04-CB-384857 | CB | Teamsters Local 463 (Grocery Haulers Inc.)
+[2026-06-16 19:45:11 ET]   + FILING: 04-CA-384853 | CA | Gloucester Terminals LLC
+[2026-06-16 19:45:12 ET]   + FILING: 04-CA-384854 | CA | Grocery Haulers Inc.
+[2026-06-16 19:45:12 ET]   + FILING: 04-CA-384868 | CA | Treacy Brothers General Contractors LLC
+[2026-06-16 19:45:12 ET]   + FILING: 04-CB-384839 | CB | United Steelworkers Local 286 (Philadelphia Federa
+[2026-06-16 19:45:13 ET]   + FILING: 04-RD-384882 | RD | Wells Fargo Bank, NA
+[2026-06-16 19:45:13 ET]   + FILING: 04-CB-385023 | CB | International Brotherhood of Electrical Workers Lo
+[2026-06-16 19:45:13 ET]   + FILING: 04-RC-384999 | RC | Universal Protection Service, LLC d/b/a/ Allied Un
+[2026-06-16 19:45:14 ET]   + FILING: 04-CA-385097 | CA | Einstein Medical Center
+[2026-06-16 19:45:14 ET]   + FILING: 04-CA-385119 | CA | Ambulnz PA, LLC
+[2026-06-16 19:45:14 ET]   + FILING: 04-CA-385124 | CA | PECO Energy Company
+[2026-06-16 19:45:15 ET]   + FILING: 04-CA-385145 | CA | Living Branches
+[2026-06-16 19:45:15 ET]   + FILING: 04-CB-385166 | CB | Bakery, Confectionery, Tobacco Workers and Grain M
+[2026-06-16 19:45:15 ET]   + FILING: 04-CB-385162 | CB | 1199 SEIU United Healthcare Workers East (Complete
+[2026-06-16 19:45:16 ET]   + FILING: 04-CA-385291 | CA | Circularix LLC
+[2026-06-16 19:45:16 ET]   + FILING: 04-CB-385292 | CB | IBEW Local 777 (NAES Corporation)
+[2026-06-16 19:45:17 ET]   + FILING: 04-CB-385333 | CB | National Association of Letter Carriers, Local 157
+[2026-06-16 19:45:17 ET]   + FILING: 04-CA-385354 | CA | Complete Care at Marcella
+[2026-06-16 19:45:17 ET]   + FILING: 04-CA-385374 | CA | United States Postal Service
+[2026-06-16 19:45:18 ET]   + FILING: 04-CA-385502 | CA | Scranton School District
+[2026-06-16 19:45:18 ET]   + FILING: 04-CA-385514 | CA | Sunbelt Rentals
+[2026-06-16 19:45:18 ET]   + FILING: 04-CG-385500 | CG | Teamsters Local Union 771 (Lancaster Behavioral He
+[2026-06-16 19:45:19 ET]   + FILING: 04-CA-385591 | CA | CurrentMaster Electric
+[2026-06-16 19:45:19 ET]   + FILING: 04-CB-385590 | CB | International Brotherhood of Electrical Workers, L
+[2026-06-16 19:45:20 ET]   + FILING: 04-CA-385589 | CA | Katzman Logistics
+[2026-06-16 19:45:20 ET]   + FILING: 04-CB-385592 | CB | International Longshoremen's Association Local 129
+[2026-06-16 19:45:20 ET]   + FILING: 04-CB-385631 | CB | UAW Local 677 (Mack Trucks - Lehigh Valley Operati
+[2026-06-16 19:45:21 ET]   + FILING: 04-CC-385678 | CC | Heat & Frost Insulators Local 14 & 23 and Internat
+[2026-06-16 19:45:21 ET]   + FILING: 04-CA-385738 | CA | Saint-Gobain North America
+[2026-06-16 19:45:21 ET]   + FILING: 04-CA-385851 | CA | Wright Traffic
+[2026-06-16 19:45:22 ET]   + FILING: 04-CA-386074 | CA | Virtua Memorial Mount Holly and Virtua CNS
+[2026-06-16 19:45:22 ET]   + FILING: 04-CA-385979 | CA | GF Hospitality PHI HGI LLC d/b/a Hilton Garden Inn
+[2026-06-16 19:45:23 ET]   + FILING: 04-CA-385996 | CA | United States Postal Service
+[2026-06-16 19:45:23 ET]   + FILING: 04-CB-385983 | CB | Steamfitters Local 420
+[2026-06-16 19:45:23 ET]   + FILING: 04-CA-386048 | CA | Heidelberg Materials
+[2026-06-16 19:45:24 ET]   + FILING: 04-CB-386038 | CB | United Steelworkers (Heidelberg Materials)
+[2026-06-16 19:45:24 ET]   + FILING: 04-CD-386094 | CD | International Union of Elevator Constructors, Loca
+[2026-06-16 19:45:24 ET]   + FILING: 04-RC-386057 | RC | NAES Corporation
+[2026-06-16 19:45:25 ET]   + FILING: 04-CA-386154 | CA | Boyers Food Markets
+[2026-06-16 19:45:25 ET]   + FILING: 04-CA-386161 | CA | Palmer Foods/Fresh Grocer of Upper Darby Pa 19082
+[2026-06-16 19:45:26 ET]   + FILING: 04-CA-386164 | CA | United States Postal Service
+[2026-06-16 19:45:26 ET]   + FILING: 04-CA-386182 | CA | United States Postal Service
+[2026-06-16 19:45:26 ET]   + FILING: 04-CA-386211 | CA | Mack Trucks, Remanufacturing
+[2026-06-16 19:45:27 ET]   + FILING: 04-CA-386227 | CA | Mack Trucks
+[2026-06-16 19:45:27 ET]   + FILING: 04-CA-386248 | CA | United States Postal Service
+[2026-06-16 19:45:27 ET]   + FILING: 04-CA-386260 | CA | Julius Silvert, Inc.
+[2026-06-16 19:45:28 ET]   + FILING: 04-CB-386147 | CB | UFCW Local Union 152 (Palmer Foods/Fresh Grocer of
+[2026-06-16 19:45:28 ET]   + FILING: 04-CB-386254 | CB | Teamsters Local 331(United Parcel Service)
+[2026-06-16 19:45:28 ET]   + FILING: 04-RC-386150 | RC | Univar Solutions USA LLC
+[2026-06-16 19:45:29 ET]   + FILING: 04-RC-386203 | RC | ABM
+[2026-06-16 19:45:29 ET]   + FILING: 04-CB-386304 | CB | IBEW Local Union 98 (Various Employers)
+[2026-06-16 19:45:30 ET]   + FILING: 04-CA-386363 | CA | Walgreens Co.
+[2026-06-16 19:45:30 ET]   + FILING: 04-CB-386263 | CB | United Automobile, Aerospace and Agricultural Impl
+[2026-06-16 19:45:30 ET]   + FILING: 04-CB-386264 | CB | Teamsters Local 384 (United Parcel Service)
+[2026-06-16 19:45:31 ET]   + FILING: 04-RC-386470 | RC | Atelier Art Services Inc. and Atelier Art Storage 
+[2026-06-16 19:45:31 ET]   + FILING: 04-RD-386551 | RD | Defender Association of Philadelphia
+[2026-06-16 19:45:31 ET]   + FILING: 04-RD-386553 | RD | Wells Fargo Bank, NA
+[2026-06-16 19:45:32 ET]   + FILING: 04-CA-386600 | CA | Cushman & Wakefield
+[2026-06-16 19:45:32 ET]   + FILING: 04-CA-386613 | CA | Kemper
+[2026-06-16 19:45:32 ET]   + FILING: 04-CA-386641 | CA | United States Postal Service
+[2026-06-16 19:45:33 ET]   + FILING: 04-CA-386646 | CA | United States Postal Service
+[2026-06-16 19:45:33 ET]   + FILING: 04-CG-386673 | CG | Teamsters Local Union 771(Lancaster Behavioral Hea
+[2026-06-16 19:45:33 ET]   + FILING: 04-RC-386651 | RC | Pediatric Specialty Care
+[2026-06-16 19:45:34 ET]   + FILING: 04-CA-386753 | CA | American Red Cross Blood Services, Northeastern Pe
+[2026-06-16 19:45:34 ET]   + FILING: 04-CA-386787 | CA | United States Postal Service
+[2026-06-16 19:45:35 ET]   + FILING: 04-CA-386820 | CA | JEVS Human Services
+[2026-06-16 19:45:35 ET]   + FILING: 04-CA-386825 | CA | Comcast (CC) of Willow Grove
+[2026-06-16 19:45:35 ET]   + FILING: 04-RC-386761 | RC | Philadelphia Federation of Teachers
+[2026-06-16 19:45:36 ET]   + FILING: 04-CB-386873 | CB | GETUP-UAW Local 5124 (The Trustees of the Universi
+[2026-06-16 19:45:36 ET]   + FILING: 04-CA-387020 | CA | Union League Liberty Hill LLC
+[2026-06-16 19:45:36 ET]   + FILING: 04-CB-386982 | CB | National Association of Letter Carriers
+[2026-06-16 19:45:37 ET]   + FILING: 04-CB-387015 | CB | National Association of Letter Carriers (United St
+[2026-06-16 19:45:37 ET]   + FILING: 04-CA-387120 | CA | United States Postal Service
+[2026-06-16 19:45:38 ET]   + FILING: 04-CA-387126 | CA | Treehouse Private Brands, Inc
+[2026-06-16 19:45:38 ET]   + FILING: 04-CA-387185 | CA | Jefferson Einstein Philadelphia
+[2026-06-16 19:45:38 ET]   + FILING: 04-CA-387190 | CA | Jefferson Einstein Philadelphia
+[2026-06-16 19:45:39 ET]   + FILING: 04-CA-387192 | CA | Tastykake Baking Company
+[2026-06-16 19:45:39 ET]   + FILING: 04-CB-387194 | CB | BCTGM, Local 492 (Tastykake Baking Company)
+[2026-06-16 19:45:40 ET]   + FILING: 04-CA-387278 | CA | ChildFirst Services, Inc.
+[2026-06-16 19:45:40 ET]   + FILING: 04-CC-387273 | CC | The Philadelphia Musicians' Union, Local 77-274, A
+[2026-06-16 19:45:40 ET]   + FILING: 04-RC-387224 | RC | Acreage CCF NJ LLC
+[2026-06-16 19:45:41 ET]   + FILING: 04-CA-387348 | CA | BBC Management Services Inc. / B. Blair Corp.
+[2026-06-16 19:45:41 ET]   + FILING: 04-CB-387365 | CB | American Postal Workers Union (United States Posta
+[2026-06-16 19:45:41 ET]   + FILING: 04-RD-387322 | RD | Phoenix Logistics, LLC
+[2026-06-16 19:45:42 ET]   + FILING: 04-CB-387420 | CB | International Association of Machinists and Aerosp
+[2026-06-16 19:45:42 ET]   + FILING: 04-CA-387485 | CA | BrandSafway Services LLC
+[2026-06-16 19:45:43 ET]   + FILING: 04-CA-387512 | CA | Aramark
+[2026-06-16 19:45:43 ET]   + FILING: 04-CA-387523 | CA | C.F Arci & Son
+[2026-06-16 19:45:44 ET]   + FILING: 04-CE-387597 | CE | The Philadelphia Musicians' Union, Local 77-274, A
+[2026-06-16 19:45:44 ET]   + FILING: 04-CA-387689 | CA | Wilsbach Distributers, Inc.
+[2026-06-16 19:45:45 ET]   + FILING: 04-CB-387682 | CB | Unite Here Local 274 (Hilton Garden Inn Philadelph
+[2026-06-16 19:45:45 ET]   + FILING: 04-CB-387703 | CB | UFCW Local 27 (Giant Food)
+[2026-06-16 19:45:45 ET]   + FILING: 04-RD-387713 | RD | Lankenau Medical Center - Main Line Health
+[2026-06-16 19:45:46 ET]   + FILING: 04-CA-387836 | CA | BBC Management Services, LLC / B. Blair Corporatio
+[2026-06-16 19:45:46 ET]   + FILING: 04-CB-387936 | CB | Winslow Township Education Association
+[2026-06-16 19:45:47 ET]   + FILING: 04-CA-387945 | CA | Summerwood Tacobell
+[2026-06-16 19:45:47 ET]   + FILING: 04-CA-387946 | CA | Hard Rock Hotel and Casino
+[2026-06-16 19:45:47 ET]   + FILING: 04-CA-387957 | CA | Jefferson Health Northeast- Bucks Campus
+[2026-06-16 19:45:48 ET]   + FILING: 04-CA-388033 | CA | Cushman & Wakefield
+[2026-06-16 19:45:48 ET]   + FILING: 04-CA-388035 | CA | Drexel University
+[2026-06-16 19:45:49 ET]   + FILING: 04-CB-387959 | CB | Federation of Teachers Staff Union, Local 4, AFL-C
+[2026-06-16 19:45:49 ET]   + FILING: 04-RM-388136 | RM | Acme Markets, Inc.
+[2026-06-16 19:45:49 ET]   + FILING: 04-CB-388284 | CB | International Association of Machinist and Aerospa
+[2026-06-16 19:45:50 ET]   + FILING: 04-CA-388315 | CA | Liguori Academy
+[2026-06-16 19:45:50 ET]   + FILING: 04-CA-388395 | CA | Whole Foods Market Group, Inc.
+[2026-06-16 19:45:51 ET]   + FILING: 04-CA-388409 | CA | Whole Foods Market Group, Inc.
+[2026-06-16 19:45:51 ET]   + FILING: 04-CA-388390 | CA | Virtua Memorial, Mt Holly
+[2026-06-16 19:45:51 ET]   + FILING: 04-CA-388459 | CA | Philadelphia Federation of Teachers, Local 3, AFL-
+[2026-06-16 19:45:52 ET]   + FILING: 04-CB-388455 | CB | USW Local 10-286 (Philadelphia Federation of Teach
+[2026-06-16 19:45:52 ET]   + FILING: 04-CA-388510 | CA | The Boeing Company
+[2026-06-16 19:45:52 ET]   + FILING: 04-CA-388541 | CA | Kerry Ingredients
+[2026-06-16 19:45:53 ET]   + FILING: 04-CA-388571 | CA | ISS
+[2026-06-16 19:45:53 ET]   + FILING: 04-RD-388660 | RD | Wells Fargo, NA
+[2026-06-16 19:45:53 ET]   + FILING: 04-UC-388553 | UC | Westport Axle
+[2026-06-16 19:45:54 ET]   + FILING: 04-CA-388655 | CA | CRC Industries
+[2026-06-16 19:45:54 ET]   + FILING: 04-CA-388667 | CA | Pepperidge Farm
+[2026-06-16 19:45:55 ET]   + FILING: 04-CA-388705 | CA | ACME/Albertson's
+[2026-06-16 19:45:55 ET]   + FILING: 04-CB-388645 | CB | Chocolate Workers Union Local 464 (Milton Hershey 
+[2026-06-16 19:45:55 ET]   + FILING: 04-CA-388739 | CA | United States Postal Service
+[2026-06-16 19:45:56 ET]   + FILING: 04-CA-388751 | CA | United States Postal Service
+[2026-06-16 19:45:56 ET]   + FILING: 04-CA-388794 | CA | Shibam Philly
+[2026-06-16 19:45:56 ET]   + FILING: 04-RC-388795 | RC | Center City District
+[2026-06-16 19:45:57 ET]   + FILING: 04-CA-388815 | CA | EnergySolutions, LLC
+[2026-06-16 19:45:57 ET]   + FILING: 04-RC-388814 | RC | QVC, Inc.
+[2026-06-16 19:45:57 ET]   + FILING: 04-CA-388828 | CA | Treehouse Foods / Treehouse Private Brands, Inc
+[2026-06-16 19:45:57 ET]   filings: 363 new
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-368774 | Regional Director Decision | 2026-01-06 | B. W. Wilson Paper Company, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-311903 | Board Decision | 2026-01-08 | Fields Fire Protection, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376099 | Certification of Representative | 2026-01-13 | Inspira Medical Centers, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-371470 | Regional Director Decision | 2026-01-14 | Interstate Waste Services
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-375291 | Election Results Certified | 2026-01-15 | Paragon Professional Services LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376329 | Certification of Representative | 2026-01-21 | Tropicana Atlantic City Corp.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RM-376238 | Certification of Representative | 2026-01-21 | Tropicana Atlantic City Corp.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376683 | Election Results Certified | 2026-01-22 | Lehigh Anthracite Coal, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-366220 | Election Results Certified | 2026-01-23 | Sysco USA III, LLC d/b/a Sysco Allentown
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-377838 | Certification of Representative | 2026-01-29 | Esperanza Academy Charter School
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376082 | Regional Director Decision | 2026-02-04 | Frito-Lay North America, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376445 | Regional Director Decision | 2026-02-04 | Samaritan Healthcare & Hospice, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376082 | Regional Director Decision | 2026-02-05 | Frito-Lay North America, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-377839 | Certification of Representative | 2026-02-06 | Starbucks Corporation
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-380380 | Regional Director Decision | 2026-02-10 | Interstate Waste Services
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-377587 | Certification of Representative | 2026-02-11 | Chester Elite Trans, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-379361 | Certification of Representative | 2026-02-20 | A J Jersey, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-379268 | Certification of Representative | 2026-02-25 | STA of Pennsylvania, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-379267 | Certification of Representative | 2026-02-25 | Temple University Hospital, Inc. d/b/a T
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-309188 | Board Decision | 2026-02-27 | New World Construction, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-378935 | Certification of Representative | 2026-02-27 | GateHouse Media Pennsylvania Holdings, I
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-379296 | Election Results Certified | 2026-02-27 | Genserve Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376082 | Election Results Certified | 2026-02-27 | Frito-Lay North America, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-305091 | Board Decision | 2026-02-27 | New World Construction, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-305821 | Board Decision | 2026-02-27 | New World Construction, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-378338 | Certification of Representative | 2026-03-02 | Inspira Medical Centers, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-378569 | Certification of Representative | 2026-03-02 | The Berks Packing Company, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-379702 | Certification of Representative | 2026-03-20 | Inspira Medical Centers Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-380688 | Election Results Certified | 2026-03-20 | Ryder Truck Rental, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-380691 | Election Results Certified | 2026-03-23 | Clifford Hill Sanitation Services, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-376445 | Certification of Representative | 2026-03-23 | Samaritan Healthcare & Hospice, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-315904 | Board Decision | 2026-03-23 | United Scrap Metal PA, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-380580 | Certification of Representative | 2026-03-27 | Genserve, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CA-340084 | Board Decision | 2026-03-27 | Forepeak Steel, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-381727 | Certification of Representative | 2026-04-01 | PECO Energy Company
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RM-380713 | Certification of Representative | 2026-04-03 | Bryn Athyn Fire Company
+[2026-06-16 19:45:58 ET]   + DECISION: 04-CB-280810 | Board Decision | 2026-04-07 | International Longshoremen's Association
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-367692 | Regional Director Decision | 2026-04-15 | Atlantic Recovery Services, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-382883 | Certification of Representative | 2026-04-16 | Reach Climbing and Fitness, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RM-383078 | Certification of Representative | 2026-04-22 | The Trustees of the University of Pennsy
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-367692 | Board Decision | 2026-04-29 | Atlantic Recovery Services, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RD-382689 | Certification of Representative | 2026-04-30 | Meritus Solutions Group LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-383376 | Certification of Representative | 2026-04-30 | Ambulnz PA, LLC
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-367692 | Election Results Certified | 2026-05-12 | Atlantic Recovery Services, Inc.
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-384678 | Certification of Representative | 2026-05-12 | Penn State Health Milton S. Hershey Medi
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-384337 | Election Results Certified | 2026-05-15 | Valtris Specialty Chemicals
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-384999 | Certification of Representative | 2026-05-27 | Universal Protection Service, LLC d/b/a/
+[2026-06-16 19:45:58 ET]   + DECISION: 04-RC-384402 | Certification of Representative | 2026-06-03 | Marina District Development Company, LLC
+[2026-06-16 19:45:58 ET]   decisions: 48 new
+[2026-06-16 19:45:58 ET] === Backfill done. 363 filings, 48 decisions. ===
+
+[2026-06-16 19:46:17 ET]   --no-download: reusing existing nlrb.db
+[2026-06-16 19:46:17 ET]   source DB freshness (max filing.updated_at): 2026-06-16 10:15:58
+[2026-06-16 19:46:17 ET] === NLRB poll (since 2026-06-16; filings≥2026-06-09, decisions≥2026-06-02, live=False) ===
+[2026-06-16 19:46:17 ET]   filings: 0 new
+[2026-06-16 19:46:17 ET]   decisions: 0 new
+[2026-06-16 19:46:17 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
+[2026-06-16 19:46:18 ET]   --no-download: reusing existing nlrb.db
+[2026-06-16 19:46:18 ET]   source DB freshness (max filing.updated_at): 2026-06-16 10:15:58
+[2026-06-16 19:46:18 ET] === NLRB poll (since 2026-06-16; filings≥2026-06-09, decisions≥2026-06-02, live=False) ===
+[2026-06-16 19:46:18 ET]   filings: 0 new
+[2026-06-16 19:46:18 ET]   decisions: 0 new
+[2026-06-16 19:46:18 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
+[2026-06-17 07:04:02 ET]   --no-download: reusing existing nlrb.db
+[2026-06-17 07:04:02 ET]   source DB freshness (max filing.updated_at): 2026-06-16 10:15:58
+[2026-06-17 07:04:02 ET] === NLRB poll (since 2026-06-16; filings≥2026-06-09, decisions≥2026-06-02, live=False) ===
+[2026-06-17 07:04:02 ET]   filings: 0 new
+[2026-06-17 07:04:03 ET]   decisions: 0 new
+[2026-06-17 07:04:03 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
+[2026-06-17 07:04:18 ET]   --no-download: reusing existing nlrb.db
+[2026-06-17 07:04:18 ET]   source DB freshness (max filing.updated_at): 2026-06-16 10:15:58
+[2026-06-17 07:04:18 ET] === NLRB poll (since 2026-06-17; filings≥2026-06-10, decisions≥2026-06-03, live=True) ===
+[2026-06-17 07:04:19 ET]   + FILING: 04-CA-388815 | CA | EnergySolutions, LLC
+[2026-06-17 07:04:19 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: EnergySolutions, LLC
+[2026-06-17 07:04:19 ET]   filings: 1 new
+[2026-06-17 07:04:19 ET]   decisions: 0 new
+[2026-06-17 07:04:19 ET] === Poll done. 1 new filings, 0 new decisions. ===
+

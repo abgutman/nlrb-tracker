@@ -1,0 +1,5 @@
+# Large source DB — downloaded fresh each run, never committed
+nlrb_data/nlrb.db
+nlrb_data/*.zip
+__pycache__/
+*.pyc

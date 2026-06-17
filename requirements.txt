@@ -1,0 +1,2 @@
+# poll_nlrb.py + build_nlrb_dashboard.py use only the Python standard library
+# (sqlite3, zipfile, json, urllib via curl subprocess). No third-party deps.

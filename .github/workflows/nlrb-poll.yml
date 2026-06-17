@@ -1,0 +1,67 @@
+name: NLRB Poll — Region 4 Filings & Decisions
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'backfill or poll'
+        required: true
+        default: 'poll'
+        type: choice
+        options:
+          - poll
+          - backfill
+      start_date:
+        description: 'Backfill start date (YYYY-MM-DD), default 2026-01-01'
+        required: false
+        default: '2026-01-01'
+      end_date:
+        description: 'Backfill end date (YYYY-MM-DD), default today'
+        required: false
+        default: ''
+  schedule:
+    - cron: '0 14 * * *'     # ~10:00 AM ET (daily) — after the nightly DB build
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run NLRB scanner
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'poll' }}"
+          if [ "$MODE" = "poll" ]; then
+            python poll_nlrb.py poll --live
+          else
+            START="${{ github.event.inputs.start_date || '2026-01-01' }}"
+            END="${{ github.event.inputs.end_date }}"
+            CMD="python poll_nlrb.py backfill --start=$START"
+            [ -n "$END" ] && CMD="$CMD --end=$END"
+            $CMD
+          fi
+          python build_nlrb_dashboard.py
+
+      - name: Commit + push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nlrb_data/cases.json nlrb_data/decisions.json nlrb_data/scan_state.json nlrb_data/poll_nlrb_log.txt nlrb_dashboard.html 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: NLRB poll $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
