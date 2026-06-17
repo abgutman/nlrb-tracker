@@ -446,3 +446,25 @@
 [2026-06-17 07:04:19 ET]   decisions: 0 new
 [2026-06-17 07:04:19 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-06-17 07:11:44 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-17 07:11:51 ET]   DB ready: nlrb.db (1009 MB)
+[2026-06-17 07:11:51 ET]   source DB freshness (max filing.updated_at): 2026-06-17 09:46:07
+[2026-06-17 07:11:51 ET] === NLRB poll (since 2026-06-17; filings≥2026-06-10, decisions≥2026-06-03, live=True) ===
+[2026-06-17 07:11:51 ET]   + FILING: 04-CA-388905 | CA | Zarko Enterprises Inc.
+[2026-06-17 07:11:51 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: Zarko Enterprises Inc.
+[2026-06-17 07:11:51 ET]   + FILING: 04-CB-388902 | CB | United Service Workers Union (USWU),  IUJAT, Local
+[2026-06-17 07:11:51 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: United Service Workers Union (USWU),  IUJAT, Local 339 (Zarko Enterprises Inc.)
+[2026-06-17 07:11:52 ET]   + FILING: 04-CA-388892 | CA | The Whitestone Group
+[2026-06-17 07:11:52 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: The Whitestone Group
+[2026-06-17 07:11:52 ET]   + FILING: 04-CA-388927 | CA | Penn State Milton S Hershey Medical Center - Life 
+[2026-06-17 07:11:52 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: Penn State Milton S Hershey Medical Center - Life Lion EMS
+[2026-06-17 07:11:53 ET]   + FILING: 04-CA-388943 | CA | Rogers Memorial Hospital, Inc.; Rogers Behavioral 
+[2026-06-17 07:11:53 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: Rogers Memorial Hospital, Inc.; Rogers Behavioral Health Practice - Philadelphia
+[2026-06-17 07:11:53 ET]   + FILING: 04-CA-388944 | CA | GF Hospitality PHI HGI LLC d/b/a Hilton Garden Inn
+[2026-06-17 07:11:53 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: GF Hospitality PHI HGI LLC d/b/a Hilton Garden Inn Philadelphia Center City
+[2026-06-17 07:11:53 ET]   + FILING: 04-CA-388945 | CA | United Parcel Service
+[2026-06-17 07:11:53 ET] ⚠ No Gmail creds; would have sent: 🪧 New NLRB ULP charge: United Parcel Service
+[2026-06-17 07:11:53 ET]   filings: 7 new
+[2026-06-17 07:11:54 ET]   decisions: 0 new
+[2026-06-17 07:11:54 ET] === Poll done. 7 new filings, 0 new decisions. ===
+
