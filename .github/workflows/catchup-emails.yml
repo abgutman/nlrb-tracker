@@ -1,0 +1,31 @@
+name: NLRB Catchup Emails (one-off)
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Email an alert for every filing on/after this date (YYYY-MM-DD)'
+        required: true
+        default: '2026-06-15'
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Send catchup emails
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python send_catchup.py --since=${{ github.event.inputs.since }}
