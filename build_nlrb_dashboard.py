@@ -114,6 +114,9 @@ def build():
   .stat-card {{ background:white; border-radius:8px; padding:18px 24px; flex:1; min-width:140px; box-shadow:0 1px 3px rgba(0,0,0,0.06); }}
   .stat-card .num {{ font-size:28px; font-weight:700; color:{PRIMARY}; }}
   .stat-card .label {{ font-size:13px; color:#6c757d; margin-top:4px; }}
+  .banner {{ background:#fff8e6; border:1px solid #f0d98c; border-left:4px solid #d9a300; border-radius:8px; padding:14px 18px; margin-bottom:20px; font-size:13px; line-height:1.6; color:#5c4a00; }}
+  .banner strong {{ color:#3d3100; }}
+  .banner a {{ color:#8a6d00; font-weight:600; }}
   .tabs {{ display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap; }}
   .tab {{ background:white; border:1px solid #dde1e6; color:#495057; padding:8px 16px; border-radius:20px; font-size:13px; font-weight:600; cursor:pointer; }}
   .tab.active {{ background:{PRIMARY}; color:white; border-color:{PRIMARY}; }}
@@ -146,6 +149,15 @@ def build():
 </div>
 
 <div class="container">
+
+<div class="banner">
+  <strong>How this works &amp; data lag:</strong> Filings and decisions are mirrored nightly from the NLRB's own case data via the open-source
+  <a href="https://github.com/labordata/nlrb-data" target="_blank">labordata/nlrb-data</a> project, then refreshed on this page each morning (~8 a.m. ET).
+  Because the mirror rebuilds overnight, the data typically runs <strong>24&ndash;36 hours behind</strong> the live NLRB site &mdash; a charge or petition
+  filed today usually appears here within a day or two. Coverage is limited to <strong>NLRB Region&nbsp;4 (Philadelphia)</strong>: eastern Pennsylvania,
+  southern New Jersey, and Delaware. Always confirm details against the official case record at
+  <a href="https://www.nlrb.gov" target="_blank">nlrb.gov</a> before publishing.
+</div>
 
 <div class="summary">
   <div class="stat-card"><div class="num">{len(filings)}</div><div class="label">Cases tracked</div></div>
