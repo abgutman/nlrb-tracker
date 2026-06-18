@@ -8225,5 +8225,72 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-06-16",
   "captured_at": "2026-06-17T07:11:53-04:00"
+ },
+ "04-CA-388965": {
+  "case_number": "04-CA-388965",
+  "name": "Luzerne County Veterans Affairs",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Luzerne County Veterans Affairs",
+  "union": null,
+  "city": "Wilkes-Barre",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-388965",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-16",
+  "captured_at": "2026-06-18T10:50:09-04:00"
+ },
+ "04-CB-388964": {
+  "case_number": "04-CB-388964",
+  "name": "AFSCME Council 13 (Luzerne County Veterans Affairs)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Luzerne County Veterans Affairs",
+  "union": "AFSCME Council 13",
+  "city": "Wilkes-Barre",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-388964",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-06-16",
+  "captured_at": "2026-06-18T10:50:12-04:00"
+ },
+ "04-CB-388980": {
+  "case_number": "04-CB-388980",
+  "name": "International Brotherhood of Electrical Workers Local 614 (PECO Energy Company)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Peco Energy Company",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(2) Union Security Related Actions",
+   "8(b)(1)(A) Coercion, incl'g Statements and Violence"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-388980",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-06-17",
+  "captured_at": "2026-06-18T10:50:14-04:00"
  }
 }

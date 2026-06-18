@@ -484,3 +484,17 @@
 [2026-06-17 10:54:29 ET]   decisions: 0 new
 [2026-06-17 10:54:29 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-06-18 10:50:05 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-18 10:50:09 ET]   DB ready: nlrb.db (1009 MB)
+[2026-06-18 10:50:09 ET]   source DB freshness (max filing.updated_at): 2026-06-18 09:36:27
+[2026-06-18 10:50:09 ET] === NLRB poll (since 2026-06-17; filings≥2026-06-10, decisions≥2026-06-03, live=True) ===
+[2026-06-18 10:50:09 ET]   + FILING: 04-CA-388965 | CA | Luzerne County Veterans Affairs
+[2026-06-18 10:50:12 ET]   + FILING: 04-CB-388964 | CB | AFSCME Council 13 (Luzerne County Veterans Affairs
+[2026-06-18 10:50:14 ET]   + FILING: 04-CB-388980 | CB | International Brotherhood of Electrical Workers Lo
+[2026-06-18 10:50:17 ET]   filings: 3 new
+[2026-06-18 10:50:17 ET]   + DECISION: 04-RC-386057 | Election Results Certified | 2026-06-09 | NAES Corporation
+[2026-06-18 10:50:19 ET]   + DECISION: 04-RC-355267 | Board Decision | 2026-06-15 | Whole Foods Market Group, Inc.
+[2026-06-18 10:50:21 ET]   + DECISION: 04-RC-386150 | Certification of Representative | 2026-06-17 | Univar Solutions USA LLC
+[2026-06-18 10:50:23 ET]   decisions: 3 new
+[2026-06-18 10:50:23 ET] === Poll done. 3 new filings, 3 new decisions. ===
+

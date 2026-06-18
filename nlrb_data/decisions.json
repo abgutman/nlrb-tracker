@@ -574,5 +574,41 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458428de07",
   "captured_at": "2026-06-16T19:45:58-04:00"
+ },
+ "04-RC-386057::2026-06-09::a9a3": {
+  "case_number": "04-RC-386057",
+  "name": "NAES Corporation",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Election Results Certified",
+  "date": "2026-06-09",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842ba2e3",
+  "captured_at": "2026-06-18T10:50:17-04:00"
+ },
+ "04-RC-355267::2026-06-15::1598": {
+  "case_number": "04-RC-355267",
+  "name": "Whole Foods Market Group, Inc.",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Board Decision",
+  "date": "2026-06-15",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842c4db6",
+  "captured_at": "2026-06-18T10:50:19-04:00"
+ },
+ "04-RC-386150::2026-06-17::82aa": {
+  "case_number": "04-RC-386150",
+  "name": "Univar Solutions USA LLC",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Certification of Representative",
+  "date": "2026-06-17",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842c76f0",
+  "captured_at": "2026-06-18T10:50:21-04:00"
  }
 }
