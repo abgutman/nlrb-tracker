@@ -498,3 +498,12 @@
 [2026-06-18 10:50:23 ET]   decisions: 3 new
 [2026-06-18 10:50:23 ET] === Poll done. 3 new filings, 3 new decisions. ===
 
+[2026-06-19 10:45:10 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-19 10:45:14 ET]   DB ready: nlrb.db (1009 MB)
+[2026-06-19 10:45:14 ET]   source DB freshness (max filing.updated_at): 2026-06-19 09:59:01
+[2026-06-19 10:45:14 ET] === NLRB poll (since 2026-06-18; filings≥2026-06-11, decisions≥2026-06-04, live=True) ===
+[2026-06-19 10:45:14 ET]   + FILING: 04-RC-389103 | RC | Atlantic Aviation (PNE)
+[2026-06-19 10:45:16 ET]   filings: 1 new
+[2026-06-19 10:45:16 ET]   decisions: 0 new
+[2026-06-19 10:45:16 ET] === Poll done. 1 new filings, 0 new decisions. ===
+

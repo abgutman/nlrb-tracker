@@ -8292,5 +8292,25 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-06-17",
   "captured_at": "2026-06-18T10:50:14-04:00"
+ },
+ "04-RC-389103": {
+  "case_number": "04-RC-389103",
+  "name": "Atlantic Aviation (PNE)",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Atlantic Aviation (PNE)",
+  "union": "IAM Union",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-18",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-389103",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-06-18",
+  "captured_at": "2026-06-19T10:45:14-04:00"
  }
 }
