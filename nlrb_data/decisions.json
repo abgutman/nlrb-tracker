@@ -610,5 +610,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842c76f0",
   "captured_at": "2026-06-18T10:50:21-04:00"
+ },
+ "04-RD-386551::2026-06-18::82aa": {
+  "case_number": "04-RD-386551",
+  "name": "Defender Association of Philadelphia",
+  "kind": "Representation",
+  "case_code": "RD",
+  "decision_type": "Certification of Representative",
+  "date": "2026-06-18",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842c7756",
+  "captured_at": "2026-06-20T09:42:17-04:00"
  }
 }

@@ -507,3 +507,12 @@
 [2026-06-19 10:45:16 ET]   decisions: 0 new
 [2026-06-19 10:45:16 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-06-20 09:42:12 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-20 09:42:17 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-20 09:42:17 ET]   source DB freshness (max filing.updated_at): 2026-06-20 08:33:28
+[2026-06-20 09:42:17 ET] === NLRB poll (since 2026-06-19; filings≥2026-06-12, decisions≥2026-06-05, live=True) ===
+[2026-06-20 09:42:17 ET]   filings: 0 new
+[2026-06-20 09:42:17 ET]   + DECISION: 04-RD-386551 | Certification of Representative | 2026-06-18 | Defender Association of Philadelphia
+[2026-06-20 09:42:19 ET]   decisions: 1 new
+[2026-06-20 09:42:19 ET] === Poll done. 0 new filings, 1 new decisions. ===
+
