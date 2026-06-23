@@ -532,3 +532,21 @@
 [2026-06-22 12:30:53 ET]   decisions: 0 new
 [2026-06-22 12:30:53 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-06-23 10:30:19 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-23 10:30:24 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-23 10:30:25 ET]   source DB freshness (max filing.updated_at): 2026-06-23 08:40:31
+[2026-06-23 10:30:25 ET] === NLRB poll (since 2026-06-22; filings≥2026-06-15, decisions≥2026-06-08, live=True) ===
+[2026-06-23 10:30:25 ET]   + FILING: 04-CB-389154 | CB | BCTGM Local 464 (The Hershey Company)
+[2026-06-23 10:30:27 ET]   + FILING: 04-CA-389142 | CA | United States Postal Service
+[2026-06-23 10:30:29 ET]   + FILING: 04-CA-389170 | CA | Tusk Industrial LLC
+[2026-06-23 10:30:31 ET]   + FILING: 04-CA-389190 | CA | JP Morgan Chase
+[2026-06-23 10:30:32 ET]   + FILING: 04-CA-389198 | CA | Philadelphia Federation of Teachers, Local 3, AFL-
+[2026-06-23 10:30:34 ET]   + FILING: 04-CA-389210 | CA | Wells Fargo Bank, N.A.
+[2026-06-23 10:30:35 ET]   + FILING: 04-CA-389215 | CA | Wells Fargo Bank, N.A.
+[2026-06-23 10:30:37 ET]   + FILING: 04-CB-389139 | CB | Bakery, Confectionery, Tobacco Workers, and Grain 
+[2026-06-23 10:30:39 ET]   + FILING: 04-CB-389141 | CB | District 1199C NUHHCE (Complete Care, Harston Hall
+[2026-06-23 10:30:41 ET]   + FILING: 04-CB-389144 | CB | International Brotherhood of Electrical Workers Lo
+[2026-06-23 10:30:42 ET]   filings: 10 new
+[2026-06-23 10:30:43 ET]   decisions: 0 new
+[2026-06-23 10:30:43 ET] === Poll done. 10 new filings, 0 new decisions. ===
+
