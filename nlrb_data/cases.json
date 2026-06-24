@@ -8534,5 +8534,50 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-06-22",
   "captured_at": "2026-06-23T10:30:41-04:00"
+ },
+ "04-CB-389234": {
+  "case_number": "04-CB-389234",
+  "name": "National Association of Letter Carriers 157 Branch (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "National Association of Letter Carriers, 157 Branch",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(2) Union Security Related Actions",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access",
+   "8(b)(1)(A) Coercion, incl'g Statements and Violence"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-389234",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-23",
+  "captured_at": "2026-06-24T10:09:42-04:00"
+ },
+ "04-RC-389253": {
+  "case_number": "04-RC-389253",
+  "name": "Akdeniz Chemson Additives Inc",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Akdeniz Chemson Additives Inc.",
+  "union": "The International Chemical Workers Union Council of The United Food and Commercial Workers International Union AFL-CIO, CLC",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-389253",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-06-23",
+  "captured_at": "2026-06-24T10:09:45-04:00"
  }
 }

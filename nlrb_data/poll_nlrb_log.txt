@@ -550,3 +550,13 @@
 [2026-06-23 10:30:43 ET]   decisions: 0 new
 [2026-06-23 10:30:43 ET] === Poll done. 10 new filings, 0 new decisions. ===
 
+[2026-06-24 10:09:37 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-24 10:09:41 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-24 10:09:41 ET]   source DB freshness (max filing.updated_at): 2026-06-24 08:55:19
+[2026-06-24 10:09:41 ET] === NLRB poll (since 2026-06-23; filings≥2026-06-16, decisions≥2026-06-09, live=True) ===
+[2026-06-24 10:09:42 ET]   + FILING: 04-CB-389234 | CB | National Association of Letter Carriers 157 Branch
+[2026-06-24 10:09:45 ET]   + FILING: 04-RC-389253 | RC | Akdeniz Chemson Additives Inc
+[2026-06-24 10:09:47 ET]   filings: 2 new
+[2026-06-24 10:09:47 ET]   decisions: 0 new
+[2026-06-24 10:09:47 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
