@@ -560,3 +560,13 @@
 [2026-06-24 10:09:47 ET]   decisions: 0 new
 [2026-06-24 10:09:47 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-06-25 10:06:35 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-25 10:06:40 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-25 10:06:40 ET]   source DB freshness (max filing.updated_at): 2026-06-25 08:39:46
+[2026-06-25 10:06:40 ET] === NLRB poll (since 2026-06-24; filings≥2026-06-17, decisions≥2026-06-10, live=True) ===
+[2026-06-25 10:06:41 ET]   + FILING: 04-CB-389348 | CB | National Association of Letter Carriers (United St
+[2026-06-25 10:06:43 ET]   filings: 1 new
+[2026-06-25 10:06:43 ET]   + DECISION: 04-CA-368560 | Board Decision | 2026-06-23 | The Oil Man Corporation (d/b/a Enright &
+[2026-06-25 10:06:44 ET]   decisions: 1 new
+[2026-06-25 10:06:44 ET] === Poll done. 1 new filings, 1 new decisions. ===
+

@@ -622,5 +622,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842c7756",
   "captured_at": "2026-06-20T09:42:17-04:00"
+ },
+ "04-CA-368560::2026-06-23::1598": {
+  "case_number": "04-CA-368560",
+  "name": "The Oil Man Corporation (d/b/a Enright & Sons)",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-06-23",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842cc1c0",
+  "captured_at": "2026-06-25T10:06:43-04:00"
  }
 }

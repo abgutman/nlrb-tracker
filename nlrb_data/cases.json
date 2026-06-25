@@ -8579,5 +8579,28 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-06-23",
   "captured_at": "2026-06-24T10:09:45-04:00"
+ },
+ "04-CB-389348": {
+  "case_number": "04-CB-389348",
+  "name": "National Association of Letter Carriers (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "National Association of Letter Carriers",
+  "city": "Jim Thorpe",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-24",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-389348",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-06-24",
+  "captured_at": "2026-06-25T10:06:41-04:00"
  }
 }
