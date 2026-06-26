@@ -570,3 +570,13 @@
 [2026-06-25 10:06:44 ET]   decisions: 1 new
 [2026-06-25 10:06:44 ET] === Poll done. 1 new filings, 1 new decisions. ===
 
+[2026-06-26 10:05:53 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-26 10:06:00 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-26 10:06:00 ET]   source DB freshness (max filing.updated_at): 2026-06-26 08:51:55
+[2026-06-26 10:06:00 ET] === NLRB poll (since 2026-06-25; filings≥2026-06-18, decisions≥2026-06-11, live=True) ===
+[2026-06-26 10:06:01 ET]   + FILING: 04-CA-389426 | CA | Iherb LLC
+[2026-06-26 10:06:05 ET]   + FILING: 04-CA-389445 | CA | Tredyffrin Public Library
+[2026-06-26 10:06:08 ET]   filings: 2 new
+[2026-06-26 10:06:08 ET]   decisions: 0 new
+[2026-06-26 10:06:08 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

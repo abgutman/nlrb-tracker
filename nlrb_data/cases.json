@@ -8602,5 +8602,50 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-06-24",
   "captured_at": "2026-06-25T10:06:41-04:00"
+ },
+ "04-CA-389426": {
+  "case_number": "04-CA-389426",
+  "name": "Iherb LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Iherb LLC",
+  "union": null,
+  "city": "Easton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-24",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389426",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-24",
+  "captured_at": "2026-06-26T10:06:01-04:00"
+ },
+ "04-CA-389445": {
+  "case_number": "04-CA-389445",
+  "name": "Tredyffrin Public Library",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Tredyffrin Public Library",
+  "union": null,
+  "city": "Tredyffrin",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(4) Changes in Terms and Conditions of Employment",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389445",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-25",
+  "captured_at": "2026-06-26T10:06:05-04:00"
  }
 }
