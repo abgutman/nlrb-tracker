@@ -634,5 +634,17 @@
   "document": "Board Decision",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842cc1c0",
   "captured_at": "2026-06-25T10:06:43-04:00"
+ },
+ "04-RD-387322::2026-06-26::a9a3": {
+  "case_number": "04-RD-387322",
+  "name": "Phoenix Logistics, LLC",
+  "kind": "Representation",
+  "case_code": "RD",
+  "decision_type": "Election Results Certified",
+  "date": "2026-06-26",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842d7223",
+  "captured_at": "2026-06-27T09:14:10-04:00"
  }
 }
