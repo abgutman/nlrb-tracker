@@ -8670,5 +8670,47 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-06-26",
   "captured_at": "2026-06-27T09:14:08-04:00"
+ },
+ "04-CA-389573": {
+  "case_number": "04-CA-389573",
+  "name": "ACME/Albertson's",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "ACME/Albertson's",
+  "union": "Teamsters Local Union No. 771 a/w International Brotherhood of Teamsters",
+  "city": "Denver",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-26",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389573",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-26",
+  "captured_at": "2026-06-30T09:59:19-04:00"
+ },
+ "04-RC-389574": {
+  "case_number": "04-RC-389574",
+  "name": "Skyhop Global, LLC",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Skyhop Global, LLC",
+  "union": "Teamsters Local 623 a/w International Brotherhood of Teamsters",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-26",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-389574",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-06-30T09:59:21-04:00"
  }
 }

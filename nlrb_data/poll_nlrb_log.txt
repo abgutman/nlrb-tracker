@@ -606,3 +606,13 @@
 [2026-06-29 11:32:36 ET]   decisions: 0 new
 [2026-06-29 11:32:36 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-06-30 09:59:15 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-06-30 09:59:19 ET]   DB ready: nlrb.db (1010 MB)
+[2026-06-30 09:59:19 ET]   source DB freshness (max filing.updated_at): 2026-06-30 08:43:26
+[2026-06-30 09:59:19 ET] === NLRB poll (since 2026-06-29; filings≥2026-06-22, decisions≥2026-06-15, live=True) ===
+[2026-06-30 09:59:19 ET]   + FILING: 04-CA-389573 | CA | ACME/Albertson's
+[2026-06-30 09:59:21 ET]   + FILING: 04-RC-389574 | RC | Skyhop Global, LLC
+[2026-06-30 09:59:21 ET]   filings: 2 new
+[2026-06-30 09:59:21 ET]   decisions: 0 new
+[2026-06-30 09:59:21 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
