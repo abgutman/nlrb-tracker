@@ -8712,5 +8712,52 @@
   "latest_action": "",
   "latest_action_date": "",
   "captured_at": "2026-06-30T09:59:21-04:00"
+ },
+ "04-CA-389658": {
+  "case_number": "04-CA-389658",
+  "name": "Peninsula Accoustical Co.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Peninsula Accoustical Co.",
+  "union": null,
+  "city": "Smyrna",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Rules",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389658",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-29",
+  "captured_at": "2026-07-01T10:12:16-04:00"
+ },
+ "04-CA-389656": {
+  "case_number": "04-CA-389656",
+  "name": "Avis Budget Group",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Avis Budget Group",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389656",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-30",
+  "captured_at": "2026-07-01T10:12:18-04:00"
  }
 }
