@@ -626,3 +626,14 @@
 [2026-07-01 10:12:23 ET]   decisions: 0 new
 [2026-07-01 10:12:23 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-07-02 09:40:21 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-02 09:40:25 ET]   DB ready: nlrb.db (1011 MB)
+[2026-07-02 09:40:25 ET]   source DB freshness (max filing.updated_at): 2026-07-02 08:31:11
+[2026-07-02 09:40:25 ET] === NLRB poll (since 2026-07-01; filings≥2026-06-24, decisions≥2026-06-17, live=True) ===
+[2026-07-02 09:40:25 ET]   + FILING: 04-CA-389792 | CA | Preferred Care
+[2026-07-02 09:40:27 ET]   + FILING: 04-CA-389832 | CA | The Chamber Orchestra of Philadelphia
+[2026-07-02 09:40:28 ET]   + FILING: 04-CA-389839 | CA | United Parcel Service
+[2026-07-02 09:40:30 ET]   filings: 3 new
+[2026-07-02 09:40:30 ET]   decisions: 0 new
+[2026-07-02 09:40:30 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

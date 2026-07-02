@@ -8759,5 +8759,72 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-06-30",
   "captured_at": "2026-07-01T10:12:18-04:00"
+ },
+ "04-CA-389792": {
+  "case_number": "04-CA-389792",
+  "name": "Preferred Care",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Preferred Care",
+  "union": "UAW Amalgamated Local 2327",
+  "city": "Bridgeton",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-06-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389792",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-06-30",
+  "captured_at": "2026-07-02T09:40:25-04:00"
+ },
+ "04-CA-389832": {
+  "case_number": "04-CA-389832",
+  "name": "The Chamber Orchestra of Philadelphia",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Chamber Orchestra of Philadelphia",
+  "union": "American Federation of Musicians, Local 77-274",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389832",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-01",
+  "captured_at": "2026-07-02T09:40:27-04:00"
+ },
+ "04-CA-389839": {
+  "case_number": "04-CA-389839",
+  "name": "United Parcel Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United Parcel Service",
+  "union": "International Brotherhood of Teamsters, Local 776",
+  "city": "Middletown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389839",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-01",
+  "captured_at": "2026-07-02T09:40:28-04:00"
  }
 }
