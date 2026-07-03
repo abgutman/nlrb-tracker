@@ -637,3 +637,13 @@
 [2026-07-02 09:40:30 ET]   decisions: 0 new
 [2026-07-02 09:40:30 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-07-03 09:45:23 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-03 09:45:26 ET]   DB ready: nlrb.db (1011 MB)
+[2026-07-03 09:45:27 ET]   source DB freshness (max filing.updated_at): 2026-07-03 08:27:41
+[2026-07-03 09:45:27 ET] === NLRB poll (since 2026-07-02; filings≥2026-06-25, decisions≥2026-06-18, live=True) ===
+[2026-07-03 09:45:27 ET]   + FILING: 04-CA-389900 | CA | BI Foods LLC d/b/a Value Added Food
+[2026-07-03 09:45:29 ET]   + FILING: 04-CA-389911 | CA | Philadelphia Federation Of Teachers & PFT Health a
+[2026-07-03 09:45:29 ET]   filings: 2 new
+[2026-07-03 09:45:29 ET]   decisions: 0 new
+[2026-07-03 09:45:29 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

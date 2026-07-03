@@ -8826,5 +8826,55 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-07-01",
   "captured_at": "2026-07-02T09:40:28-04:00"
+ },
+ "04-CA-389900": {
+  "case_number": "04-CA-389900",
+  "name": "BI Foods LLC d/b/a Value Added Food",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "BI Foods LLC d/b/a Value Added Food",
+  "union": "United Food and Commercial Workers, AFL-CIO Local 152",
+  "city": "Pennsauken",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-02",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(5) Shutdown or Relocate (e.g. First National Maint.).Subcontract Work",
+   "8(a)(3) Changes in Terms and Conditions of Employment",
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389900",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-02",
+  "captured_at": "2026-07-03T09:45:27-04:00"
+ },
+ "04-CA-389911": {
+  "case_number": "04-CA-389911",
+  "name": "Philadelphia Federation Of Teachers & PFT Health and Welfare Fund",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Philadelphia Federation Of Teachers & PFT Health and Welfare Fund",
+  "union": "Teamsters Local 929",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-02",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(1) Interrogation (including Polling)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-389911",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-02",
+  "captured_at": "2026-07-03T09:45:29-04:00"
  }
 }
