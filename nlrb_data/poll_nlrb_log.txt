@@ -671,3 +671,21 @@
 [2026-07-06 11:14:08 ET]   decisions: 0 new
 [2026-07-06 11:14:08 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-07-07 10:09:59 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-07 10:10:04 ET]   DB ready: nlrb.db (1011 MB)
+[2026-07-07 10:10:04 ET]   source DB freshness (max filing.updated_at): 2026-07-07 08:36:29
+[2026-07-07 10:10:04 ET] === NLRB poll (since 2026-07-06; filings≥2026-06-29, decisions≥2026-06-22, live=True) ===
+[2026-07-07 10:10:05 ET]   + FILING: 04-CA-389954 | CA | Penske Truck Leasing Co.
+[2026-07-07 10:10:07 ET]   + FILING: 04-CA-389962 | CA | United States Postal Service
+[2026-07-07 10:10:09 ET]   + FILING: 04-CA-389999 | CA | United States Postal Service
+[2026-07-07 10:10:10 ET]   + FILING: 04-CA-390038 | CA | United States Postal Service
+[2026-07-07 10:10:12 ET]   + FILING: 04-CA-390048 | CA | Urban Outfitters
+[2026-07-07 10:10:14 ET]   + FILING: 04-CA-390051 | CA | Shibam Philly
+[2026-07-07 10:10:16 ET]   + FILING: 04-CA-390054 | CA | Treehouse Foods / Treehouse Private Brands, Inc
+[2026-07-07 10:10:19 ET]   + FILING: 04-CB-390010 | CB | International Brotherhood of Teamsters Local 463 (
+[2026-07-07 10:10:21 ET]   + FILING: 04-CB-390056 | CB | International Brotherhood of Electrical Workers Lo
+[2026-07-07 10:10:23 ET]   + FILING: 04-RC-390011 | RC | Whibco of New Jersey, Inc.
+[2026-07-07 10:10:25 ET]   filings: 10 new
+[2026-07-07 10:10:25 ET]   decisions: 0 new
+[2026-07-07 10:10:25 ET] === Poll done. 10 new filings, 0 new decisions. ===
+
