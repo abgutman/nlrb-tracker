@@ -713,3 +713,16 @@
 [2026-07-09 10:34:25 ET]   decisions: 0 new
 [2026-07-09 10:34:25 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-07-10 10:02:45 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-10 10:02:48 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-10 10:02:49 ET]   source DB freshness (max filing.updated_at): 2026-07-10 09:00:33
+[2026-07-10 10:02:49 ET] === NLRB poll (since 2026-07-09; filings≥2026-07-02, decisions≥2026-06-25, live=True) ===
+[2026-07-10 10:02:49 ET]   + FILING: 04-CB-390261 | CB | Pennsylvania Association of Staff Nurses & Allied 
+[2026-07-10 10:02:50 ET]   + FILING: 04-CB-390331 | CB | ILA Local 1291 (Greenwich Terminals, LLC)
+[2026-07-10 10:02:53 ET]   + FILING: 04-RC-390309 | RC | University of Pennsylvania New Bolton Center
+[2026-07-10 10:02:55 ET]   + FILING: 04-RC-390312 | RC | Alpha Century Security Inc.
+[2026-07-10 10:02:56 ET]   + FILING: 04-RM-390302 | RM | Pleasant Hospitality LLC d/b/a Four Points by Sher
+[2026-07-10 10:02:57 ET]   filings: 5 new
+[2026-07-10 10:02:57 ET]   decisions: 0 new
+[2026-07-10 10:02:57 ET] === Poll done. 5 new filings, 0 new decisions. ===
+
