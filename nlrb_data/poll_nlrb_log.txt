@@ -726,3 +726,12 @@
 [2026-07-10 10:02:57 ET]   decisions: 0 new
 [2026-07-10 10:02:57 ET] === Poll done. 5 new filings, 0 new decisions. ===
 
+[2026-07-11 08:58:21 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-11 08:58:28 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-11 08:58:29 ET]   source DB freshness (max filing.updated_at): 2026-07-11 07:03:50
+[2026-07-11 08:58:29 ET] === NLRB poll (since 2026-07-10; filings≥2026-07-03, decisions≥2026-06-26, live=True) ===
+[2026-07-11 08:58:29 ET]   + FILING: 04-RC-390404 | RC | University of Pennsylvania New Bolton Center Veter
+[2026-07-11 08:58:30 ET]   filings: 1 new
+[2026-07-11 08:58:31 ET]   decisions: 0 new
+[2026-07-11 08:58:31 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
