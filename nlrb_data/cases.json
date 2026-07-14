@@ -9222,5 +9222,95 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-07-10",
   "captured_at": "2026-07-11T08:58:29-04:00"
+ },
+ "04-CA-390472": {
+  "case_number": "04-CA-390472",
+  "name": "ShadowFax Logistics LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "ShadowFax Logistics LLC",
+  "union": null,
+  "city": "Harrisburg",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390472",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-13",
+  "captured_at": "2026-07-14T09:12:12-04:00"
+ },
+ "04-CA-390493": {
+  "case_number": "04-CA-390493",
+  "name": "CHH Community Health, Inc. d/b/a Chestnut Hill Hospital/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "CHH Community Health, Inc. d/b/a Chestnut Hill Hospital/Temple University Health System",
+  "union": "Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Weingarten"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390493",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-13",
+  "captured_at": "2026-07-14T09:12:18-04:00"
+ },
+ "04-CA-390500": {
+  "case_number": "04-CA-390500",
+  "name": "Pleasant Hospitality LLC d/b/a Four Points by Sheraton Northeast",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Pleasant Hospitality LLC d/b/a Four Points by Sheraton Northeast",
+  "union": "UNITE HERE Local 274",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)",
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390500",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-10",
+  "captured_at": "2026-07-14T09:12:20-04:00"
+ },
+ "04-CB-390497": {
+  "case_number": "04-CB-390497",
+  "name": "National Association of Letter Carriers (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "National Association of Letter Carriers",
+  "city": "Jim Thorpe",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-390497",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-13",
+  "captured_at": "2026-07-14T09:12:21-04:00"
  }
 }

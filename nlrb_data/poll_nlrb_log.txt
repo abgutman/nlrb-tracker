@@ -751,3 +751,15 @@
 [2026-07-13 10:09:28 ET]   decisions: 0 new
 [2026-07-13 10:09:28 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-07-14 09:12:03 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-14 09:12:11 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-14 09:12:11 ET]   source DB freshness (max filing.updated_at): 2026-07-14 07:03:16
+[2026-07-14 09:12:11 ET] === NLRB poll (since 2026-07-13; filings≥2026-07-06, decisions≥2026-06-29, live=True) ===
+[2026-07-14 09:12:12 ET]   + FILING: 04-CA-390472 | CA | ShadowFax Logistics LLC
+[2026-07-14 09:12:18 ET]   + FILING: 04-CA-390493 | CA | CHH Community Health, Inc. d/b/a Chestnut Hill Hos
+[2026-07-14 09:12:20 ET]   + FILING: 04-CA-390500 | CA | Pleasant Hospitality LLC d/b/a Four Points by Sher
+[2026-07-14 09:12:21 ET]   + FILING: 04-CB-390497 | CB | National Association of Letter Carriers (United St
+[2026-07-14 09:12:22 ET]   filings: 4 new
+[2026-07-14 09:12:22 ET]   decisions: 0 new
+[2026-07-14 09:12:22 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
