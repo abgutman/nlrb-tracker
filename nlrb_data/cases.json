@@ -9312,5 +9312,94 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-07-13",
   "captured_at": "2026-07-14T09:12:21-04:00"
+ },
+ "04-CA-390559": {
+  "case_number": "04-CA-390559",
+  "name": "Harrah's A.C. Operating Company LLC d/b/a Harrah's Resort",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Harrah's A.C Operating Company LLC d/b/a Harrah's Resort",
+  "union": null,
+  "city": "Atlantic City",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390559",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-14",
+  "captured_at": "2026-07-15T09:16:00-04:00"
+ },
+ "04-CA-390566": {
+  "case_number": "04-CA-390566",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Edgemoor",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390566",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-14",
+  "captured_at": "2026-07-15T09:16:02-04:00"
+ },
+ "04-CA-390598": {
+  "case_number": "04-CA-390598",
+  "name": "Junior's Mechanical Services",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Junior's Mechanical Services",
+  "union": null,
+  "city": "Egg Harbor Township",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390598",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-14",
+  "captured_at": "2026-07-15T09:16:04-04:00"
+ },
+ "04-CB-390563": {
+  "case_number": "04-CB-390563",
+  "name": "UNITE HERE Local 54 (Harrah's Atlantic City )",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Harrah's Atlantic City",
+  "union": "UNITE HERE Local 54",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-390563",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-14",
+  "captured_at": "2026-07-15T09:16:06-04:00"
  }
 }

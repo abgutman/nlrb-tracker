@@ -763,3 +763,15 @@
 [2026-07-14 09:12:22 ET]   decisions: 0 new
 [2026-07-14 09:12:22 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-07-15 09:15:55 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-15 09:16:00 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-15 09:16:00 ET]   source DB freshness (max filing.updated_at): 2026-07-15 07:10:55
+[2026-07-15 09:16:00 ET] === NLRB poll (since 2026-07-14; filings≥2026-07-07, decisions≥2026-06-30, live=True) ===
+[2026-07-15 09:16:00 ET]   + FILING: 04-CA-390559 | CA | Harrah's A.C. Operating Company LLC d/b/a Harrah's
+[2026-07-15 09:16:02 ET]   + FILING: 04-CA-390566 | CA | United States Postal Service
+[2026-07-15 09:16:04 ET]   + FILING: 04-CA-390598 | CA | Junior's Mechanical Services
+[2026-07-15 09:16:06 ET]   + FILING: 04-CB-390563 | CB | UNITE HERE Local 54 (Harrah's Atlantic City )
+[2026-07-15 09:16:08 ET]   filings: 4 new
+[2026-07-15 09:16:08 ET]   decisions: 0 new
+[2026-07-15 09:16:08 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
