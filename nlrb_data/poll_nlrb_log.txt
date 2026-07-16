@@ -775,3 +775,13 @@
 [2026-07-15 09:16:08 ET]   decisions: 0 new
 [2026-07-15 09:16:08 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-07-16 09:23:14 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-16 09:23:17 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-16 09:23:17 ET]   source DB freshness (max filing.updated_at): 2026-07-16 07:07:59
+[2026-07-16 09:23:17 ET] === NLRB poll (since 2026-07-15; filings≥2026-07-08, decisions≥2026-07-01, live=True) ===
+[2026-07-16 09:23:17 ET]   + FILING: 04-RC-390701 | RC | Albert Einstein Medical Center
+[2026-07-16 09:23:19 ET]   + FILING: 04-UC-390713 | UC | Elwyn/Elwyn's Davidson School
+[2026-07-16 09:23:21 ET]   filings: 2 new
+[2026-07-16 09:23:21 ET]   decisions: 0 new
+[2026-07-16 09:23:21 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
