@@ -785,3 +785,12 @@
 [2026-07-16 09:23:21 ET]   decisions: 0 new
 [2026-07-16 09:23:21 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-07-17 09:07:53 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-17 09:07:57 ET]   DB ready: nlrb.db (1012 MB)
+[2026-07-17 09:07:57 ET]   source DB freshness (max filing.updated_at): 2026-07-17 07:27:49
+[2026-07-17 09:07:57 ET] === NLRB poll (since 2026-07-16; filings≥2026-07-09, decisions≥2026-07-02, live=True) ===
+[2026-07-17 09:07:57 ET]   + FILING: 04-CA-390737 | CA | Ocean Casino Resort
+[2026-07-17 09:07:59 ET]   filings: 1 new
+[2026-07-17 09:07:59 ET]   decisions: 0 new
+[2026-07-17 09:07:59 ET] === Poll done. 1 new filings, 0 new decisions. ===
+

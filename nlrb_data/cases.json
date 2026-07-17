@@ -9441,5 +9441,28 @@
   "latest_action": "Signed UC Petition",
   "latest_action_date": "2026-07-15",
   "captured_at": "2026-07-16T09:23:19-04:00"
+ },
+ "04-CA-390737": {
+  "case_number": "04-CA-390737",
+  "name": "Ocean Casino Resort",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Ocean Casino Resort",
+  "union": null,
+  "city": "Atlantic City",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390737",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-16",
+  "captured_at": "2026-07-17T09:07:57-04:00"
  }
 }
