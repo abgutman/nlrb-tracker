@@ -794,3 +794,14 @@
 [2026-07-17 09:07:59 ET]   decisions: 0 new
 [2026-07-17 09:07:59 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-07-18 08:54:48 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-18 08:54:51 ET]   DB ready: nlrb.db (1013 MB)
+[2026-07-18 08:54:51 ET]   source DB freshness (max filing.updated_at): 2026-07-18 06:56:43
+[2026-07-18 08:54:51 ET] === NLRB poll (since 2026-07-17; filings≥2026-07-10, decisions≥2026-07-03, live=True) ===
+[2026-07-18 08:54:52 ET]   + FILING: 04-CA-390885 | CA | Calpine Mid-Atlantic Generation, LLC
+[2026-07-18 08:54:53 ET]   filings: 1 new
+[2026-07-18 08:54:53 ET]   + DECISION: 04-RM-388136 | Certification of Representative | 2026-07-16 | Acme Markets, Inc.
+[2026-07-18 08:54:54 ET]   + DECISION: 04-RD-388660 | Certification of Representative | 2026-07-16 | Wells Fargo Bank, N.A.
+[2026-07-18 08:54:54 ET]   decisions: 2 new
+[2026-07-18 08:54:54 ET] === Poll done. 1 new filings, 2 new decisions. ===
+

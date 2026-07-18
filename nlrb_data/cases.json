@@ -9464,5 +9464,27 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-07-16",
   "captured_at": "2026-07-17T09:07:57-04:00"
+ },
+ "04-CA-390885": {
+  "case_number": "04-CA-390885",
+  "name": "Calpine Mid-Atlantic Generation, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Calpine Mid-Atlantic Generation, LLC",
+  "union": "IBEW Local 1238",
+  "city": "Edgemoor",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-390885",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-17",
+  "captured_at": "2026-07-18T08:54:52-04:00"
  }
 }

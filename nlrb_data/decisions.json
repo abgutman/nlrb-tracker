@@ -646,5 +646,29 @@
   "document": "Certification of Results",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842d7223",
   "captured_at": "2026-06-27T09:14:10-04:00"
+ },
+ "04-RM-388136::2026-07-16::82aa": {
+  "case_number": "04-RM-388136",
+  "name": "Acme Markets, Inc.",
+  "kind": "Representation",
+  "case_code": "RM",
+  "decision_type": "Certification of Representative",
+  "date": "2026-07-16",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842fce23",
+  "captured_at": "2026-07-18T08:54:53-04:00"
+ },
+ "04-RD-388660::2026-07-16::82aa": {
+  "case_number": "04-RD-388660",
+  "name": "Wells Fargo Bank, N.A.",
+  "kind": "Representation",
+  "case_code": "RD",
+  "decision_type": "Certification of Representative",
+  "date": "2026-07-16",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842fce9b",
+  "captured_at": "2026-07-18T08:54:54-04:00"
  }
 }
