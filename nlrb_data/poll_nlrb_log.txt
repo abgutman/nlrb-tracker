@@ -821,3 +821,17 @@
 [2026-07-20 09:49:48 ET]   decisions: 0 new
 [2026-07-20 09:49:48 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-07-21 09:19:29 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-21 09:19:33 ET]   DB ready: nlrb.db (1013 MB)
+[2026-07-21 09:19:33 ET]   source DB freshness (max filing.updated_at): 2026-07-21 07:20:42
+[2026-07-21 09:19:33 ET] === NLRB poll (since 2026-07-20; filings≥2026-07-13, decisions≥2026-07-06, live=True) ===
+[2026-07-21 09:19:33 ET]   + FILING: 04-CA-390917 | CA | Pediatric Specialty Care D/B/A 3301 Henry Avenue O
+[2026-07-21 09:19:35 ET]   + FILING: 04-CB-390913 | CB | Teamsters Local 500 (Avis Budget Group)
+[2026-07-21 09:19:36 ET]   + FILING: 04-CA-390914 | CA | Ambulnz PA, LLC
+[2026-07-21 09:19:38 ET]   + FILING: 04-CA-390994 | CA | R.J. Schinner Co., Inc.
+[2026-07-21 09:19:39 ET]   + FILING: 04-CB-390961 | CB | United Food and Commercial Workers Local 360 (Cura
+[2026-07-21 09:19:41 ET]   + FILING: 04-UC-390933 | UC | Pennsylvania Association of Staff Nurses and Allie
+[2026-07-21 09:19:41 ET]   filings: 6 new
+[2026-07-21 09:19:42 ET]   decisions: 0 new
+[2026-07-21 09:19:42 ET] === Poll done. 6 new filings, 0 new decisions. ===
+
