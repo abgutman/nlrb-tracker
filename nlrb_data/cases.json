@@ -9619,5 +9619,95 @@
   "latest_action": "Signed UC Petition",
   "latest_action_date": "2026-07-17",
   "captured_at": "2026-07-21T09:19:41-04:00"
+ },
+ "04-CA-391077": {
+  "case_number": "04-CA-391077",
+  "name": "Greene Tweed & Co., Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Green Tweed & Co., Inc.",
+  "union": "The International Chemical Workers Union, Council of the UFCW Local 31T",
+  "city": "Kulpsville",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391077",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-21",
+  "captured_at": "2026-07-22T09:23:49-04:00"
+ },
+ "04-CA-391086": {
+  "case_number": "04-CA-391086",
+  "name": "Atlantic Expo Convention Services",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Atlantic Expo Convention Services",
+  "union": null,
+  "city": "Egg Harbor",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391086",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-21",
+  "captured_at": "2026-07-22T09:23:51-04:00"
+ },
+ "04-CA-391129": {
+  "case_number": "04-CA-391129",
+  "name": "Temple University Hospital/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Temple University Hospital/ Temple University Health System",
+  "union": "Temple University Hospital Nurses Association/PASNAP",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391129",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-21",
+  "captured_at": "2026-07-22T09:23:53-04:00"
+ },
+ "04-CB-391093": {
+  "case_number": "04-CB-391093",
+  "name": "International Union of Painter and Allied Trades (Atlantic Expo Convention Services)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Atlantic Expo Convention Services",
+  "union": "International Union of Painters and Allied Trades District Council 21, Local 277",
+  "city": "Springfield",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(2) Union Security Related Actions",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-391093",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-21",
+  "captured_at": "2026-07-22T09:23:55-04:00"
  }
 }
