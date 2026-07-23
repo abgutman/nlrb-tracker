@@ -9709,5 +9709,71 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-07-21",
   "captured_at": "2026-07-22T09:23:55-04:00"
+ },
+ "04-RC-391161": {
+  "case_number": "04-RC-391161",
+  "name": "First Student",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "First Student",
+  "union": "Teamsters Local 384 a/w the International Brotherhood of Teamsters",
+  "city": "King of Prussia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-391161",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-07-22",
+  "captured_at": "2026-07-23T09:26:41-04:00"
+ },
+ "04-CA-391153": {
+  "case_number": "04-CA-391153",
+  "name": "Roadie/UPS Innovations Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Roadie/UPS innovations inc",
+  "union": null,
+  "city": "Swedesboro",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-22",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391153",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-22",
+  "captured_at": "2026-07-23T09:26:43-04:00"
+ },
+ "04-CA-391183": {
+  "case_number": "04-CA-391183",
+  "name": "Saber Healthcare Holdings, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Saber Healthcare Holdings, LLC",
+  "union": "RWDSU Health and Benefit Fund",
+  "city": "Bristol (Township)",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-22",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391183",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-22",
+  "captured_at": "2026-07-23T09:26:45-04:00"
  }
 }

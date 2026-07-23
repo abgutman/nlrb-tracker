@@ -847,3 +847,14 @@
 [2026-07-22 09:23:56 ET]   decisions: 0 new
 [2026-07-22 09:23:56 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-07-23 09:26:37 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-23 09:26:41 ET]   DB ready: nlrb.db (1013 MB)
+[2026-07-23 09:26:41 ET]   source DB freshness (max filing.updated_at): 2026-07-23 07:19:16
+[2026-07-23 09:26:41 ET] === NLRB poll (since 2026-07-22; filings≥2026-07-15, decisions≥2026-07-08, live=True) ===
+[2026-07-23 09:26:41 ET]   + FILING: 04-RC-391161 | RC | First Student
+[2026-07-23 09:26:43 ET]   + FILING: 04-CA-391153 | CA | Roadie/UPS Innovations Inc.
+[2026-07-23 09:26:45 ET]   + FILING: 04-CA-391183 | CA | Saber Healthcare Holdings, LLC
+[2026-07-23 09:26:47 ET]   filings: 3 new
+[2026-07-23 09:26:47 ET]   decisions: 0 new
+[2026-07-23 09:26:47 ET] === Poll done. 3 new filings, 0 new decisions. ===
+
