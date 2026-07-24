@@ -858,3 +858,13 @@
 [2026-07-23 09:26:47 ET]   decisions: 0 new
 [2026-07-23 09:26:47 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-07-24 09:19:48 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-24 09:19:56 ET]   DB ready: nlrb.db (1013 MB)
+[2026-07-24 09:19:56 ET]   source DB freshness (max filing.updated_at): 2026-07-24 07:27:15
+[2026-07-24 09:19:56 ET] === NLRB poll (since 2026-07-23; filings≥2026-07-16, decisions≥2026-07-09, live=True) ===
+[2026-07-24 09:19:56 ET]   + FILING: 04-CA-391331 | CA | Jefferson Health Northeast - Bucks Campus
+[2026-07-24 09:19:58 ET]   + FILING: 04-RD-391343 | RD | Airgas
+[2026-07-24 09:19:59 ET]   filings: 2 new
+[2026-07-24 09:19:59 ET]   decisions: 0 new
+[2026-07-24 09:19:59 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
