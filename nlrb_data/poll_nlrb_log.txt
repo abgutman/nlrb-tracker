@@ -876,3 +876,17 @@
 [2026-07-25 09:04:32 ET]   decisions: 0 new
 [2026-07-25 09:04:32 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-07-26 09:00:46 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-26 09:00:54 ET]   DB ready: nlrb.db (1013 MB)
+[2026-07-26 09:00:54 ET]   source DB freshness (max filing.updated_at): 2026-07-26 07:29:19
+[2026-07-26 09:00:54 ET] === NLRB poll (since 2026-07-25; filings≥2026-07-18, decisions≥2026-07-11, live=True) ===
+[2026-07-26 09:00:54 ET]   + FILING: 04-CA-391392 | CA | Starbucks Corp
+[2026-07-26 09:00:56 ET]   + FILING: 04-CA-391401 | CA | United Parcel Service
+[2026-07-26 09:00:58 ET]   + FILING: 04-CB-391395 | CB | District 1199C National Union of Hospital and Heal
+[2026-07-26 09:01:00 ET]   filings: 3 new
+[2026-07-26 09:01:00 ET]   + DECISION: 04-RC-389103 | Election Results Certified | 2026-07-24 | Atlantic Aviation Flight Support, Inc. d
+[2026-07-26 09:01:02 ET]   + DECISION: 04-CA-338985 | Board Decision | 2026-07-24 | Everyone Can Achieve
+[2026-07-26 09:01:04 ET]   + DECISION: 04-CA-344415 | Board Decision | 2026-07-24 | Everyone Can Achieve
+[2026-07-26 09:01:05 ET]   decisions: 3 new
+[2026-07-26 09:01:05 ET] === Poll done. 3 new filings, 3 new decisions. ===
+

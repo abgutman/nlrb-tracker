@@ -670,5 +670,41 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45842fce9b",
   "captured_at": "2026-07-18T08:54:54-04:00"
+ },
+ "04-RC-389103::2026-07-24::a9a3": {
+  "case_number": "04-RC-389103",
+  "name": "Atlantic Aviation Flight Support, Inc. d/b/a Atlantic Aviation",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Election Results Certified",
+  "date": "2026-07-24",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458430cdb0",
+  "captured_at": "2026-07-26T09:01:00-04:00"
+ },
+ "04-CA-338985::2026-07-24::1598": {
+  "case_number": "04-CA-338985",
+  "name": "Everyone Can Achieve",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-24",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458430a8d6",
+  "captured_at": "2026-07-26T09:01:02-04:00"
+ },
+ "04-CA-344415::2026-07-24::1598": {
+  "case_number": "04-CA-344415",
+  "name": "Everyone Can Achieve",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-24",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458430a8d6",
+  "captured_at": "2026-07-26T09:01:04-04:00"
  }
 }

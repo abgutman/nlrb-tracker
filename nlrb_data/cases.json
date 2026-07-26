@@ -9817,5 +9817,72 @@
   "latest_action": "Signed RD Petition",
   "latest_action_date": "2026-07-23",
   "captured_at": "2026-07-24T09:19:58-04:00"
+ },
+ "04-CA-391392": {
+  "case_number": "04-CA-391392",
+  "name": "Starbucks Corp",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Starbucks Corp",
+  "union": "Workers United",
+  "city": "Dickson City",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391392",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-23",
+  "captured_at": "2026-07-26T09:00:54-04:00"
+ },
+ "04-CA-391401": {
+  "case_number": "04-CA-391401",
+  "name": "United Parcel Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United Parcel Service",
+  "union": null,
+  "city": "West Goshen",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391401",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-23",
+  "captured_at": "2026-07-26T09:00:56-04:00"
+ },
+ "04-CB-391395": {
+  "case_number": "04-CB-391395",
+  "name": "District 1199C National Union of Hospital and Health Care Employees (Aramark)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Aramark",
+  "union": "District 1199C National Union of Hospital and Health Care Employees",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-391395",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-23",
+  "captured_at": "2026-07-26T09:00:58-04:00"
  }
 }
