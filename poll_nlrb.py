@@ -35,10 +35,16 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from email_utils import (
-    send_email,
+    send_email, EMAIL_TO,
     subject_nlrb_filing, body_nlrb_filing,
     subject_nlrb_decision, body_nlrb_decision,
+    subject_nlrb_ulp_digest, body_nlrb_ulp_digest,
+    subject_nlrb_ulp_heartbeat, body_nlrb_ulp_heartbeat,
 )
+
+# ULP charges are batched into a weekly Monday digest; the quiet-week heartbeat
+# goes only here. Representation / election petitions still alert daily.
+WEEKLY_DIGEST_HEARTBEAT_TO = "agutman@inquirer.com"
 
 HERE = Path(__file__).parent
 ND = HERE / "nlrb_data"
@@ -266,7 +272,11 @@ def scan_filings(conn, filed_after, filed_before, live):
         new_hits += 1
         log(f"  + FILING: {cn} | {case_code(cn)} | {(r['name'] or '')[:50]}")
 
-        if live:
+        # ULP charges are batched into the Monday weekly digest, not emailed daily.
+        # Representation / election petitions (and any 'Other') still alert immediately.
+        if live and kind == "ULP":
+            log(f"    (ULP held for weekly digest — no immediate email)")
+        elif live:
             try:
                 send_email(
                     subject_nlrb_filing(r["name"] or cn, kind),
@@ -340,6 +350,70 @@ def scan_decisions(conn, since_date, live):
     log(f"  decisions: {new_hits} new")
     return new_hits
 
+# ── Weekly ULP digest ─────────────────────────────────────────────────────────
+
+def run_weekly_ulp(live):
+    """Monday roundup of new unfair-labor-practice charges.
+
+    ULP charges are captured daily by the poll scan but not emailed individually.
+    This selects every ULP case in cases.json not yet flagged `ulp_notified`,
+    sends ONE digest to the full list, then flags them. Self-healing: a missed
+    Monday just means the next run sweeps everything still un-notified. Quiet
+    weeks (nothing pending) send a heartbeat to Av only so he knows the job ran.
+    Representation / election petitions are unaffected. Reads cases.json only —
+    no labordata DB download needed.
+    """
+    cases = load_cases()
+    pending = [c for c in cases.values()
+               if c.get("kind") == "ULP" and not c.get("ulp_notified")]
+    pending.sort(key=lambda c: (c.get("date_filed") or "", c.get("case_number") or ""))
+
+    today_et   = datetime.now(ET)
+    week_start = today_et - timedelta(days=7)
+    week_label = f"week of {week_start.strftime('%b %-d')} – {today_et.strftime('%b %-d, %Y')}"
+
+    log(f"=== NLRB weekly ULP digest ({len(pending)} pending, live={live}) ===")
+
+    if not pending:
+        log("  no un-notified ULP charges — quiet-week heartbeat (Av only)")
+        if live:
+            try:
+                send_email(
+                    subject_nlrb_ulp_heartbeat(week_label),
+                    body_nlrb_ulp_heartbeat(week_label),
+                    log_fn=log, to=WEEKLY_DIGEST_HEARTBEAT_TO,
+                )
+            except Exception as e:
+                log(f"  heartbeat email error: {e}")
+        return
+
+    for c in pending:
+        log(f"  · {c['case_number']} | {c.get('date_filed','')} | "
+            f"{(c.get('employer') or c.get('name') or '')[:50]}")
+
+    if not live:
+        log("  (dry run — no email sent, no cases flagged)")
+        return
+
+    try:
+        send_email(
+            subject_nlrb_ulp_digest(len(pending), week_label),
+            body_nlrb_ulp_digest(pending, week_label),
+            log_fn=log,
+        )
+    except Exception as e:
+        log(f"  digest email error: {e} — NOT flagging cases (will retry next run)")
+        return
+
+    # Flag only after a successful send, so a send failure retries next run.
+    stamp = datetime.now(ET).isoformat(timespec="seconds")
+    for c in pending:
+        cases[c["case_number"]]["ulp_notified"]    = True
+        cases[c["case_number"]]["ulp_notified_at"] = stamp
+    save_cases(cases)
+    log(f"  digest sent to {len(EMAIL_TO)} recipient(s); {len(pending)} ULP case(s) flagged ulp_notified")
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def _date_minus(date_str, days):
@@ -354,6 +428,11 @@ def main():
     mode = args[0] if args and not args[0].startswith("--") else "poll"
     live = "--live" in args
     skip_download = "--no-download" in args  # dev: reuse existing local DB
+
+    # Weekly ULP digest reads cases.json only — no labordata DB needed.
+    if mode == "weekly-ulp":
+        run_weekly_ulp(live)
+        return
 
     if skip_download and DB_FILE.exists():
         log(f"  --no-download: reusing existing {DB_FILE.name}")
@@ -407,7 +486,7 @@ def main():
         log(f"=== Poll done. {f} new filings, {d} new decisions. ===\n")
 
     else:
-        print(f"Unknown mode: {mode}. Use 'backfill' or 'poll'.", file=sys.stderr)
+        print(f"Unknown mode: {mode}. Use 'backfill', 'poll', or 'weekly-ulp'.", file=sys.stderr)
         sys.exit(1)
 
     conn.close()

@@ -277,6 +277,110 @@ def body_nlrb_decision(name, case_number, kind, decision_type, actor, date, nlrb
     )
 
 
+# ── Weekly ULP digest ─────────────────────────────────────────────────────────
+# ULP (unfair-labor-practice) charges no longer email one-per-case daily. They
+# accumulate in cases.json un-notified and are sent as ONE Monday-morning digest.
+# Representation / election petitions still alert daily (unchanged).
+
+def subject_nlrb_ulp_digest(count, week_label):
+    return f"\U0001faa7 Weekly NLRB ULP digest: {count} new charge{'s' if count != 1 else ''} — Region 4 ({week_label})"
+
+def body_nlrb_ulp_digest(cases, week_label):
+    """Weekly roundup of new unfair-labor-practice charges. Goes to the full list.
+
+    cases: list of case dicts (case_number, name, employer, union, date_filed,
+    allegations, case_code, nlrb_url), pre-sorted by date_filed.
+    week_label: human-readable range, e.g. 'week of Jul 20'.
+    """
+    def _fmt(c):
+        alleg = c.get("allegations") or []
+        alleg_txt = "; ".join(alleg[:4]) + ("…" if len(alleg) > 4 else "") if alleg else "—"
+        url = c.get("nlrb_url") or f"https://www.nlrb.gov/case/{c['case_number']}"
+        return (
+            f'<tr>'
+            f'<td style="padding:8px 8px;font-family:monospace;font-size:13px;border-bottom:1px solid #f0f0f0;vertical-align:top;white-space:nowrap;">'
+            f'<a href="{url}" style="color:{NLRB_COLOR};text-decoration:none;">{c["case_number"]}</a>'
+            f'</td>'
+            f'<td style="padding:8px 8px;font-size:13px;border-bottom:1px solid #f0f0f0;vertical-align:top;white-space:nowrap;">{c.get("date_filed") or "—"}</td>'
+            f'<td style="padding:8px 8px;font-size:13px;border-bottom:1px solid #f0f0f0;vertical-align:top;">'
+            f'<strong>{(c.get("employer") or c.get("name") or "—")[:70]}</strong>'
+            f'{("<br><span style=\"color:#6c757d;\">Union: " + c["union"][:60] + "</span>") if c.get("union") else ""}'
+            f'</td>'
+            f'<td style="padding:8px 8px;font-size:12.5px;color:#495057;border-bottom:1px solid #f0f0f0;vertical-align:top;">{alleg_txt}</td>'
+            f'</tr>'
+        )
+    rows_html = "\n".join(_fmt(c) for c in cases)
+    blurb = (
+        "This is the <strong>weekly roundup of new unfair-labor-practice (ULP) charges</strong> "
+        "filed with <strong>NLRB Region&nbsp;4 (Philadelphia)</strong> &mdash; eastern Pennsylvania, "
+        "southern New Jersey, and Delaware. It is generated automatically by "
+        "<strong>Claude (Anthropic AI)</strong> at Av's request, from the labordata NLRB "
+        "database (mirroring nlrb.gov). Representation / election petitions are still "
+        "sent as separate daily alerts. Confirm details against the official case record "
+        "before reporting."
+    )
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px 16px;background:#eef0f3;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="max-width:660px;margin:0 auto;">
+  <div style="background:{NLRB_COLOR};padding:28px 32px;border-radius:10px 10px 0 0;">
+    <p style="margin:0 0 8px;color:rgba(255,255,255,0.6);font-size:11px;text-transform:uppercase;letter-spacing:1.5px;">\U0001faa7 NLRB Region 4 &middot; Weekly ULP digest</p>
+    <h1 style="margin:0 0 8px;color:white;font-size:23px;font-weight:700;line-height:1.2;">{len(cases)} new unfair-labor-practice charge{'s' if len(cases) != 1 else ''}</h1>
+    <p style="margin:0;color:rgba(255,255,255,0.9);font-size:15px;">{week_label}</p>
+  </div>
+  <div style="background:white;padding:28px 32px;">
+    <p style="margin:0 0 20px;color:#495057;font-size:13.5px;line-height:1.7;padding:14px 18px;background:#f8f9fa;border-left:4px solid {NLRB_COLOR};border-radius:0 6px 6px 0;">{blurb}</p>
+    <table style="width:100%;border-collapse:collapse;">
+      <thead><tr>
+        <th style="text-align:left;padding:6px 8px;font-size:12px;color:#6c757d;border-bottom:2px solid #dee2e6;">Case number</th>
+        <th style="text-align:left;padding:6px 8px;font-size:12px;color:#6c757d;border-bottom:2px solid #dee2e6;">Date filed</th>
+        <th style="text-align:left;padding:6px 8px;font-size:12px;color:#6c757d;border-bottom:2px solid #dee2e6;">Employer / union</th>
+        <th style="text-align:left;padding:6px 8px;font-size:12px;color:#6c757d;border-bottom:2px solid #dee2e6;">Allegations</th>
+      </tr></thead>
+      <tbody>
+{rows_html}
+      </tbody>
+    </table>
+    <p style="margin:24px 0 10px;font-size:13px;color:#868e96;">Full detail on the <a href="{NLRB_DASHBOARD_URL}" style="color:{NLRB_COLOR};font-weight:500;text-decoration:none;">NLRB Tracker ↗</a></p>
+    <p style="margin:0;font-size:13px;color:#868e96;">If you have any questions, comments, or concerns, reach out to Av.</p>
+  </div>
+  <div style="background:#f8f9fa;padding:16px 32px;border-top:1px solid #e9ecef;border-radius:0 0 10px 10px;">
+    <p style="margin:0;font-size:12px;color:#adb5bd;line-height:1.6;">
+      Av&#8217;s Tools &middot; Newsroom monitor &middot; Built with <a href="https://claude.ai" style="color:#adb5bd;">Claude</a> (Anthropic AI)<br>
+      {NLRB_SOURCE_NOTE}
+    </p>
+  </div>
+</div>
+</body>
+</html>"""
+
+def subject_nlrb_ulp_heartbeat(week_label):
+    return f"\U0001faa7 Weekly NLRB ULP digest: no new charges — Region 4 ({week_label})"
+
+def body_nlrb_ulp_heartbeat(week_label):
+    """Quiet-week heartbeat — sent ONLY to Av so he knows the digest job ran."""
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:24px 16px;background:#eef0f3;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="max-width:580px;margin:0 auto;">
+  <div style="background:{NLRB_COLOR};padding:24px 32px;border-radius:10px 10px 0 0;">
+    <p style="margin:0 0 6px;color:rgba(255,255,255,0.6);font-size:11px;text-transform:uppercase;letter-spacing:1.5px;">\U0001faa7 NLRB Region 4 &middot; Weekly ULP digest</p>
+    <h1 style="margin:0;color:white;font-size:20px;font-weight:700;line-height:1.3;">No new ULP charges this week</h1>
+  </div>
+  <div style="background:white;padding:24px 32px;">
+    <p style="margin:0;color:#495057;font-size:13.5px;line-height:1.7;">The weekly unfair-labor-practice digest ran for the <strong>{week_label}</strong> and found no new Region&nbsp;4 ULP charges. This heartbeat goes only to Av to confirm the job ran; the wider list is not notified on quiet weeks. Representation / election petition alerts continue daily as usual.</p>
+    <p style="margin:18px 0 0;font-size:13px;color:#868e96;">NLRB Tracker: <a href="{NLRB_DASHBOARD_URL}" style="color:{NLRB_COLOR};font-weight:500;">{NLRB_DASHBOARD_URL}</a></p>
+  </div>
+  <div style="background:#f8f9fa;padding:14px 32px;border-top:1px solid #e9ecef;border-radius:0 0 10px 10px;">
+    <p style="margin:0;font-size:12px;color:#adb5bd;line-height:1.6;">Av&#8217;s Tools &middot; Weekly heartbeat &middot; {NLRB_SOURCE_NOTE}</p>
+  </div>
+</div>
+</body>
+</html>"""
+
+
 # ── Sender ────────────────────────────────────────────────────────────────────
 
 def send_email(subject, body, log_fn=None, to=None):

@@ -4,13 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'backfill or poll'
+        description: 'poll, backfill, or weekly-ulp'
         required: true
         default: 'poll'
         type: choice
         options:
           - poll
           - backfill
+          - weekly-ulp
       start_date:
         description: 'Backfill start date (YYYY-MM-DD), default 2026-01-01'
         required: false
@@ -20,18 +21,26 @@ on:
         required: false
         default: ''
   schedule:
-    - cron: '0 12 * * *'     # 12:00 UTC = 8 AM ET (7 AM EST) — lands before 9 AM ET,
-                             # after labordata's nightly DB build (cron 04:15 UTC,
-                             # actually finishes ~08:30-10:20 UTC). GitHub cron is
-                             # best-effort; the 7/14-day lookback covers any late build.
+    - cron: '0 12 * * *'     # 12:00 UTC = 8 AM ET (7 AM EST) — daily filings/decisions
+                             # scan, after labordata's nightly DB build. Representation
+                             # (election-petition) alerts go out here daily. ULP charges
+                             # are captured but held for the Monday digest below.
+    - cron: '50 9 * * 1'     # 09:50 UTC Mondays = 5:50 AM ET (EDT). In winter (EST)
+                             # this is 4:50 AM ET — GitHub cron does not observe DST.
+                             # Weekly ULP digest: one email covering the past week's
+                             # unfair-labor-practice charges.
 
 permissions:
   contents: write
 
 jobs:
+  # ── Daily filings + decisions scan (Representation alerts go out here) ────────
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    if: >
+      (github.event_name == 'schedule' && github.event.schedule == '0 12 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.mode != 'weekly-ulp')
 
     steps:
       - name: Checkout repo
@@ -66,5 +75,38 @@ jobs:
           git add nlrb_data/cases.json nlrb_data/decisions.json nlrb_data/scan_state.json nlrb_data/poll_nlrb_log.txt nlrb_dashboard.html 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Auto: NLRB poll $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
+
+  # ── Weekly ULP digest (Mondays; one email for the whole week's ULP charges) ───
+  weekly_ulp:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    if: >
+      (github.event_name == 'schedule' && github.event.schedule == '50 9 * * 1') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly-ulp')
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Send weekly ULP digest
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python poll_nlrb.py weekly-ulp --live
+
+      - name: Commit + push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nlrb_data/cases.json nlrb_data/poll_nlrb_log.txt 2>/dev/null || true
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Auto: NLRB weekly ULP digest $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push
