@@ -897,3 +897,20 @@
 [2026-07-27 10:12:33 ET]   filings: 0 new
 [2026-07-27 10:12:33 ET]   decisions: 0 new
 [2026-07-27 10:12:33 ET] === Poll done. 0 new filings, 0 new decisions. ===
+[2026-07-28 09:42:57 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-28 09:43:01 ET]   DB ready: nlrb.db (1014 MB)
+[2026-07-28 09:43:01 ET]   source DB freshness (max filing.updated_at): 2026-07-28 07:17:44
+[2026-07-28 09:43:01 ET] === NLRB poll (since 2026-07-27; filings≥2026-07-20, decisions≥2026-07-13, live=True) ===
+[2026-07-28 09:43:02 ET]   + FILING: 04-CA-391500 | CA | Genserve, Inc.
+[2026-07-28 09:43:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-28 09:43:02 ET]   + FILING: 04-CA-391497 | CA | United Parcel Service, Inc.
+[2026-07-28 09:43:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-28 09:43:02 ET]   + FILING: 04-CA-391512 | CA | United Parcel Service, Inc.
+[2026-07-28 09:43:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-28 09:43:03 ET]   + FILING: 04-CA-391514 | CA | United Parcel Service, Inc.
+[2026-07-28 09:43:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-28 09:43:03 ET]   + FILING: 04-RC-391531 | RC | Brightview Holdings DBA Brightview Landscaping
+[2026-07-28 09:43:04 ET]   filings: 5 new
+[2026-07-28 09:43:04 ET]   decisions: 0 new
+[2026-07-28 09:43:04 ET] === Poll done. 5 new filings, 0 new decisions. ===
+
