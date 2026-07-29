@@ -914,3 +914,14 @@
 [2026-07-28 09:43:04 ET]   decisions: 0 new
 [2026-07-28 09:43:04 ET] === Poll done. 5 new filings, 0 new decisions. ===
 
+[2026-07-29 09:48:26 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-29 09:48:34 ET]   DB ready: nlrb.db (1014 MB)
+[2026-07-29 09:48:34 ET]   source DB freshness (max filing.updated_at): 2026-07-29 07:27:27
+[2026-07-29 09:48:34 ET] === NLRB poll (since 2026-07-28; filings≥2026-07-21, decisions≥2026-07-14, live=True) ===
+[2026-07-29 09:48:35 ET]   + FILING: 04-CB-391603 | CB | UNITE HERE Local 54 (Harrah's AC Operating Company
+[2026-07-29 09:48:35 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-29 09:48:35 ET]   + FILING: 04-RC-391653 | RC | Delaware Valley Community Health, Inc.
+[2026-07-29 09:48:37 ET]   filings: 2 new
+[2026-07-29 09:48:37 ET]   decisions: 0 new
+[2026-07-29 09:48:37 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

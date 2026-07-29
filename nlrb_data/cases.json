@@ -10756,5 +10756,47 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-07-27",
   "captured_at": "2026-07-28T09:43:03-04:00"
+ },
+ "04-CB-391603": {
+  "case_number": "04-CB-391603",
+  "name": "UNITE HERE Local 54 (Harrah's AC Operating Company LLC d/b/a Harrah's Resort)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Harrah's A.C Operating Company LLC d/b/a Harrah's Resort",
+  "union": "UNITE HERE Local 54",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-391603",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-27",
+  "captured_at": "2026-07-29T09:48:35-04:00"
+ },
+ "04-RC-391653": {
+  "case_number": "04-RC-391653",
+  "name": "Delaware Valley Community Health, Inc.",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Delaware Valley Community Health, Inc.",
+  "union": "District 1199C, National Union of Hospital and Health Care Employees, AFSCME, AFL-CIO",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-391653",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-07-28",
+  "captured_at": "2026-07-29T09:48:35-04:00"
  }
 }
