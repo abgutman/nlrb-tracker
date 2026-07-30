@@ -10798,5 +10798,27 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-07-28",
   "captured_at": "2026-07-29T09:48:35-04:00"
+ },
+ "04-CB-391698": {
+  "case_number": "04-CB-391698",
+  "name": "1199 SEIU (Galloway Health)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Galloway Health Center",
+  "union": "1199 SEIU",
+  "city": "Galloway",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-391698",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-07-30T09:29:40-04:00"
  }
 }

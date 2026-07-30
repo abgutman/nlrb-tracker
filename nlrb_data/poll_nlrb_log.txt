@@ -925,3 +925,13 @@
 [2026-07-29 09:48:37 ET]   decisions: 0 new
 [2026-07-29 09:48:37 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-07-30 09:29:36 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-07-30 09:29:40 ET]   DB ready: nlrb.db (1014 MB)
+[2026-07-30 09:29:40 ET]   source DB freshness (max filing.updated_at): 2026-07-30 07:20:07
+[2026-07-30 09:29:40 ET] === NLRB poll (since 2026-07-29; filings≥2026-07-22, decisions≥2026-07-15, live=True) ===
+[2026-07-30 09:29:40 ET]   + FILING: 04-CB-391698 | CB | 1199 SEIU (Galloway Health)
+[2026-07-30 09:29:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-07-30 09:29:40 ET]   filings: 1 new
+[2026-07-30 09:29:41 ET]   decisions: 0 new
+[2026-07-30 09:29:41 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
