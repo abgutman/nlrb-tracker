@@ -10820,5 +10820,27 @@
   "latest_action": "",
   "latest_action_date": "",
   "captured_at": "2026-07-30T09:29:40-04:00"
+ },
+ "04-CA-391885": {
+  "case_number": "04-CA-391885",
+  "name": "SPRING CITY ELECTRIC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Spring City Electric",
+  "union": null,
+  "city": "Spring City",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391885",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-30",
+  "captured_at": "2026-07-31T09:43:54-04:00"
  }
 }
