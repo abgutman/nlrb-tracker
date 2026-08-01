@@ -10842,5 +10842,91 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-07-30",
   "captured_at": "2026-07-31T09:43:54-04:00"
+ },
+ "04-RC-391923": {
+  "case_number": "04-RC-391923",
+  "name": "Tenor Health Foundation, Inc. d/b/a Commonwealth Health Advance Imaging Specialists",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Tenor Health Foundation, Inc. d/b/a Commonwealth Health Advance Imaging Specialists",
+  "union": "SEIU Healthcare Pennsylvania a/w Service Employees International Union",
+  "city": "Dunmore",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-391923",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-07-30",
+  "captured_at": "2026-08-01T08:59:23-04:00"
+ },
+ "04-CA-391970": {
+  "case_number": "04-CA-391970",
+  "name": "The American Oncologic Hospital d/b/a Hospital of the Fox Chase Cancer Center/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The American Oncologic Hospital d/b/a Hospital of the Fox Chase Cancer Center/Temple University Health System",
+  "union": "Fox Chase Nurses United/Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-31",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391970",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-31",
+  "captured_at": "2026-08-01T08:59:24-04:00"
+ },
+ "04-CA-391973": {
+  "case_number": "04-CA-391973",
+  "name": "Temple University Hospital/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Temple University Hospital/ Temple University Health System",
+  "union": "Temple University Hospital Nurses Association/Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-31",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391973",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-07-31",
+  "captured_at": "2026-08-01T08:59:25-04:00"
+ },
+ "04-CB-391975": {
+  "case_number": "04-CB-391975",
+  "name": "Local Union No. 158 of the United Brotherhood of Carpenters and Joiners of America (Nicholson Construction Company)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Nicholson Construction Company",
+  "union": "Local Union No. 158 of the United Brotherhood of Carpenters and Joiners of America",
+  "city": "Canonsburg",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-07-31",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Hiring Halls"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-391975",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-07-31",
+  "captured_at": "2026-08-01T08:59:25-04:00"
  }
 }
