@@ -961,3 +961,13 @@
 [2026-08-01 08:59:26 ET]   decisions: 1 new
 [2026-08-01 08:59:26 ET] === Poll done. 4 new filings, 1 new decisions. ===
 
+[2026-08-02 09:01:49 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-02 09:01:54 ET]   DB ready: nlrb.db (1014 MB)
+[2026-08-02 09:01:54 ET]   source DB freshness (max filing.updated_at): 2026-08-02 07:21:45
+[2026-08-02 09:01:54 ET] === NLRB poll (since 2026-08-01; filings≥2026-07-25, decisions≥2026-07-18, live=True) ===
+[2026-08-02 09:01:54 ET]   filings: 0 new
+[2026-08-02 09:01:54 ET]   + DECISION: 04-CA-366793 | Board Decision | 2026-07-31 | BLES Healthcare Management, LLC - Rosemo
+[2026-08-02 09:01:56 ET]   + DECISION: 04-CA-345152 | Board Decision | 2026-07-31 | BLES Healthcare Management, LLC- Rosemon
+[2026-08-02 09:01:57 ET]   decisions: 2 new
+[2026-08-02 09:01:57 ET] === Poll done. 0 new filings, 2 new decisions. ===
+
