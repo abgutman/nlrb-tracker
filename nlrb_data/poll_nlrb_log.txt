@@ -971,3 +971,15 @@
 [2026-08-02 09:01:57 ET]   decisions: 2 new
 [2026-08-02 09:01:57 ET] === Poll done. 0 new filings, 2 new decisions. ===
 
+[2026-08-03 08:45:47 ET] === NLRB weekly ULP digest (10 pending, live=True) ===
+[2026-08-03 08:45:47 ET]   · 04-CA-391500 | 2026-07-24 | Genserve, Inc.
+[2026-08-03 08:45:47 ET]   · 04-CA-391497 | 2026-07-27 | United Parcel Service, Inc.
+[2026-08-03 08:45:47 ET]   · 04-CA-391512 | 2026-07-27 | United Parcel Service, Inc.
+[2026-08-03 08:45:47 ET]   · 04-CA-391514 | 2026-07-27 | United Parcel Service, Inc.
+[2026-08-03 08:45:47 ET]   · 04-CB-391603 | 2026-07-27 | Harrah's A.C Operating Company LLC d/b/a Harrah's 
+[2026-08-03 08:45:47 ET]   · 04-CB-391698 | 2026-07-28 | Galloway Health Center
+[2026-08-03 08:45:47 ET]   · 04-CA-391885 | 2026-07-30 | Spring City Electric
+[2026-08-03 08:45:47 ET]   · 04-CA-391970 | 2026-07-31 | The American Oncologic Hospital d/b/a Hospital of 
+[2026-08-03 08:45:47 ET]   · 04-CA-391973 | 2026-07-31 | Temple University Hospital/ Temple University Heal
+[2026-08-03 08:45:47 ET]   · 04-CB-391975 | 2026-07-31 | Nicholson Construction Company
+[2026-08-03 08:45:49 ET]   digest sent to 3 recipient(s); 10 ULP case(s) flagged ulp_notified
