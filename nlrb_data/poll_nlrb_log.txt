@@ -983,3 +983,15 @@
 [2026-08-03 08:45:47 ET]   · 04-CA-391973 | 2026-07-31 | Temple University Hospital/ Temple University Heal
 [2026-08-03 08:45:47 ET]   · 04-CB-391975 | 2026-07-31 | Nicholson Construction Company
 [2026-08-03 08:45:49 ET]   digest sent to 3 recipient(s); 10 ULP case(s) flagged ulp_notified
+[2026-08-03 10:18:24 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-03 10:18:28 ET]   DB ready: nlrb.db (1014 MB)
+[2026-08-03 10:18:28 ET]   source DB freshness (max filing.updated_at): 2026-08-03 08:34:20
+[2026-08-03 10:18:28 ET] === NLRB poll (since 2026-08-02; filings≥2026-07-26, decisions≥2026-07-19, live=True) ===
+[2026-08-03 10:18:28 ET]   filings: 0 new
+[2026-08-03 10:18:29 ET]   + DECISION: 04-CA-262738 | Board Decision | 2026-07-31 | Whole Foods Market
+[2026-08-03 10:18:30 ET]   + DECISION: 04-CA-263142 | Board Decision | 2026-07-31 | Whole Foods Market
+[2026-08-03 10:18:31 ET]   + DECISION: 04-CA-264841 | Board Decision | 2026-07-31 | Whole Foods Market, Inc.
+[2026-08-03 10:18:32 ET]   + DECISION: 04-CA-264240 | Board Decision | 2026-07-31 | Whole Foods Market
+[2026-08-03 10:18:33 ET]   decisions: 4 new
+[2026-08-03 10:18:33 ET] === Poll done. 0 new filings, 4 new decisions. ===
+

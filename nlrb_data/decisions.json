@@ -742,5 +742,53 @@
   "document": "Board Decision",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458431f141",
   "captured_at": "2026-08-02T09:01:56-04:00"
+ },
+ "04-CA-262738::2026-07-31::1598": {
+  "case_number": "04-CA-262738",
+  "name": "Whole Foods Market",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-31",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458431e56f",
+  "captured_at": "2026-08-03T10:18:29-04:00"
+ },
+ "04-CA-263142::2026-07-31::1598": {
+  "case_number": "04-CA-263142",
+  "name": "Whole Foods Market",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-31",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458431e56f",
+  "captured_at": "2026-08-03T10:18:30-04:00"
+ },
+ "04-CA-264841::2026-07-31::1598": {
+  "case_number": "04-CA-264841",
+  "name": "Whole Foods Market, Inc.",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-31",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458431e56f",
+  "captured_at": "2026-08-03T10:18:31-04:00"
+ },
+ "04-CA-264240::2026-07-31::1598": {
+  "case_number": "04-CA-264240",
+  "name": "Whole Foods Market",
+  "kind": "ULP",
+  "case_code": "CA",
+  "decision_type": "Board Decision",
+  "date": "2026-07-31",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458431e56f",
+  "captured_at": "2026-08-03T10:18:32-04:00"
  }
 }
