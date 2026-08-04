@@ -10948,5 +10948,72 @@
   "captured_at": "2026-08-01T08:59:25-04:00",
   "ulp_notified": true,
   "ulp_notified_at": "2026-08-03T08:45:49-04:00"
+ },
+ "04-CA-391994": {
+  "case_number": "04-CA-391994",
+  "name": "Vicinity Energy Philadelphia",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Vicinity Energy Philadelphia",
+  "union": "IBEW Local 614 a/w International Brotherhood of Electrical Workers, AFL-CIO",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-391994",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-03",
+  "captured_at": "2026-08-04T09:49:49-04:00"
+ },
+ "04-CA-392055": {
+  "case_number": "04-CA-392055",
+  "name": "Inspira Medical Centers, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Inspira Medical Centers, Inc.",
+  "union": "Health Professional and Allied Employees AFT/AFL-CIO",
+  "city": "Harrison",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]",
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392055",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-03",
+  "captured_at": "2026-08-04T09:49:49-04:00"
+ },
+ "04-CA-392097": {
+  "case_number": "04-CA-392097",
+  "name": "Reworld Harrisburg, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Reworld Harrisburg, Inc.",
+  "union": "International Brotherhood of Electrical Workers Local Union 777",
+  "city": "Harrisburg",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392097",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-03",
+  "captured_at": "2026-08-04T09:49:50-04:00"
  }
 }

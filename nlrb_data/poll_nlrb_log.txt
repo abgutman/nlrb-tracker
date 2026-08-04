@@ -995,3 +995,17 @@
 [2026-08-03 10:18:33 ET]   decisions: 4 new
 [2026-08-03 10:18:33 ET] === Poll done. 0 new filings, 4 new decisions. ===
 
+[2026-08-04 09:49:44 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-04 09:49:48 ET]   DB ready: nlrb.db (1014 MB)
+[2026-08-04 09:49:48 ET]   source DB freshness (max filing.updated_at): 2026-08-04 07:16:24
+[2026-08-04 09:49:48 ET] === NLRB poll (since 2026-08-03; filings≥2026-07-27, decisions≥2026-07-20, live=True) ===
+[2026-08-04 09:49:49 ET]   + FILING: 04-CA-391994 | CA | Vicinity Energy Philadelphia
+[2026-08-04 09:49:49 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-04 09:49:49 ET]   + FILING: 04-CA-392055 | CA | Inspira Medical Centers, Inc.
+[2026-08-04 09:49:49 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-04 09:49:50 ET]   + FILING: 04-CA-392097 | CA | Reworld Harrisburg, LLC
+[2026-08-04 09:49:50 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-04 09:49:50 ET]   filings: 3 new
+[2026-08-04 09:49:50 ET]   decisions: 0 new
+[2026-08-04 09:49:50 ET] === Poll done. 3 new filings, 0 new decisions. ===
+
