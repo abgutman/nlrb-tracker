@@ -1009,3 +1009,15 @@
 [2026-08-04 09:49:50 ET]   decisions: 0 new
 [2026-08-04 09:49:50 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-08-05 09:45:22 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-05 09:45:26 ET]   DB ready: nlrb.db (1015 MB)
+[2026-08-05 09:45:26 ET]   source DB freshness (max filing.updated_at): 2026-08-05 07:31:39
+[2026-08-05 09:45:26 ET] === NLRB poll (since 2026-08-04; filings≥2026-07-28, decisions≥2026-07-21, live=True) ===
+[2026-08-05 09:45:26 ET]   + FILING: 04-CA-392114 | CA | Pediatric Specialty Care d/b/a Henry Avenue Operat
+[2026-08-05 09:45:26 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-05 09:45:27 ET]   + FILING: 04-CA-392156 | CA | RCN Telecom Services (Lehigh), LLC d/b/a Astound B
+[2026-08-05 09:45:27 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-05 09:45:27 ET]   filings: 2 new
+[2026-08-05 09:45:27 ET]   decisions: 0 new
+[2026-08-05 09:45:27 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

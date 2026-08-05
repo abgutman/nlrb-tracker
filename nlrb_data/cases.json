@@ -11015,5 +11015,50 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-03",
   "captured_at": "2026-08-04T09:49:50-04:00"
+ },
+ "04-CA-392114": {
+  "case_number": "04-CA-392114",
+  "name": "Pediatric Specialty Care d/b/a Henry Avenue Operating Company, LP",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Pediatric Specialty Care d/b/a Henry Avenue Operating Company, LP",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392114",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-03",
+  "captured_at": "2026-08-05T09:45:26-04:00"
+ },
+ "04-CA-392156": {
+  "case_number": "04-CA-392156",
+  "name": "RCN Telecom Services (Lehigh), LLC d/b/a Astound Broadband",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "RCN Telecom Services (Lehigh), LLC d/b/a Astound Broadband",
+  "union": null,
+  "city": "Beech Mountain Lakes",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392156",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-04",
+  "captured_at": "2026-08-05T09:45:27-04:00"
  }
 }
