@@ -11060,5 +11060,93 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-04",
   "captured_at": "2026-08-05T09:45:27-04:00"
+ },
+ "04-CA-392228": {
+  "case_number": "04-CA-392228",
+  "name": "Lehigh Valley/Jefferson Healthcare",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Lehigh Valley/Jefferson Healthcare",
+  "union": null,
+  "city": "Hazleton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392228",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-04",
+  "captured_at": "2026-08-06T09:43:48-04:00"
+ },
+ "04-CB-392222": {
+  "case_number": "04-CB-392222",
+  "name": "AFSCME Council 13 (Lehigh Valley/Jefferson Healthcare)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Lehigh Valley/Jefferson Healthcare",
+  "union": "AFSCME Council 13",
+  "city": "Hazleton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-392222",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-04",
+  "captured_at": "2026-08-06T09:43:48-04:00"
+ },
+ "04-CB-392236": {
+  "case_number": "04-CB-392236",
+  "name": "APWU Philadelphia Local 89 (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "APWU Philadelphia Local 89",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-05",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-392236",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-05",
+  "captured_at": "2026-08-06T09:43:48-04:00"
+ },
+ "04-CE-392291": {
+  "case_number": "04-CE-392291",
+  "name": "Eastern Sign Tech",
+  "kind": "ULP",
+  "case_type": "CE",
+  "case_code": "CE",
+  "employer": "Eastern Sign Tech",
+  "union": "SMART Sheet Metal Workers Local Union 19",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-05",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(e) All Allegations against a Labor Organization"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CE-392291",
+  "latest_action": "Signed 8(e) Charge",
+  "latest_action_date": "2026-08-05",
+  "captured_at": "2026-08-06T09:43:49-04:00"
  }
 }

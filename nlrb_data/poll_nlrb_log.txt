@@ -1021,3 +1021,19 @@
 [2026-08-05 09:45:27 ET]   decisions: 0 new
 [2026-08-05 09:45:27 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-08-06 09:43:42 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-06 09:43:47 ET]   DB ready: nlrb.db (1015 MB)
+[2026-08-06 09:43:47 ET]   source DB freshness (max filing.updated_at): 2026-08-06 07:21:14
+[2026-08-06 09:43:47 ET] === NLRB poll (since 2026-08-05; filings≥2026-07-29, decisions≥2026-07-22, live=True) ===
+[2026-08-06 09:43:48 ET]   + FILING: 04-CA-392228 | CA | Lehigh Valley/Jefferson Healthcare
+[2026-08-06 09:43:48 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-06 09:43:48 ET]   + FILING: 04-CB-392222 | CB | AFSCME Council 13 (Lehigh Valley/Jefferson Healthc
+[2026-08-06 09:43:48 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-06 09:43:48 ET]   + FILING: 04-CB-392236 | CB | APWU Philadelphia Local 89 (United States Postal S
+[2026-08-06 09:43:48 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-06 09:43:49 ET]   + FILING: 04-CE-392291 | CE | Eastern Sign Tech
+[2026-08-06 09:43:49 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-06 09:43:49 ET]   filings: 4 new
+[2026-08-06 09:43:49 ET]   decisions: 0 new
+[2026-08-06 09:43:49 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
