@@ -1037,3 +1037,13 @@
 [2026-08-06 09:43:49 ET]   decisions: 0 new
 [2026-08-06 09:43:49 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-08-07 08:46:53 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-07 08:46:57 ET]   DB ready: nlrb.db (1015 MB)
+[2026-08-07 08:46:57 ET]   source DB freshness (max filing.updated_at): 2026-08-07 06:48:51
+[2026-08-07 08:46:57 ET] === NLRB poll (since 2026-08-06; filings≥2026-07-30, decisions≥2026-07-23, live=True) ===
+[2026-08-07 08:46:58 ET]   + FILING: 04-CA-392361 | CA | SGC Associates LLC d/b/a Sheraton Great Valley Hot
+[2026-08-07 08:46:58 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-07 08:46:58 ET]   filings: 1 new
+[2026-08-07 08:46:58 ET]   decisions: 0 new
+[2026-08-07 08:46:58 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
