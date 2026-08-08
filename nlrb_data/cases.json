@@ -11171,5 +11171,30 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-06",
   "captured_at": "2026-08-07T08:46:58-04:00"
+ },
+ "04-CA-392398": {
+  "case_number": "04-CA-392398",
+  "name": "Messer, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Messer LLC",
+  "union": "Teamsters Local Union 773",
+  "city": "Bethlehem",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-07",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(1) Interrogation (including Polling)",
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392398",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-07",
+  "captured_at": "2026-08-08T08:28:49-04:00"
  }
 }
