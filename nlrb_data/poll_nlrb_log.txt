@@ -1066,3 +1066,16 @@
 [2026-08-09 08:31:39 ET]   decisions: 0 new
 [2026-08-09 08:31:39 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-08-10 06:50:18 ET] === NLRB weekly ULP digest (11 pending, live=True) ===
+[2026-08-10 06:50:18 ET]   · 04-CA-391994 | 2026-08-03 | Vicinity Energy Philadelphia
+[2026-08-10 06:50:18 ET]   · 04-CA-392055 | 2026-08-03 | Inspira Medical Centers, Inc.
+[2026-08-10 06:50:18 ET]   · 04-CA-392097 | 2026-08-03 | Reworld Harrisburg, Inc.
+[2026-08-10 06:50:18 ET]   · 04-CA-392114 | 2026-08-03 | Pediatric Specialty Care d/b/a Henry Avenue Operat
+[2026-08-10 06:50:18 ET]   · 04-CA-392156 | 2026-08-04 | RCN Telecom Services (Lehigh), LLC d/b/a Astound B
+[2026-08-10 06:50:18 ET]   · 04-CA-392228 | 2026-08-04 | Lehigh Valley/Jefferson Healthcare
+[2026-08-10 06:50:18 ET]   · 04-CB-392222 | 2026-08-04 | Lehigh Valley/Jefferson Healthcare
+[2026-08-10 06:50:18 ET]   · 04-CB-392236 | 2026-08-05 | United States Postal Service
+[2026-08-10 06:50:18 ET]   · 04-CE-392291 | 2026-08-05 | Eastern Sign Tech
+[2026-08-10 06:50:18 ET]   · 04-CA-392361 | 2026-08-06 | SGV Associates LLC d/b/a Sheraton Great Valley Hot
+[2026-08-10 06:50:18 ET]   · 04-CA-392398 | 2026-08-07 | Messer LLC
+[2026-08-10 06:50:19 ET]   digest sent to 3 recipient(s); 11 ULP case(s) flagged ulp_notified

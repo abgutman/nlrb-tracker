@@ -10969,7 +10969,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-391994",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-03",
-  "captured_at": "2026-08-04T09:49:49-04:00"
+  "captured_at": "2026-08-04T09:49:49-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392055": {
   "case_number": "04-CA-392055",
@@ -10992,7 +10994,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392055",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-03",
-  "captured_at": "2026-08-04T09:49:49-04:00"
+  "captured_at": "2026-08-04T09:49:49-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392097": {
   "case_number": "04-CA-392097",
@@ -11014,7 +11018,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392097",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-03",
-  "captured_at": "2026-08-04T09:49:50-04:00"
+  "captured_at": "2026-08-04T09:49:50-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392114": {
   "case_number": "04-CA-392114",
@@ -11036,7 +11042,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392114",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-03",
-  "captured_at": "2026-08-05T09:45:26-04:00"
+  "captured_at": "2026-08-05T09:45:26-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392156": {
   "case_number": "04-CA-392156",
@@ -11059,7 +11067,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392156",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-04",
-  "captured_at": "2026-08-05T09:45:27-04:00"
+  "captured_at": "2026-08-05T09:45:27-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392228": {
   "case_number": "04-CA-392228",
@@ -11081,7 +11091,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392228",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-04",
-  "captured_at": "2026-08-06T09:43:48-04:00"
+  "captured_at": "2026-08-06T09:43:48-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CB-392222": {
   "case_number": "04-CB-392222",
@@ -11103,7 +11115,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-392222",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-08-04",
-  "captured_at": "2026-08-06T09:43:48-04:00"
+  "captured_at": "2026-08-06T09:43:48-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CB-392236": {
   "case_number": "04-CB-392236",
@@ -11125,7 +11139,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-392236",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-08-05",
-  "captured_at": "2026-08-06T09:43:48-04:00"
+  "captured_at": "2026-08-06T09:43:48-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CE-392291": {
   "case_number": "04-CE-392291",
@@ -11147,7 +11163,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CE-392291",
   "latest_action": "Signed 8(e) Charge",
   "latest_action_date": "2026-08-05",
-  "captured_at": "2026-08-06T09:43:49-04:00"
+  "captured_at": "2026-08-06T09:43:49-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392361": {
   "case_number": "04-CA-392361",
@@ -11170,7 +11188,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392361",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-06",
-  "captured_at": "2026-08-07T08:46:58-04:00"
+  "captured_at": "2026-08-07T08:46:58-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  },
  "04-CA-392398": {
   "case_number": "04-CA-392398",
@@ -11195,6 +11215,8 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-392398",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-07",
-  "captured_at": "2026-08-08T08:28:49-04:00"
+  "captured_at": "2026-08-08T08:28:49-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-08-10T06:50:19-04:00"
  }
 }
