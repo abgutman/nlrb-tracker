@@ -802,5 +802,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458432b413",
   "captured_at": "2026-08-08T08:28:49-04:00"
+ },
+ "04-RC-371419::2026-08-11::1598": {
+  "case_number": "04-RC-371419",
+  "name": "The Milton Hershey School",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Board Decision",
+  "date": "2026-08-11",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843312e4",
+  "captured_at": "2026-08-12T08:47:38-04:00"
  }
 }

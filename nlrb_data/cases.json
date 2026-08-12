@@ -11218,5 +11218,28 @@
   "captured_at": "2026-08-08T08:28:49-04:00",
   "ulp_notified": true,
   "ulp_notified_at": "2026-08-10T06:50:19-04:00"
+ },
+ "04-CC-392582": {
+  "case_number": "04-CC-392582",
+  "name": "SMART Local 19 (Eastern Sign Tech)",
+  "kind": "ULP",
+  "case_type": "CC",
+  "case_code": "CC",
+  "employer": "Eastern Sign Tech",
+  "union": "SMART Local 19",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(4)(B) Lawsuits/Grievances",
+   "8(b)(4)(A) Lawsuits/Grievances"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CC-392582",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-11",
+  "captured_at": "2026-08-12T08:47:38-04:00"
  }
 }
