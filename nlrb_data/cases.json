@@ -11241,5 +11241,30 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-08-11",
   "captured_at": "2026-08-12T08:47:38-04:00"
+ },
+ "04-CA-392659": {
+  "case_number": "04-CA-392659",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "Postal Police Officers Association",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Recognize",
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392659",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-10",
+  "captured_at": "2026-08-13T08:49:08-04:00"
  }
 }

@@ -1106,3 +1106,13 @@
 [2026-08-12 08:47:40 ET]   decisions: 1 new
 [2026-08-12 08:47:40 ET] === Poll done. 1 new filings, 1 new decisions. ===
 
+[2026-08-13 08:49:03 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-13 08:49:08 ET]   DB ready: nlrb.db (1016 MB)
+[2026-08-13 08:49:08 ET]   source DB freshness (max filing.updated_at): 2026-08-13 06:22:41
+[2026-08-13 08:49:08 ET] === NLRB poll (since 2026-08-12; filings≥2026-08-05, decisions≥2026-07-29, live=True) ===
+[2026-08-13 08:49:08 ET]   + FILING: 04-CA-392659 | CA | United States Postal Service
+[2026-08-13 08:49:08 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-13 08:49:08 ET]   filings: 1 new
+[2026-08-13 08:49:08 ET]   decisions: 0 new
+[2026-08-13 08:49:08 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
