@@ -1126,3 +1126,17 @@
 [2026-08-14 08:43:41 ET]   decisions: 0 new
 [2026-08-14 08:43:41 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-08-15 08:19:36 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-15 08:19:40 ET]   DB ready: nlrb.db (1016 MB)
+[2026-08-15 08:19:40 ET]   source DB freshness (max filing.updated_at): 2026-08-15 05:26:44
+[2026-08-15 08:19:40 ET] === NLRB poll (since 2026-08-14; filings≥2026-08-07, decisions≥2026-07-31, live=True) ===
+[2026-08-15 08:19:40 ET]   + FILING: 04-CA-392843 | CA | Messer, LLC
+[2026-08-15 08:19:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-15 08:19:40 ET]   + FILING: 04-CB-392834 | CB | National Postal Mail Handlers Union (United States
+[2026-08-15 08:19:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-15 08:19:41 ET]   + FILING: 04-UC-392827 | UC | QVC Group, Inc. and HSNi, LLC
+[2026-08-15 08:19:41 ET]   filings: 3 new
+[2026-08-15 08:19:42 ET]   + DECISION: 04-RC-371470 | Board Decision | 2026-08-13 | Interstate Waste Services
+[2026-08-15 08:19:42 ET]   decisions: 1 new
+[2026-08-15 08:19:42 ET] === Poll done. 3 new filings, 1 new decisions. ===
+

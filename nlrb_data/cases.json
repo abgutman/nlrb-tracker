@@ -11288,5 +11288,69 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-13",
   "captured_at": "2026-08-14T08:43:41-04:00"
+ },
+ "04-CA-392843": {
+  "case_number": "04-CA-392843",
+  "name": "Messer, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Messer LLC",
+  "union": "Teamster Local 773",
+  "city": "Bethlehem",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-392843",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-14",
+  "captured_at": "2026-08-15T08:19:40-04:00"
+ },
+ "04-CB-392834": {
+  "case_number": "04-CB-392834",
+  "name": "National Postal Mail Handlers Union (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "National Postal Mail Handlers Union",
+  "city": "New Castle",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-392834",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-14",
+  "captured_at": "2026-08-15T08:19:40-04:00"
+ },
+ "04-UC-392827": {
+  "case_number": "04-UC-392827",
+  "name": "QVC Group, Inc. and HSNi, LLC",
+  "kind": "Representation",
+  "case_type": "UC",
+  "case_code": "UC",
+  "employer": "QVC Group, Inc. and HSNi, LLC",
+  "union": "SAG-AFTRA",
+  "city": "West Chester",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-UC-392827",
+  "latest_action": "Signed UC Petition",
+  "latest_action_date": "2026-08-14",
+  "captured_at": "2026-08-15T08:19:41-04:00"
  }
 }

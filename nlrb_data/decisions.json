@@ -814,5 +814,17 @@
   "document": "Board Decision",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843312e4",
   "captured_at": "2026-08-12T08:47:38-04:00"
+ },
+ "04-RC-371470::2026-08-13::1598": {
+  "case_number": "04-RC-371470",
+  "name": "Interstate Waste Services",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Board Decision",
+  "date": "2026-08-13",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d4584337377",
+  "captured_at": "2026-08-15T08:19:42-04:00"
  }
 }
