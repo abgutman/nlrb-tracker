@@ -1150,3 +1150,10 @@
 [2026-08-16 08:20:25 ET]   decisions: 2 new
 [2026-08-16 08:20:25 ET] === Poll done. 0 new filings, 2 new decisions. ===
 
+[2026-08-17 06:16:30 ET] === NLRB weekly ULP digest (5 pending, live=True) ===
+[2026-08-17 06:16:30 ET]   · 04-CA-392659 | 2026-08-10 | United States Postal Service
+[2026-08-17 06:16:30 ET]   · 04-CC-392582 | 2026-08-10 | Eastern Sign Tech
+[2026-08-17 06:16:30 ET]   · 04-CA-392757 | 2026-08-13 | Shenandoah Heights/Ridgeview Healthcare & Rehabili
+[2026-08-17 06:16:30 ET]   · 04-CA-392843 | 2026-08-14 | Messer LLC
+[2026-08-17 06:16:30 ET]   · 04-CB-392834 | 2026-08-14 | United States Postal Service
+[2026-08-17 06:16:31 ET]   digest sent to 3 recipient(s); 5 ULP case(s) flagged ulp_notified
