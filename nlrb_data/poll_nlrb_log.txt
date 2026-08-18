@@ -1165,3 +1165,26 @@
 [2026-08-17 08:24:48 ET]   decisions: 0 new
 [2026-08-17 08:24:48 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-08-18 08:26:40 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-18 08:27:49 ET]   DB ready: nlrb.db (1016 MB)
+[2026-08-18 08:27:49 ET]   source DB freshness (max filing.updated_at): 2026-08-18 05:29:19
+[2026-08-18 08:27:49 ET] === NLRB poll (since 2026-08-17; filings≥2026-08-10, decisions≥2026-08-03, live=True) ===
+[2026-08-18 08:27:50 ET]   + FILING: 04-CA-392934 | CA | The Timken Company/GGB
+[2026-08-18 08:27:50 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:50 ET]   + FILING: 04-CA-392943 | CA | The Timken Company/GGB
+[2026-08-18 08:27:50 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:50 ET]   + FILING: 04-CB-392922 | CB | Health Professionals and Allied Employees (America
+[2026-08-18 08:27:50 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:51 ET]   + FILING: 04-RD-392905 | RD | Fairmount Foundry Inc
+[2026-08-18 08:27:55 ET]   + FILING: 04-CA-392920 | CA | Inspira Health Network
+[2026-08-18 08:27:55 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:55 ET]   + FILING: 04-CA-392926 | CA | United States Postal Service
+[2026-08-18 08:27:55 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:56 ET]   + FILING: 04-CA-392977 | CA | Phoenix Contact USA, Inc.
+[2026-08-18 08:27:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:56 ET]   + FILING: 04-CB-392962 | CB | 1199 SEIU (Complete Care)
+[2026-08-18 08:27:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-18 08:27:56 ET]   filings: 8 new
+[2026-08-18 08:27:56 ET]   decisions: 0 new
+[2026-08-18 08:27:56 ET] === Poll done. 8 new filings, 0 new decisions. ===
+
