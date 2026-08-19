@@ -11538,5 +11538,28 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-08-17",
   "captured_at": "2026-08-18T08:27:56-04:00"
+ },
+ "04-CA-393046": {
+  "case_number": "04-CA-393046",
+  "name": "Ocean Spray Cranberries, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Ocean Spray Cranberries, Inc.",
+  "union": "Teamsters Local 773 a/w International Brotherhood of Teamsters",
+  "city": "Breinigsville",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Changes in Terms and Conditions of Employment",
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393046",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-17",
+  "captured_at": "2026-08-19T08:27:01-04:00"
  }
 }
