@@ -11561,5 +11561,95 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-17",
   "captured_at": "2026-08-19T08:27:01-04:00"
+ },
+ "04-CA-393168": {
+  "case_number": "04-CA-393168",
+  "name": "Tri-State Bulk Handling, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Tri-State Bulk Handling, Inc.",
+  "union": null,
+  "city": "Camden",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-18",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Union Security Related Actions"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393168",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-18",
+  "captured_at": "2026-08-20T08:29:16-04:00"
+ },
+ "04-CB-393120": {
+  "case_number": "04-CB-393120",
+  "name": "Association of Scientist and Professional Engineering Personnel (Lockheed Martin Rotary and Mission Systems (RMS)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Lockheed Martin Rotary and Mission Systems (RMS)",
+  "union": "Association of Scientists and Professional Engineering Personnel",
+  "city": "Moorestown",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-18",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-393120",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-18",
+  "captured_at": "2026-08-20T08:29:17-04:00"
+ },
+ "04-CB-393160": {
+  "case_number": "04-CB-393160",
+  "name": "International Longshoremen's Association Local 1291 (Tri-State Bulk Handling, Inc.)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Tri-State Bulk Handling, Inc.",
+  "union": "International Longshoremen's Association Local 1291",
+  "city": "Camden",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-18",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(2) Union Security Related Actions",
+   "8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-393160",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-18",
+  "captured_at": "2026-08-20T08:29:17-04:00"
+ },
+ "04-CA-393139": {
+  "case_number": "04-CA-393139",
+  "name": "Whole Foods Market Group, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Whole Foods Market Group, Inc.",
+  "union": "The United Food and Commercial Workers Union, Local 1776 Keystone State",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-19",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393139",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-19",
+  "captured_at": "2026-08-20T08:29:18-04:00"
  }
 }
