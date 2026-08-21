@@ -11651,5 +11651,50 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-19",
   "captured_at": "2026-08-20T08:29:18-04:00"
+ },
+ "04-CA-393231": {
+  "case_number": "04-CA-393231",
+  "name": "Carter Mechanical",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Carter Mechanical",
+  "union": "Sheet Metal, Air, Rail, Transportation (SMART) Local Union No. 19",
+  "city": "Exton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393231",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-20",
+  "captured_at": "2026-08-21T08:28:32-04:00"
+ },
+ "04-CA-393261": {
+  "case_number": "04-CA-393261",
+  "name": "Jefferson Bucks Hospital",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Jefferson Bucks Hospital",
+  "union": "Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Langhorne",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393261",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-20",
+  "captured_at": "2026-08-21T08:28:33-04:00"
  }
 }
