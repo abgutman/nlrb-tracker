@@ -1234,3 +1234,15 @@
 [2026-08-22 08:20:23 ET]   decisions: 0 new
 [2026-08-22 08:20:23 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-08-23 08:20:51 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-23 08:20:56 ET]   DB ready: nlrb.db (1017 MB)
+[2026-08-23 08:20:56 ET]   source DB freshness (max filing.updated_at): 2026-08-23 05:29:48
+[2026-08-23 08:20:56 ET] === NLRB poll (since 2026-08-22; filings≥2026-08-15, decisions≥2026-08-08, live=True) ===
+[2026-08-23 08:20:56 ET]   + FILING: 04-CA-393325 | CA | Think Pavers Hardscaping LLC
+[2026-08-23 08:20:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-23 08:20:57 ET]   + FILING: 04-CB-393295 | CB | Teamsters Local Union 115 Drexel University)
+[2026-08-23 08:20:57 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-23 08:20:57 ET]   filings: 2 new
+[2026-08-23 08:20:57 ET]   decisions: 0 new
+[2026-08-23 08:20:57 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

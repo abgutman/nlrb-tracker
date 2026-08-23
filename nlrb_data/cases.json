@@ -11696,5 +11696,49 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-20",
   "captured_at": "2026-08-21T08:28:33-04:00"
+ },
+ "04-CA-393325": {
+  "case_number": "04-CA-393325",
+  "name": "Think Pavers Hardscaping LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Think Pavers Hardscaping LLC",
+  "union": "International Union of Operating Engineers Local 825",
+  "city": "Mount Royal",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393325",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-21",
+  "captured_at": "2026-08-23T08:20:56-04:00"
+ },
+ "04-CB-393295": {
+  "case_number": "04-CB-393295",
+  "name": "Teamsters Local Union 115 Drexel University)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Drexel University",
+  "union": "Teamster Local Union 115",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-393295",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-08-21",
+  "captured_at": "2026-08-23T08:20:57-04:00"
  }
 }
