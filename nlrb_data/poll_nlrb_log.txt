@@ -1246,3 +1246,21 @@
 [2026-08-23 08:20:57 ET]   decisions: 0 new
 [2026-08-23 08:20:57 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-08-24 06:23:07 ET] === NLRB weekly ULP digest (16 pending, live=True) ===
+[2026-08-24 06:23:07 ET]   · 04-CA-392934 | 2026-08-14 | The Timken Company/GGB
+[2026-08-24 06:23:07 ET]   · 04-CA-392943 | 2026-08-14 | The Timken Company/GGB
+[2026-08-24 06:23:07 ET]   · 04-CB-392922 | 2026-08-14 | American Red Cross
+[2026-08-24 06:23:07 ET]   · 04-CA-392920 | 2026-08-17 | Inspira Health Network
+[2026-08-24 06:23:07 ET]   · 04-CA-392926 | 2026-08-17 | United States Postal Service
+[2026-08-24 06:23:07 ET]   · 04-CA-392977 | 2026-08-17 | Phoenix Contact USA, Inc.
+[2026-08-24 06:23:07 ET]   · 04-CA-393046 | 2026-08-17 | Ocean Spray Cranberries, Inc.
+[2026-08-24 06:23:07 ET]   · 04-CB-392962 | 2026-08-17 | Complete Care
+[2026-08-24 06:23:07 ET]   · 04-CA-393168 | 2026-08-18 | Tri-State Bulk Handling, Inc.
+[2026-08-24 06:23:07 ET]   · 04-CB-393120 | 2026-08-18 | Lockheed Martin Rotary and Mission Systems (RMS)
+[2026-08-24 06:23:07 ET]   · 04-CB-393160 | 2026-08-18 | Tri-State Bulk Handling, Inc.
+[2026-08-24 06:23:07 ET]   · 04-CA-393139 | 2026-08-19 | Whole Foods Market Group, Inc.
+[2026-08-24 06:23:07 ET]   · 04-CA-393231 | 2026-08-20 | Carter Mechanical
+[2026-08-24 06:23:07 ET]   · 04-CA-393261 | 2026-08-20 | Jefferson Bucks Hospital
+[2026-08-24 06:23:07 ET]   · 04-CA-393325 | 2026-08-21 | Think Pavers Hardscaping LLC
+[2026-08-24 06:23:07 ET]   · 04-CB-393295 | 2026-08-21 | Drexel University
+[2026-08-24 06:23:08 ET]   digest sent to 3 recipient(s); 16 ULP case(s) flagged ulp_notified
