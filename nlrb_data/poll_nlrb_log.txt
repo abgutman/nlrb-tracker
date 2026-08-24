@@ -1264,3 +1264,11 @@
 [2026-08-24 06:23:07 ET]   · 04-CA-393325 | 2026-08-21 | Think Pavers Hardscaping LLC
 [2026-08-24 06:23:07 ET]   · 04-CB-393295 | 2026-08-21 | Drexel University
 [2026-08-24 06:23:08 ET]   digest sent to 3 recipient(s); 16 ULP case(s) flagged ulp_notified
+[2026-08-24 08:29:32 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-24 08:29:40 ET]   DB ready: nlrb.db (1017 MB)
+[2026-08-24 08:29:40 ET]   source DB freshness (max filing.updated_at): 2026-08-24 05:55:39
+[2026-08-24 08:29:40 ET] === NLRB poll (since 2026-08-23; filings≥2026-08-16, decisions≥2026-08-09, live=True) ===
+[2026-08-24 08:29:40 ET]   filings: 0 new
+[2026-08-24 08:29:41 ET]   decisions: 0 new
+[2026-08-24 08:29:41 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
