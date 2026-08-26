@@ -11794,5 +11794,25 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-08-24",
   "captured_at": "2026-08-25T08:29:56-04:00"
+ },
+ "04-RC-393482": {
+  "case_number": "04-RC-393482",
+  "name": "First Student Inc.",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "First Student Inc",
+  "union": "Teamsters Local 773 a/w International Brotherhood of Teamsters",
+  "city": "Swiftwater",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-24",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-393482",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-08-24",
+  "captured_at": "2026-08-26T08:32:55-04:00"
  }
 }
