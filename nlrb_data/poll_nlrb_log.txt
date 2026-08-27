@@ -1291,3 +1291,15 @@
 [2026-08-26 08:32:57 ET]   decisions: 0 new
 [2026-08-26 08:32:57 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-08-27 17:28:18 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-27 17:28:26 ET]   DB ready: nlrb.db (1017 MB)
+[2026-08-27 17:28:26 ET]   source DB freshness (max filing.updated_at): 2026-08-27 15:52:54
+[2026-08-27 17:28:27 ET] === NLRB poll (since 2026-08-26; filings≥2026-08-19, decisions≥2026-08-12, live=True) ===
+[2026-08-27 17:28:27 ET]   + FILING: 04-CA-393579 | CA | Think Pavers Hardscaping LLC
+[2026-08-27 17:28:27 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-27 17:28:28 ET]   + FILING: 04-UC-393669 | UC | The Milton Hershey School
+[2026-08-27 17:28:29 ET]   filings: 2 new
+[2026-08-27 17:28:29 ET]   + DECISION: 04-RC-390312 | Certification of Representative | 2026-08-25 | Alpha Century Security, Inc.
+[2026-08-27 17:28:31 ET]   decisions: 1 new
+[2026-08-27 17:28:31 ET] === Poll done. 2 new filings, 1 new decisions. ===
+

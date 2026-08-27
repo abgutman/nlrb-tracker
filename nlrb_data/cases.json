@@ -11814,5 +11814,47 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-08-24",
   "captured_at": "2026-08-26T08:32:55-04:00"
+ },
+ "04-CA-393579": {
+  "case_number": "04-CA-393579",
+  "name": "Think Pavers Hardscaping LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Think Pavers Hardscaping LLC",
+  "union": "International Union of Operating Engineers Local 825",
+  "city": "Mount Royal",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-26",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Interrogation (including Polling)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393579",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-26",
+  "captured_at": "2026-08-27T17:28:27-04:00"
+ },
+ "04-UC-393669": {
+  "case_number": "04-UC-393669",
+  "name": "The Milton Hershey School",
+  "kind": "Representation",
+  "case_type": "UC",
+  "case_code": "UC",
+  "employer": "The Milton Hershey School",
+  "union": "Teamsters Local Union No. 776 a/w International Brotherhood of Teamsters",
+  "city": "Hershey",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-26",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-UC-393669",
+  "latest_action": "Signed UC Petition",
+  "latest_action_date": "2026-08-26",
+  "captured_at": "2026-08-27T17:28:28-04:00"
  }
 }
