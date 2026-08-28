@@ -1303,3 +1303,13 @@
 [2026-08-27 17:28:31 ET]   decisions: 1 new
 [2026-08-27 17:28:31 ET] === Poll done. 2 new filings, 1 new decisions. ===
 
+[2026-08-28 17:35:58 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-28 17:36:02 ET]   DB ready: nlrb.db (1017 MB)
+[2026-08-28 17:36:02 ET]   source DB freshness (max filing.updated_at): 2026-08-28 17:16:00
+[2026-08-28 17:36:02 ET] === NLRB poll (since 2026-08-27; filings≥2026-08-20, decisions≥2026-08-13, live=True) ===
+[2026-08-28 17:36:02 ET]   + FILING: 04-CA-393740 | CA | The Home Depot, inc.
+[2026-08-28 17:36:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-08-28 17:36:03 ET]   filings: 1 new
+[2026-08-28 17:36:03 ET]   decisions: 0 new
+[2026-08-28 17:36:03 ET] === Poll done. 1 new filings, 0 new decisions. ===
+

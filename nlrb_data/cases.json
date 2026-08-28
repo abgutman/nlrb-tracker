@@ -11856,5 +11856,27 @@
   "latest_action": "Signed UC Petition",
   "latest_action_date": "2026-08-26",
   "captured_at": "2026-08-27T17:28:28-04:00"
+ },
+ "04-CA-393740": {
+  "case_number": "04-CA-393740",
+  "name": "The Home Depot, inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Home Depot, inc.",
+  "union": null,
+  "city": "Lawnside",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-08-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393740",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-08-27",
+  "captured_at": "2026-08-28T17:36:02-04:00"
  }
 }
