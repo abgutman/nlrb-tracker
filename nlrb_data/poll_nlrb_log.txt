@@ -1321,3 +1321,12 @@
 [2026-08-29 11:57:47 ET]   decisions: 0 new
 [2026-08-29 11:57:47 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-08-30 11:45:21 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-30 11:45:27 ET]   DB ready: nlrb.db (1018 MB)
+[2026-08-30 11:45:27 ET]   source DB freshness (max filing.updated_at): 2026-08-30 10:37:13
+[2026-08-30 11:45:27 ET] === NLRB poll (since 2026-08-29; filings≥2026-08-22, decisions≥2026-08-15, live=True) ===
+[2026-08-30 11:45:27 ET]   filings: 0 new
+[2026-08-30 11:45:27 ET]   + DECISION: 04-RD-391343 | Election Results Certified | 2026-08-28 | Airgas USA, LLC
+[2026-08-30 11:45:29 ET]   decisions: 1 new
+[2026-08-30 11:45:29 ET] === Poll done. 0 new filings, 1 new decisions. ===
+

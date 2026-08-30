@@ -862,5 +862,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843499c1",
   "captured_at": "2026-08-27T17:28:29-04:00"
+ },
+ "04-RD-391343::2026-08-28::a9a3": {
+  "case_number": "04-RD-391343",
+  "name": "Airgas USA, LLC",
+  "kind": "Representation",
+  "case_code": "RD",
+  "decision_type": "Election Results Certified",
+  "date": "2026-08-28",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d4584352fe2",
+  "captured_at": "2026-08-30T11:45:27-04:00"
  }
 }
