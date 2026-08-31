@@ -1335,3 +1335,11 @@
 [2026-08-31 13:14:47 ET]   · 04-CA-393579 | 2026-08-26 | Think Pavers Hardscaping LLC
 [2026-08-31 13:14:47 ET]   · 04-CA-393740 | 2026-08-27 | The Home Depot, inc.
 [2026-08-31 13:14:48 ET]   digest sent to 3 recipient(s); 3 ULP case(s) flagged ulp_notified
+[2026-08-31 14:29:08 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-08-31 14:29:12 ET]   DB ready: nlrb.db (1018 MB)
+[2026-08-31 14:29:12 ET]   source DB freshness (max filing.updated_at): 2026-08-31 11:29:59
+[2026-08-31 14:29:12 ET] === NLRB poll (since 2026-08-30; filings≥2026-08-23, decisions≥2026-08-16, live=True) ===
+[2026-08-31 14:29:12 ET]   filings: 0 new
+[2026-08-31 14:29:12 ET]   decisions: 0 new
+[2026-08-31 14:29:12 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
