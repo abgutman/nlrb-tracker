@@ -1330,3 +1330,8 @@
 [2026-08-30 11:45:29 ET]   decisions: 1 new
 [2026-08-30 11:45:29 ET] === Poll done. 0 new filings, 1 new decisions. ===
 
+[2026-08-31 13:14:47 ET] === NLRB weekly ULP digest (3 pending, live=True) ===
+[2026-08-31 13:14:47 ET]   · 04-CA-393380 | 2026-08-24 | St. Mary Medical Center/Trinity Health Mid-Atlanti
+[2026-08-31 13:14:47 ET]   · 04-CA-393579 | 2026-08-26 | Think Pavers Hardscaping LLC
+[2026-08-31 13:14:47 ET]   · 04-CA-393740 | 2026-08-27 | The Home Depot, inc.
+[2026-08-31 13:14:48 ET]   digest sent to 3 recipient(s); 3 ULP case(s) flagged ulp_notified
