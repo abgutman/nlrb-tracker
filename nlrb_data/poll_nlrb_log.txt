@@ -1343,3 +1343,25 @@
 [2026-08-31 14:29:12 ET]   decisions: 0 new
 [2026-08-31 14:29:12 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-01 11:47:56 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-01 11:48:00 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-01 11:48:00 ET]   source DB freshness (max filing.updated_at): 2026-09-01 10:04:14
+[2026-09-01 11:48:00 ET] === NLRB poll (since 2026-08-31; filings≥2026-08-24, decisions≥2026-08-17, live=True) ===
+[2026-09-01 11:48:01 ET]   + FILING: 04-CA-393845 | CA | Durham School Services
+[2026-09-01 11:48:01 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:01 ET]   + FILING: 04-CA-393853 | CA | UPS
+[2026-09-01 11:48:01 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:02 ET]   + FILING: 04-CA-393872 | CA | Lloyd Industries, Inc.
+[2026-09-01 11:48:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:02 ET]   + FILING: 04-CB-393847 | CB | International Brotherhood of Teamsters local 429 (
+[2026-09-01 11:48:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:02 ET]   + FILING: 04-CB-393855 | CB | Health Professionals and Allied Employees (America
+[2026-09-01 11:48:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:03 ET]   + FILING: 04-CB-393873 | CB | Teamsters Local 676 (UPS)
+[2026-09-01 11:48:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-01 11:48:03 ET]   + FILING: 04-RC-393858 | RC | Starbucks Corporation
+[2026-09-01 11:48:04 ET]   + FILING: 04-RC-393885 | RC | Albert Einstein Medical Center d/b/a Jefferson Ein
+[2026-09-01 11:48:05 ET]   filings: 8 new
+[2026-09-01 11:48:05 ET]   decisions: 0 new
+[2026-09-01 11:48:05 ET] === Poll done. 8 new filings, 0 new decisions. ===
+
