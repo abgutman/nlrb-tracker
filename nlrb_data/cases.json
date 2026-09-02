@@ -12060,5 +12060,92 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-08-31",
   "captured_at": "2026-09-01T11:48:04-04:00"
+ },
+ "04-CA-393994": {
+  "case_number": "04-CA-393994",
+  "name": "Alpha Century Security, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Alpha Century Security, Inc.",
+  "union": "Security Alliance Federation of Employees Union Local 642",
+  "city": "Newtown Square",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-393994",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-01",
+  "captured_at": "2026-09-02T11:40:46-04:00"
+ },
+ "04-CB-393966": {
+  "case_number": "04-CB-393966",
+  "name": "Teamsters Local Union 115 (Republic Services)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Republic Services",
+  "union": "Teamster Local Union 115",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-393966",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-01",
+  "captured_at": "2026-09-02T11:40:47-04:00"
+ },
+ "04-CB-393998": {
+  "case_number": "04-CB-393998",
+  "name": "UFCW1776 (Comcast Spectator)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Comcast Spectator",
+  "union": "UFCW 1776",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-393998",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-01",
+  "captured_at": "2026-09-02T11:40:47-04:00"
+ },
+ "04-RC-394004": {
+  "case_number": "04-RC-394004",
+  "name": "Health Federation of Philadelphia",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Health Federation of Philadelphia",
+  "union": "Teamsters Local 500 a/w International Brotherhood of Teamsters",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-394004",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-09-02T11:40:47-04:00"
  }
 }

@@ -1365,3 +1365,18 @@
 [2026-09-01 11:48:05 ET]   decisions: 0 new
 [2026-09-01 11:48:05 ET] === Poll done. 8 new filings, 0 new decisions. ===
 
+[2026-09-02 11:40:41 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-02 11:40:46 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-02 11:40:46 ET]   source DB freshness (max filing.updated_at): 2026-09-02 09:23:53
+[2026-09-02 11:40:46 ET] === NLRB poll (since 2026-09-01; filings≥2026-08-25, decisions≥2026-08-18, live=True) ===
+[2026-09-02 11:40:46 ET]   + FILING: 04-CA-393994 | CA | Alpha Century Security, Inc.
+[2026-09-02 11:40:46 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-02 11:40:47 ET]   + FILING: 04-CB-393966 | CB | Teamsters Local Union 115 (Republic Services)
+[2026-09-02 11:40:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-02 11:40:47 ET]   + FILING: 04-CB-393998 | CB | UFCW1776 (Comcast Spectator)
+[2026-09-02 11:40:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-02 11:40:47 ET]   + FILING: 04-RC-394004 | RC | Health Federation of Philadelphia
+[2026-09-02 11:40:49 ET]   filings: 4 new
+[2026-09-02 11:40:49 ET]   decisions: 0 new
+[2026-09-02 11:40:49 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
