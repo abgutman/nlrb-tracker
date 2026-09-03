@@ -1380,3 +1380,22 @@
 [2026-09-02 11:40:49 ET]   decisions: 0 new
 [2026-09-02 11:40:49 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-09-03 11:31:00 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-03 11:31:03 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-03 11:31:03 ET]   source DB freshness (max filing.updated_at): 2026-09-03 09:36:16
+[2026-09-03 11:31:03 ET] === NLRB poll (since 2026-09-02; filings≥2026-08-26, decisions≥2026-08-19, live=True) ===
+[2026-09-03 11:31:04 ET]   + FILING: 04-CA-394034 | CA | Lloyd Industries, Inc.
+[2026-09-03 11:31:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-03 11:31:04 ET]   + FILING: 04-CA-394037 | CA | United States Postal Service
+[2026-09-03 11:31:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-03 11:31:04 ET]   + FILING: 04-CA-394050 | CA | Complete Care at Green Arces
+[2026-09-03 11:31:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-03 11:31:05 ET]   + FILING: 04-CB-394068 | CB | 1199C SEIU (Complete Care Marcella)
+[2026-09-03 11:31:05 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-03 11:31:05 ET]   + FILING: 04-CB-394085 | CB | UNITE HERE Local 274 (SDH Education East, LLC (Sod
+[2026-09-03 11:31:05 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-03 11:31:05 ET]   filings: 5 new
+[2026-09-03 11:31:05 ET]   + DECISION: 04-CA-370494 | Board Decision | 2026-09-02 | Real Entertainment – Philadelphia, LLC, 
+[2026-09-03 11:31:07 ET]   decisions: 1 new
+[2026-09-03 11:31:07 ET] === Poll done. 5 new filings, 1 new decisions. ===
+
