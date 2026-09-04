@@ -1399,3 +1399,15 @@
 [2026-09-03 11:31:07 ET]   decisions: 1 new
 [2026-09-03 11:31:07 ET] === Poll done. 5 new filings, 1 new decisions. ===
 
+[2026-09-04 11:29:10 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-04 11:29:14 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-04 11:29:14 ET]   source DB freshness (max filing.updated_at): 2026-09-04 09:31:50
+[2026-09-04 11:29:14 ET] === NLRB poll (since 2026-09-03; filings≥2026-08-27, decisions≥2026-08-20, live=True) ===
+[2026-09-04 11:29:15 ET]   + FILING: 04-CA-394138 | CA | Atlantic City Electric
+[2026-09-04 11:29:15 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-04 11:29:15 ET]   + FILING: 04-RC-394166 | RC | Jefferson Bucks Hospital
+[2026-09-04 11:29:17 ET]   + FILING: 04-RM-394147 | RM | RAM Partners, LLC
+[2026-09-04 11:29:17 ET]   filings: 3 new
+[2026-09-04 11:29:18 ET]   decisions: 0 new
+[2026-09-04 11:29:18 ET] === Poll done. 3 new filings, 0 new decisions. ===
+
