@@ -1411,3 +1411,16 @@
 [2026-09-04 11:29:18 ET]   decisions: 0 new
 [2026-09-04 11:29:18 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-09-05 10:16:48 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-05 10:16:55 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-05 10:16:55 ET]   source DB freshness (max filing.updated_at): 2026-09-05 09:12:48
+[2026-09-05 10:16:55 ET] === NLRB poll (since 2026-09-04; filings≥2026-08-28, decisions≥2026-08-21, live=True) ===
+[2026-09-05 10:16:56 ET]   + FILING: 04-CA-394200 | CA | Origlio Beverage
+[2026-09-05 10:16:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-05 10:16:56 ET]   + FILING: 04-CA-394202 | CA | SRM Eastern, LLC
+[2026-09-05 10:16:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-05 10:16:56 ET]   filings: 2 new
+[2026-09-05 10:16:56 ET]   + DECISION: 04-RC-391653 | Election Results Certified | 2026-09-04 | Delaware Valley Community Health, Inc.
+[2026-09-05 10:16:58 ET]   decisions: 1 new
+[2026-09-05 10:16:58 ET] === Poll done. 2 new filings, 1 new decisions. ===
+

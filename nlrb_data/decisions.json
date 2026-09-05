@@ -886,5 +886,17 @@
   "document": "Board Decision",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d4584356635",
   "captured_at": "2026-09-03T11:31:05-04:00"
+ },
+ "04-RC-391653::2026-09-04::a9a3": {
+  "case_number": "04-RC-391653",
+  "name": "Delaware Valley Community Health, Inc.",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Election Results Certified",
+  "date": "2026-09-04",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458436030e",
+  "captured_at": "2026-09-05T10:16:56-04:00"
  }
 }
