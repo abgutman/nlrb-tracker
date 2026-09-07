@@ -1451,3 +1451,11 @@
 [2026-09-07 11:18:26 ET]   · 04-CA-394200 | 2026-09-03 | Origlio Beverage
 [2026-09-07 11:18:26 ET]   · 04-CA-394202 | 2026-09-03 | SRM Eastern, LLC
 [2026-09-07 11:18:27 ET]   digest sent to 3 recipient(s); 17 ULP case(s) flagged ulp_notified
+[2026-09-07 12:54:18 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-07 12:54:21 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-07 12:54:22 ET]   source DB freshness (max filing.updated_at): 2026-09-07 09:59:04
+[2026-09-07 12:54:22 ET] === NLRB poll (since 2026-09-06; filings≥2026-08-30, decisions≥2026-08-23, live=True) ===
+[2026-09-07 12:54:22 ET]   filings: 0 new
+[2026-09-07 12:54:22 ET]   decisions: 0 new
+[2026-09-07 12:54:22 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
