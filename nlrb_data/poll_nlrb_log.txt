@@ -1432,3 +1432,22 @@
 [2026-09-06 10:40:18 ET]   decisions: 0 new
 [2026-09-06 10:40:18 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-07 11:18:26 ET] === NLRB weekly ULP digest (17 pending, live=True) ===
+[2026-09-07 11:18:26 ET]   · 04-CA-393845 | 2026-08-31 | Durham School Services
+[2026-09-07 11:18:26 ET]   · 04-CA-393853 | 2026-08-31 | UPS
+[2026-09-07 11:18:26 ET]   · 04-CA-393872 | 2026-08-31 | Lloyd Industries, Inc.
+[2026-09-07 11:18:26 ET]   · 04-CB-393847 | 2026-08-31 | ABF Freight
+[2026-09-07 11:18:26 ET]   · 04-CB-393855 | 2026-08-31 | American Red Cross
+[2026-09-07 11:18:26 ET]   · 04-CB-393873 | 2026-08-31 | UPS
+[2026-09-07 11:18:26 ET]   · 04-CA-393994 | 2026-09-01 | Alpha Century Security, Inc.
+[2026-09-07 11:18:26 ET]   · 04-CA-394034 | 2026-09-01 | Lloyd Industries, Inc.
+[2026-09-07 11:18:26 ET]   · 04-CB-393966 | 2026-09-01 | Republic Services
+[2026-09-07 11:18:26 ET]   · 04-CB-393998 | 2026-09-01 | Comcast Spectator
+[2026-09-07 11:18:26 ET]   · 04-CA-394037 | 2026-09-02 | United States Postal Service
+[2026-09-07 11:18:26 ET]   · 04-CA-394050 | 2026-09-02 | Complete Care at Green Arces
+[2026-09-07 11:18:26 ET]   · 04-CB-394068 | 2026-09-02 | CC Marcella
+[2026-09-07 11:18:26 ET]   · 04-CB-394085 | 2026-09-02 | SDH Education East, LLC
+[2026-09-07 11:18:26 ET]   · 04-CA-394138 | 2026-09-03 | Atlantic City Electric, an Exelon Company
+[2026-09-07 11:18:26 ET]   · 04-CA-394200 | 2026-09-03 | Origlio Beverage
+[2026-09-07 11:18:26 ET]   · 04-CA-394202 | 2026-09-03 | SRM Eastern, LLC
+[2026-09-07 11:18:27 ET]   digest sent to 3 recipient(s); 17 ULP case(s) flagged ulp_notified
