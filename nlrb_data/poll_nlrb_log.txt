@@ -1467,3 +1467,31 @@
 [2026-09-08 11:42:32 ET]   decisions: 0 new
 [2026-09-08 11:42:32 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-09 11:36:56 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-09 11:37:02 ET]   DB ready: nlrb.db (1018 MB)
+[2026-09-09 11:37:02 ET]   source DB freshness (max filing.updated_at): 2026-09-09 09:37:16
+[2026-09-09 11:37:02 ET] === NLRB poll (since 2026-09-08; filings≥2026-09-01, decisions≥2026-08-25, live=True) ===
+[2026-09-09 11:37:02 ET]   + FILING: 04-CA-394260 | CA | Lloyd Industries, Inc.
+[2026-09-09 11:37:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:02 ET]   + FILING: 04-CB-394277 | CB | Laundry Distribution and Food Service Joint Board 
+[2026-09-09 11:37:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:03 ET]   + FILING: 04-CA-394258 | CA | Main Line Health Inc.
+[2026-09-09 11:37:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:03 ET]   + FILING: 04-CA-394268 | CA | H&M Fashion USA, Inc
+[2026-09-09 11:37:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:03 ET]   + FILING: 04-CA-394310 | CA | Matrix NAC
+[2026-09-09 11:37:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:04 ET]   + FILING: 04-CA-394329 | CA | Pelican Pointe
+[2026-09-09 11:37:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:04 ET]   + FILING: 04-CA-394335 | CA | Pelican Pointe
+[2026-09-09 11:37:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:05 ET]   + FILING: 04-CA-394342 | CA | BI Foods LLC d/b/a Value Added Food
+[2026-09-09 11:37:05 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:05 ET]   + FILING: 04-CB-394312 | CB | SEIU Local 32BJ (Team Clean Inc)
+[2026-09-09 11:37:05 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:05 ET]   + FILING: 04-CB-394343 | CB | International Longshoremen's Association, Local 16
+[2026-09-09 11:37:05 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-09 11:37:05 ET]   filings: 10 new
+[2026-09-09 11:37:05 ET]   decisions: 0 new
+[2026-09-09 11:37:05 ET] === Poll done. 10 new filings, 0 new decisions. ===
+
