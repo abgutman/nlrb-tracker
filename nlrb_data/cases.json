@@ -12633,5 +12633,92 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-09-08",
   "captured_at": "2026-09-09T11:37:05-04:00"
+ },
+ "04-CA-394378": {
+  "case_number": "04-CA-394378",
+  "name": "Temple University Hospital/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Temple University Hospital/ Temple University Health System",
+  "union": "Temple University Hospital Allied Health Professionals/Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-08",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394378",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-08",
+  "captured_at": "2026-09-10T11:33:02-04:00"
+ },
+ "04-CA-394409": {
+  "case_number": "04-CA-394409",
+  "name": "Meritus Solutions Group",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Meritus Solutions Group",
+  "union": "SPFPA Local #69-Amalgamated Local Union NO 69",
+  "city": "Wilkes-Barre",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-09",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394409",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-09",
+  "captured_at": "2026-09-10T11:33:02-04:00"
+ },
+ "04-CA-394425": {
+  "case_number": "04-CA-394425",
+  "name": "System Freight Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "System Freight Inc.",
+  "union": null,
+  "city": "Lancaster",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-09",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394425",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-09",
+  "captured_at": "2026-09-10T11:33:02-04:00"
+ },
+ "04-RM-394433": {
+  "case_number": "04-RM-394433",
+  "name": "Enliven, LLC d/b/a Enliven Planters",
+  "kind": "Representation",
+  "case_type": "RM",
+  "case_code": "RM",
+  "employer": "Enliven, LLC d/b/a Enliven Planters",
+  "union": "United Scenic Artists, Local USA 829, IATSE",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-09",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RM-394433",
+  "latest_action": "Signed RM Petition",
+  "latest_action_date": "2026-09-09",
+  "captured_at": "2026-09-10T11:33:03-04:00"
  }
 }

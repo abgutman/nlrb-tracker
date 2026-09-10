@@ -1495,3 +1495,18 @@
 [2026-09-09 11:37:05 ET]   decisions: 0 new
 [2026-09-09 11:37:05 ET] === Poll done. 10 new filings, 0 new decisions. ===
 
+[2026-09-10 11:32:53 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-10 11:33:01 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-10 11:33:01 ET]   source DB freshness (max filing.updated_at): 2026-09-10 09:35:22
+[2026-09-10 11:33:01 ET] === NLRB poll (since 2026-09-09; filings≥2026-09-02, decisions≥2026-08-26, live=True) ===
+[2026-09-10 11:33:02 ET]   + FILING: 04-CA-394378 | CA | Temple University Hospital/Temple University Healt
+[2026-09-10 11:33:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-10 11:33:02 ET]   + FILING: 04-CA-394409 | CA | Meritus Solutions Group
+[2026-09-10 11:33:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-10 11:33:02 ET]   + FILING: 04-CA-394425 | CA | System Freight Inc.
+[2026-09-10 11:33:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-10 11:33:03 ET]   + FILING: 04-RM-394433 | RM | Enliven, LLC d/b/a Enliven Planters
+[2026-09-10 11:33:05 ET]   filings: 4 new
+[2026-09-10 11:33:05 ET]   decisions: 0 new
+[2026-09-10 11:33:05 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
