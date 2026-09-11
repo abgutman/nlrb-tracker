@@ -1510,3 +1510,18 @@
 [2026-09-10 11:33:05 ET]   decisions: 0 new
 [2026-09-10 11:33:05 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-09-11 11:34:26 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-11 11:34:30 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-11 11:34:30 ET]   source DB freshness (max filing.updated_at): 2026-09-11 09:42:21
+[2026-09-11 11:34:30 ET] === NLRB poll (since 2026-09-10; filings≥2026-09-03, decisions≥2026-08-27, live=True) ===
+[2026-09-11 11:34:30 ET]   + FILING: 04-CA-394580 | CA | Pelican Pointe
+[2026-09-11 11:34:30 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-11 11:34:31 ET]   + FILING: 04-CA-394586 | CA | Enstructure Wilmington Holdings LLC
+[2026-09-11 11:34:31 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-11 11:34:31 ET]   + FILING: 04-CA-394593 | CA | Ambulnz PA, LLC
+[2026-09-11 11:34:31 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-11 11:34:31 ET]   + FILING: 04-RC-394503 | RC | DLS Events LLC
+[2026-09-11 11:34:34 ET]   filings: 4 new
+[2026-09-11 11:34:34 ET]   decisions: 0 new
+[2026-09-11 11:34:34 ET] === Poll done. 4 new filings, 0 new decisions. ===
+

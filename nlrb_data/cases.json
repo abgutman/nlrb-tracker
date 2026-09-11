@@ -12720,5 +12720,93 @@
   "latest_action": "Signed RM Petition",
   "latest_action_date": "2026-09-09",
   "captured_at": "2026-09-10T11:33:03-04:00"
+ },
+ "04-CA-394580": {
+  "case_number": "04-CA-394580",
+  "name": "Pelican Pointe",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Pelican Pointe",
+  "union": "United Food and Commercial Workers, AFL-CIO Local 152",
+  "city": "North Cape May",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394580",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-10",
+  "captured_at": "2026-09-11T11:34:30-04:00"
+ },
+ "04-CA-394586": {
+  "case_number": "04-CA-394586",
+  "name": "Enstructure Wilmington Holdings LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Enstructure Wilmington Holdings LLC/Dole",
+  "union": null,
+  "city": "Wilmington",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394586",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-10",
+  "captured_at": "2026-09-11T11:34:31-04:00"
+ },
+ "04-CA-394593": {
+  "case_number": "04-CA-394593",
+  "name": "Ambulnz PA, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Ambulnz PA, LLC",
+  "union": "Teamsters Local No. 623",
+  "city": "King of Prussia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394593",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-10",
+  "captured_at": "2026-09-11T11:34:31-04:00"
+ },
+ "04-RC-394503": {
+  "case_number": "04-RC-394503",
+  "name": "DLS Events LLC",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "DLS Events LLC",
+  "union": "IATSE Local B29 FRONT OF HOUSE WORKERS",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-394503",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-09-10",
+  "captured_at": "2026-09-11T11:34:31-04:00"
  }
 }
