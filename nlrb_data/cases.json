@@ -12808,5 +12808,48 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-09-10",
   "captured_at": "2026-09-11T11:34:31-04:00"
+ },
+ "04-CA-394621": {
+  "case_number": "04-CA-394621",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Harrisburg",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(5) Refusal to Recognize"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394621",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-10",
+  "captured_at": "2026-09-12T10:41:09-04:00"
+ },
+ "04-RC-394654": {
+  "case_number": "04-RC-394654",
+  "name": "Enliven, LLC d/b/a Enliven Planters",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Enliven, LLC d/b/a Enliven Planters",
+  "union": "United Scenic Artists, Local USA 829",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-11",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-394654",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-09-12T10:41:10-04:00"
  }
 }

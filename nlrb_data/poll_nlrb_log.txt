@@ -1525,3 +1525,14 @@
 [2026-09-11 11:34:34 ET]   decisions: 0 new
 [2026-09-11 11:34:34 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-09-12 10:41:05 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-12 10:41:09 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-12 10:41:09 ET]   source DB freshness (max filing.updated_at): 2026-09-12 09:22:46
+[2026-09-12 10:41:09 ET] === NLRB poll (since 2026-09-11; filings≥2026-09-04, decisions≥2026-08-28, live=True) ===
+[2026-09-12 10:41:09 ET]   + FILING: 04-CA-394621 | CA | United States Postal Service
+[2026-09-12 10:41:09 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-12 10:41:10 ET]   + FILING: 04-RC-394654 | RC | Enliven, LLC d/b/a Enliven Planters
+[2026-09-12 10:41:11 ET]   filings: 2 new
+[2026-09-12 10:41:12 ET]   decisions: 0 new
+[2026-09-12 10:41:12 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
