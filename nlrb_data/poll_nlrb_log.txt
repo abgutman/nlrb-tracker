@@ -1544,3 +1544,22 @@
 [2026-09-13 11:20:58 ET]   decisions: 0 new
 [2026-09-13 11:20:58 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-14 12:00:10 ET] === NLRB weekly ULP digest (17 pending, live=True) ===
+[2026-09-14 12:00:10 ET]   · 04-CA-394260 | 2026-09-04 | Lloyd Industries, Inc.
+[2026-09-14 12:00:10 ET]   · 04-CB-394277 | 2026-09-04 | H&M Fashion USA, Inc
+[2026-09-14 12:00:10 ET]   · 04-CA-394258 | 2026-09-08 | Main Line Health Inc.
+[2026-09-14 12:00:10 ET]   · 04-CA-394268 | 2026-09-08 | H&M Fashion USA, Inc
+[2026-09-14 12:00:10 ET]   · 04-CA-394310 | 2026-09-08 | Matrix NAC
+[2026-09-14 12:00:10 ET]   · 04-CA-394329 | 2026-09-08 | Pelican Pointe
+[2026-09-14 12:00:10 ET]   · 04-CA-394335 | 2026-09-08 | Pelican Pointe
+[2026-09-14 12:00:10 ET]   · 04-CA-394342 | 2026-09-08 | BI Foods LLC d/b/a Value Added Food
+[2026-09-14 12:00:10 ET]   · 04-CA-394378 | 2026-09-08 | Temple University Hospital/ Temple University Heal
+[2026-09-14 12:00:10 ET]   · 04-CB-394312 | 2026-09-08 | Team Clean Inc
+[2026-09-14 12:00:10 ET]   · 04-CB-394343 | 2026-09-08 | Enstructure Wilmington Holdings LLC/Dole
+[2026-09-14 12:00:10 ET]   · 04-CA-394409 | 2026-09-09 | Meritus Solutions Group
+[2026-09-14 12:00:10 ET]   · 04-CA-394425 | 2026-09-09 | System Freight Inc.
+[2026-09-14 12:00:10 ET]   · 04-CA-394580 | 2026-09-10 | Pelican Pointe
+[2026-09-14 12:00:10 ET]   · 04-CA-394586 | 2026-09-10 | Enstructure Wilmington Holdings LLC/Dole
+[2026-09-14 12:00:10 ET]   · 04-CA-394593 | 2026-09-10 | Ambulnz PA, LLC
+[2026-09-14 12:00:10 ET]   · 04-CA-394621 | 2026-09-10 | United States Postal Service
+[2026-09-14 12:00:12 ET]   digest sent to 3 recipient(s); 17 ULP case(s) flagged ulp_notified
