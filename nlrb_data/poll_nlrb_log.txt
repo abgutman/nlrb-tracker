@@ -1563,3 +1563,11 @@
 [2026-09-14 12:00:10 ET]   · 04-CA-394593 | 2026-09-10 | Ambulnz PA, LLC
 [2026-09-14 12:00:10 ET]   · 04-CA-394621 | 2026-09-10 | United States Postal Service
 [2026-09-14 12:00:12 ET]   digest sent to 3 recipient(s); 17 ULP case(s) flagged ulp_notified
+[2026-09-14 13:17:18 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-14 13:17:22 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-14 13:17:22 ET]   source DB freshness (max filing.updated_at): 2026-09-14 10:32:39
+[2026-09-14 13:17:22 ET] === NLRB poll (since 2026-09-13; filings≥2026-09-06, decisions≥2026-08-30, live=True) ===
+[2026-09-14 13:17:22 ET]   filings: 0 new
+[2026-09-14 13:17:22 ET]   decisions: 0 new
+[2026-09-14 13:17:22 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
