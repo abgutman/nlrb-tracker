@@ -12885,5 +12885,141 @@
   "latest_action": "",
   "latest_action_date": "",
   "captured_at": "2026-09-12T10:41:10-04:00"
+ },
+ "04-CA-394726": {
+  "case_number": "04-CA-394726",
+  "name": "Lancaster Behavioral Health Hospital",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Lancaster Behavioral Health Hospital",
+  "union": null,
+  "city": "Lancaster",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-11",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394726",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-11",
+  "captured_at": "2026-09-15T11:56:46-04:00"
+ },
+ "04-CA-394749": {
+  "case_number": "04-CA-394749",
+  "name": "Rosemont Care & Rehabilitation",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Rosemont Care & Rehabilitation",
+  "union": "SEIU Health Care of Pennsylvania",
+  "city": "Bryn Mawr",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-11",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394749",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-11",
+  "captured_at": "2026-09-15T11:56:46-04:00"
+ },
+ "04-CA-394761": {
+  "case_number": "04-CA-394761",
+  "name": "AFT Pennsylvania",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "AFT Pennsylvania",
+  "union": "Federation of Teachers Staff Union Local 4",
+  "city": "Plymouth Meeting",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-11",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(2) Domination",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394761",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-11",
+  "captured_at": "2026-09-15T11:56:47-04:00"
+ },
+ "04-CA-394745": {
+  "case_number": "04-CA-394745",
+  "name": "AB Car Rental Services, Inc. (Avis Budget Group)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "AB Car Rental Services, Inc. (Avis Budget Group)",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394745",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-14",
+  "captured_at": "2026-09-15T11:56:47-04:00"
+ },
+ "04-CA-394753": {
+  "case_number": "04-CA-394753",
+  "name": "Morgan Automotive",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Morgan Automotive",
+  "union": null,
+  "city": "Manheim",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394753",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-14",
+  "captured_at": "2026-09-15T11:56:47-04:00"
+ },
+ "04-CA-394804": {
+  "case_number": "04-CA-394804",
+  "name": "Jefferson Einstein Philadelphia",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Jefferson Einstein Philadelphia",
+  "union": "Einstein Nurses Union/Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394804",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-14",
+  "captured_at": "2026-09-15T11:56:48-04:00"
  }
 }

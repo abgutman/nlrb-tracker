@@ -1571,3 +1571,23 @@
 [2026-09-14 13:17:22 ET]   decisions: 0 new
 [2026-09-14 13:17:22 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-15 11:56:39 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-15 11:56:46 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-15 11:56:46 ET]   source DB freshness (max filing.updated_at): 2026-09-15 10:08:43
+[2026-09-15 11:56:46 ET] === NLRB poll (since 2026-09-14; filings≥2026-09-07, decisions≥2026-08-31, live=True) ===
+[2026-09-15 11:56:46 ET]   + FILING: 04-CA-394726 | CA | Lancaster Behavioral Health Hospital
+[2026-09-15 11:56:46 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:46 ET]   + FILING: 04-CA-394749 | CA | Rosemont Care & Rehabilitation
+[2026-09-15 11:56:46 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:47 ET]   + FILING: 04-CA-394761 | CA | AFT Pennsylvania
+[2026-09-15 11:56:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:47 ET]   + FILING: 04-CA-394745 | CA | AB Car Rental Services, Inc. (Avis Budget Group)
+[2026-09-15 11:56:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:47 ET]   + FILING: 04-CA-394753 | CA | Morgan Automotive
+[2026-09-15 11:56:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:48 ET]   + FILING: 04-CA-394804 | CA | Jefferson Einstein Philadelphia
+[2026-09-15 11:56:48 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-15 11:56:48 ET]   filings: 6 new
+[2026-09-15 11:56:48 ET]   decisions: 0 new
+[2026-09-15 11:56:48 ET] === Poll done. 6 new filings, 0 new decisions. ===
+
