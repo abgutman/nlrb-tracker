@@ -1591,3 +1591,14 @@
 [2026-09-15 11:56:48 ET]   decisions: 0 new
 [2026-09-15 11:56:48 ET] === Poll done. 6 new filings, 0 new decisions. ===
 
+[2026-09-16 11:49:20 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-16 11:49:27 ET]   DB ready: nlrb.db (1019 MB)
+[2026-09-16 11:49:27 ET]   source DB freshness (max filing.updated_at): 2026-09-16 10:03:43
+[2026-09-16 11:49:27 ET] === NLRB poll (since 2026-09-15; filings≥2026-09-08, decisions≥2026-09-01, live=True) ===
+[2026-09-16 11:49:28 ET]   + FILING: 04-CA-394851 | CA | United States Postal Service
+[2026-09-16 11:49:28 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-16 11:49:28 ET]   + FILING: 04-RM-394871 | RM | Boardwalk 1000, LLC d/b/a Hard Rock Hotel & Casino
+[2026-09-16 11:49:30 ET]   filings: 2 new
+[2026-09-16 11:49:30 ET]   decisions: 0 new
+[2026-09-16 11:49:30 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
