@@ -13063,5 +13063,92 @@
   "latest_action": "Signed RM Petition",
   "latest_action_date": "2026-09-15",
   "captured_at": "2026-09-16T11:49:28-04:00"
+ },
+ "04-CA-394948": {
+  "case_number": "04-CA-394948",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "American Postal Workers Union",
+  "city": "Aberdeen",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394948",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-15",
+  "captured_at": "2026-09-17T11:55:45-04:00"
+ },
+ "04-CA-394955": {
+  "case_number": "04-CA-394955",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "American Postal Workers Union",
+  "city": "Williamstown",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394955",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-15",
+  "captured_at": "2026-09-17T11:55:45-04:00"
+ },
+ "04-RM-394951": {
+  "case_number": "04-RM-394951",
+  "name": "Comprehensive Logistics, Inc.",
+  "kind": "Representation",
+  "case_type": "RM",
+  "case_code": "RM",
+  "employer": "Comprehensive Logistics, Inc.",
+  "union": "IBT Highway Truck Drivers & Helpers Local 107",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RM-394951",
+  "latest_action": "Signed RM Petition",
+  "latest_action_date": "2026-09-15",
+  "captured_at": "2026-09-17T11:55:45-04:00"
+ },
+ "04-CA-394997": {
+  "case_number": "04-CA-394997",
+  "name": "Shenandoah Heights/Ridgeview Healthcare & Rehabilitation Center",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Shenandoah Heights/Ridgeview Healthcare & Rehabilitation Center",
+  "union": "SEIU HCPA",
+  "city": "Shenandoah",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Recognize"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-394997",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-16",
+  "captured_at": "2026-09-17T11:55:47-04:00"
  }
 }

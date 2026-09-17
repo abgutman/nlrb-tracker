@@ -1602,3 +1602,18 @@
 [2026-09-16 11:49:30 ET]   decisions: 0 new
 [2026-09-16 11:49:30 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-09-17 11:55:39 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-17 11:55:44 ET]   DB ready: nlrb.db (1020 MB)
+[2026-09-17 11:55:44 ET]   source DB freshness (max filing.updated_at): 2026-09-17 10:18:59
+[2026-09-17 11:55:44 ET] === NLRB poll (since 2026-09-16; filings≥2026-09-09, decisions≥2026-09-02, live=True) ===
+[2026-09-17 11:55:45 ET]   + FILING: 04-CA-394948 | CA | United States Postal Service
+[2026-09-17 11:55:45 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-17 11:55:45 ET]   + FILING: 04-CA-394955 | CA | United States Postal Service
+[2026-09-17 11:55:45 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-17 11:55:45 ET]   + FILING: 04-RM-394951 | RM | Comprehensive Logistics, Inc.
+[2026-09-17 11:55:47 ET]   + FILING: 04-CA-394997 | CA | Shenandoah Heights/Ridgeview Healthcare & Rehabili
+[2026-09-17 11:55:47 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-17 11:55:47 ET]   filings: 4 new
+[2026-09-17 11:55:47 ET]   decisions: 0 new
+[2026-09-17 11:55:47 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
