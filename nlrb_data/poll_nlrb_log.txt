@@ -1617,3 +1617,22 @@
 [2026-09-17 11:55:47 ET]   decisions: 0 new
 [2026-09-17 11:55:47 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-09-18 11:29:45 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-18 11:29:52 ET]   DB ready: nlrb.db (1020 MB)
+[2026-09-18 11:29:52 ET]   source DB freshness (max filing.updated_at): 2026-09-18 09:45:14
+[2026-09-18 11:29:52 ET] === NLRB poll (since 2026-09-17; filings≥2026-09-10, decisions≥2026-09-03, live=True) ===
+[2026-09-18 11:29:52 ET]   + FILING: 04-CA-395066 | CA | UPS
+[2026-09-18 11:29:52 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-18 11:29:52 ET]   + FILING: 04-CA-395045 | CA | United States Postal Service
+[2026-09-18 11:29:52 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-18 11:29:53 ET]   + FILING: 04-CA-395054 | CA | United States Postal Service
+[2026-09-18 11:29:53 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-18 11:29:53 ET]   + FILING: 04-CA-395056 | CA | Helping Hands Family
+[2026-09-18 11:29:53 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-18 11:29:53 ET]   + FILING: 04-CB-395046 | CB | Printing Packaging and Production Workers Union (A
+[2026-09-18 11:29:53 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-18 11:29:54 ET]   + FILING: 04-UD-395104 | UD | Penske Truck Rental
+[2026-09-18 11:29:56 ET]   filings: 6 new
+[2026-09-18 11:29:56 ET]   decisions: 0 new
+[2026-09-18 11:29:56 ET] === Poll done. 6 new filings, 0 new decisions. ===
+
