@@ -13284,5 +13284,25 @@
   "latest_action": "Signed UD Petition",
   "latest_action_date": "2026-09-17",
   "captured_at": "2026-09-18T11:29:54-04:00"
+ },
+ "04-RC-395173": {
+  "case_number": "04-RC-395173",
+  "name": "Allied Universal",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Allied Universal",
+  "union": "International Union, Security, Police and Fire Professionals of America (SPFPA)",
+  "city": "Fairless Hills",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-18",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-395173",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-09-18",
+  "captured_at": "2026-09-20T11:08:42-04:00"
  }
 }
