@@ -1653,3 +1653,20 @@
 [2026-09-20 11:08:44 ET]   decisions: 0 new
 [2026-09-20 11:08:44 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-09-21 12:01:53 ET] === NLRB weekly ULP digest (15 pending, live=True) ===
+[2026-09-21 12:01:53 ET]   · 04-CA-394726 | 2026-09-11 | Lancaster Behavioral Health Hospital
+[2026-09-21 12:01:53 ET]   · 04-CA-394749 | 2026-09-11 | Rosemont Care & Rehabilitation
+[2026-09-21 12:01:53 ET]   · 04-CA-394761 | 2026-09-11 | AFT Pennsylvania
+[2026-09-21 12:01:53 ET]   · 04-CA-394745 | 2026-09-14 | AB Car Rental Services, Inc. (Avis Budget Group)
+[2026-09-21 12:01:53 ET]   · 04-CA-394753 | 2026-09-14 | Morgan Automotive
+[2026-09-21 12:01:53 ET]   · 04-CA-394804 | 2026-09-14 | Jefferson Einstein Philadelphia
+[2026-09-21 12:01:53 ET]   · 04-CA-395066 | 2026-09-14 | UPS
+[2026-09-21 12:01:53 ET]   · 04-CA-394851 | 2026-09-15 | United States Postal Service
+[2026-09-21 12:01:53 ET]   · 04-CA-394948 | 2026-09-15 | United States Postal Service
+[2026-09-21 12:01:53 ET]   · 04-CA-394955 | 2026-09-15 | United States Postal Service
+[2026-09-21 12:01:53 ET]   · 04-CA-394997 | 2026-09-16 | Shenandoah Heights/Ridgeview Healthcare & Rehabili
+[2026-09-21 12:01:53 ET]   · 04-CA-395045 | 2026-09-16 | United States Postal Service
+[2026-09-21 12:01:53 ET]   · 04-CA-395054 | 2026-09-16 | United States Postal Service
+[2026-09-21 12:01:53 ET]   · 04-CA-395056 | 2026-09-17 | Helping Hands Family
+[2026-09-21 12:01:53 ET]   · 04-CB-395046 | 2026-09-17 | Amcor Flexibles North America
+[2026-09-21 12:01:56 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
