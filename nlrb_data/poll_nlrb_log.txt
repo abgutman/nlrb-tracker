@@ -1670,3 +1670,11 @@
 [2026-09-21 12:01:53 ET]   · 04-CA-395056 | 2026-09-17 | Helping Hands Family
 [2026-09-21 12:01:53 ET]   · 04-CB-395046 | 2026-09-17 | Amcor Flexibles North America
 [2026-09-21 12:01:56 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
+[2026-09-21 13:29:40 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-21 13:29:44 ET]   DB ready: nlrb.db (1020 MB)
+[2026-09-21 13:29:44 ET]   source DB freshness (max filing.updated_at): 2026-09-21 10:46:40
+[2026-09-21 13:29:44 ET] === NLRB poll (since 2026-09-20; filings≥2026-09-13, decisions≥2026-09-06, live=True) ===
+[2026-09-21 13:29:44 ET]   filings: 0 new
+[2026-09-21 13:29:44 ET]   decisions: 0 new
+[2026-09-21 13:29:44 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
