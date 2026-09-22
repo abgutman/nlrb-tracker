@@ -1678,3 +1678,19 @@
 [2026-09-21 13:29:44 ET]   decisions: 0 new
 [2026-09-21 13:29:44 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-22 11:58:53 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-22 11:59:00 ET]   DB ready: nlrb.db (1020 MB)
+[2026-09-22 11:59:00 ET]   source DB freshness (max filing.updated_at): 2026-09-22 10:07:47
+[2026-09-22 11:59:01 ET] === NLRB poll (since 2026-09-21; filings≥2026-09-14, decisions≥2026-09-07, live=True) ===
+[2026-09-22 11:59:01 ET]   + FILING: 04-CA-395265 | CA | United States Postal Service
+[2026-09-22 11:59:01 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-22 11:59:01 ET]   + FILING: 04-CA-395263 | CA | Elwyn Inc
+[2026-09-22 11:59:01 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-22 11:59:01 ET]   + FILING: 04-CA-395270 | CA | Jefferson Bucks Hospital
+[2026-09-22 11:59:01 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-22 11:59:02 ET]   + FILING: 04-CB-395267 | CB | IBEW LOCAL 743 (Pagoda Electrical Inc.)
+[2026-09-22 11:59:02 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-22 11:59:02 ET]   filings: 4 new
+[2026-09-22 11:59:02 ET]   decisions: 0 new
+[2026-09-22 11:59:02 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
