@@ -13424,5 +13424,117 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-09-21",
   "captured_at": "2026-09-22T11:59:02-04:00"
+ },
+ "04-CB-395416": {
+  "case_number": "04-CB-395416",
+  "name": "International Brotherhood of Teamsters Local 623 (United Parcel Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United Parcel Service",
+  "union": "International Brotherhood of Teamsters Local 623",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395416",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-21",
+  "captured_at": "2026-09-23T11:49:43-04:00"
+ },
+ "04-CB-395418": {
+  "case_number": "04-CB-395418",
+  "name": "RWDSU Local 108 (Maple Ridge Rehabilitation)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Maple Ridge Rehabilitation",
+  "union": "RWDSU Local 108",
+  "city": "Kingston",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access",
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(1)(A) Discipline (including charges/fines)/Harassment"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395418",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-22",
+  "captured_at": "2026-09-23T11:49:44-04:00"
+ },
+ "04-CB-395444": {
+  "case_number": "04-CB-395444",
+  "name": "Wilmington, Delaware/Malcolm T. Smith Area Local 152, American Postal Workers Union, AFL-CIO (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "Wilmington, Delaware/Malcolm T. Smith Area Local 152, American Postal Workers Union, AFL-CIO",
+  "city": "Newport",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395444",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-21",
+  "captured_at": "2026-09-23T11:49:44-04:00"
+ },
+ "04-CA-395462": {
+  "case_number": "04-CA-395462",
+  "name": "Blaschak Anthracite Corporation",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Blaschak Anthracite Corporation",
+  "union": null,
+  "city": "Mount Carmel",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-22",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395462",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-22",
+  "captured_at": "2026-09-23T11:49:44-04:00"
+ },
+ "04-CA-395476": {
+  "case_number": "04-CA-395476",
+  "name": "TE Connectivity \u2013 Building 113",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "TE Connectivity",
+  "union": null,
+  "city": "Mount Joy",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-22",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395476",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-22",
+  "captured_at": "2026-09-23T11:49:45-04:00"
  }
 }
