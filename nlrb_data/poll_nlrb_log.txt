@@ -1712,3 +1712,13 @@
 [2026-09-23 11:49:45 ET]   decisions: 0 new
 [2026-09-23 11:49:45 ET] === Poll done. 5 new filings, 0 new decisions. ===
 
+[2026-09-24 12:11:05 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-24 12:11:09 ET]   DB ready: nlrb.db (1020 MB)
+[2026-09-24 12:11:09 ET]   source DB freshness (max filing.updated_at): 2026-09-24 09:58:08
+[2026-09-24 12:11:09 ET] === NLRB poll (since 2026-09-23; filings≥2026-09-16, decisions≥2026-09-09, live=True) ===
+[2026-09-24 12:11:10 ET]   + FILING: 04-CA-395538 | CA | Alpha Century Security, Inc.
+[2026-09-24 12:11:10 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-24 12:11:10 ET]   filings: 1 new
+[2026-09-24 12:11:10 ET]   decisions: 0 new
+[2026-09-24 12:11:10 ET] === Poll done. 1 new filings, 0 new decisions. ===
+

@@ -13536,5 +13536,28 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-09-22",
   "captured_at": "2026-09-23T11:49:45-04:00"
+ },
+ "04-CA-395538": {
+  "case_number": "04-CA-395538",
+  "name": "Alpha Century Security, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Alpha Century Security, Inc.",
+  "union": "Security Alliance Federation of Employees Union Local 642",
+  "city": "Newtown Square",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395538",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-23",
+  "captured_at": "2026-09-24T12:11:10-04:00"
  }
 }
