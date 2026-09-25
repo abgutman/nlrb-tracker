@@ -1722,3 +1722,24 @@
 [2026-09-24 12:11:10 ET]   decisions: 0 new
 [2026-09-24 12:11:10 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-09-25 12:11:52 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-25 12:11:56 ET]   DB ready: nlrb.db (1021 MB)
+[2026-09-25 12:11:56 ET]   source DB freshness (max filing.updated_at): 2026-09-25 10:15:44
+[2026-09-25 12:11:56 ET] === NLRB poll (since 2026-09-24; filings≥2026-09-17, decisions≥2026-09-10, live=True) ===
+[2026-09-25 12:11:56 ET]   + FILING: 04-CA-395603 | CA | Meritus Solutions Group
+[2026-09-25 12:11:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-25 12:11:56 ET]   + FILING: 04-CB-395577 | CB | Mid-Atlantic Regional Joint Board Workers United L
+[2026-09-25 12:11:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-25 12:11:57 ET]   + FILING: 04-RC-395591 | RC | Logan Operator, LLC d/b/a Fountainview at Logan Sq
+[2026-09-25 12:11:58 ET]   + FILING: 04-CA-395581 | CA | University of Pennsylvania
+[2026-09-25 12:11:58 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-25 12:11:58 ET]   + FILING: 04-CA-395628 | CA | Tropicana Atlantic City
+[2026-09-25 12:11:58 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-25 12:11:59 ET]   + FILING: 04-CA-395632 | CA | Foulkeways At Gwynedd
+[2026-09-25 12:11:59 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-25 12:11:59 ET]   + FILING: 04-RC-395593 | RC | Boardwalk 1000, LLC d/b/a Hard Rock Hotel & Casino
+[2026-09-25 12:12:00 ET]   + FILING: 04-RC-395600 | RC | Eagleville Hospital
+[2026-09-25 12:12:01 ET]   filings: 8 new
+[2026-09-25 12:12:01 ET]   decisions: 0 new
+[2026-09-25 12:12:01 ET] === Poll done. 8 new filings, 0 new decisions. ===
+
