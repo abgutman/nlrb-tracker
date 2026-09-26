@@ -1743,3 +1743,18 @@
 [2026-09-25 12:12:01 ET]   decisions: 0 new
 [2026-09-25 12:12:01 ET] === Poll done. 8 new filings, 0 new decisions. ===
 
+[2026-09-26 11:25:17 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-26 11:25:23 ET]   DB ready: nlrb.db (1021 MB)
+[2026-09-26 11:25:23 ET]   source DB freshness (max filing.updated_at): 2026-09-26 09:59:57
+[2026-09-26 11:25:23 ET] === NLRB poll (since 2026-09-25; filings≥2026-09-18, decisions≥2026-09-11, live=True) ===
+[2026-09-26 11:25:24 ET]   + FILING: 04-CA-395659 | CA | North Penn Polishing & Plating
+[2026-09-26 11:25:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-26 11:25:24 ET]   + FILING: 04-CA-395664 | CA | Amazon Data Services, Inc.
+[2026-09-26 11:25:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-26 11:25:24 ET]   + FILING: 04-CA-395669 | CA | Canteen/Compass Group
+[2026-09-26 11:25:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-26 11:25:24 ET]   + FILING: 04-RC-395717 | RC | Canteen/Compass Group
+[2026-09-26 11:25:26 ET]   filings: 4 new
+[2026-09-26 11:25:26 ET]   decisions: 0 new
+[2026-09-26 11:25:26 ET] === Poll done. 4 new filings, 0 new decisions. ===
+

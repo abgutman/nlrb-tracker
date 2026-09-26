@@ -13734,5 +13734,91 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-09-24",
   "captured_at": "2026-09-25T12:12:00-04:00"
+ },
+ "04-CA-395659": {
+  "case_number": "04-CA-395659",
+  "name": "North Penn Polishing & Plating",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "North Penn Polishing & Plating",
+  "union": null,
+  "city": "Sellersville",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395659",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-25",
+  "captured_at": "2026-09-26T11:25:24-04:00"
+ },
+ "04-CA-395664": {
+  "case_number": "04-CA-395664",
+  "name": "Amazon Data Services, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Amazon Data Services",
+  "union": null,
+  "city": "Morrisville",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395664",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-25",
+  "captured_at": "2026-09-26T11:25:24-04:00"
+ },
+ "04-CA-395669": {
+  "case_number": "04-CA-395669",
+  "name": "Canteen/Compass Group",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Canteen/Compass Group",
+  "union": "UAW Local 677",
+  "city": "Allentown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395669",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-25",
+  "captured_at": "2026-09-26T11:25:24-04:00"
+ },
+ "04-RC-395717": {
+  "case_number": "04-RC-395717",
+  "name": "Canteen/Compass Group",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Canteen/Compass Group",
+  "union": null,
+  "city": "Allentown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-395717",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-09-25",
+  "captured_at": "2026-09-26T11:25:24-04:00"
  }
 }
