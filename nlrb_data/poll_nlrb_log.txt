@@ -1766,3 +1766,23 @@
 [2026-09-27 12:04:51 ET]   decisions: 0 new
 [2026-09-27 12:04:51 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-28 13:49:39 ET] === NLRB weekly ULP digest (18 pending, live=True) ===
+[2026-09-28 13:49:39 ET]   · 04-CA-395265 | 2026-09-18 | United States Postal Service
+[2026-09-28 13:49:39 ET]   · 04-CA-395263 | 2026-09-21 | Elwyn Inc
+[2026-09-28 13:49:39 ET]   · 04-CA-395270 | 2026-09-21 | Jefferson Bucks Hospital
+[2026-09-28 13:49:39 ET]   · 04-CB-395267 | 2026-09-21 | Pagoda Electrical Inc.
+[2026-09-28 13:49:39 ET]   · 04-CB-395416 | 2026-09-21 | United Parcel Service
+[2026-09-28 13:49:39 ET]   · 04-CB-395418 | 2026-09-21 | Maple Ridge Rehabilitation
+[2026-09-28 13:49:39 ET]   · 04-CB-395444 | 2026-09-21 | United States Postal Service
+[2026-09-28 13:49:39 ET]   · 04-CA-395462 | 2026-09-22 | Blaschak Anthracite Corporation
+[2026-09-28 13:49:39 ET]   · 04-CA-395476 | 2026-09-22 | TE Connectivity
+[2026-09-28 13:49:39 ET]   · 04-CA-395538 | 2026-09-23 | Alpha Century Security, Inc.
+[2026-09-28 13:49:39 ET]   · 04-CA-395603 | 2026-09-23 | Meritus Solutions Group
+[2026-09-28 13:49:39 ET]   · 04-CB-395577 | 2026-09-23 | Lear Corporation
+[2026-09-28 13:49:39 ET]   · 04-CA-395581 | 2026-09-24 | University of Pennsylvania
+[2026-09-28 13:49:39 ET]   · 04-CA-395628 | 2026-09-24 | Tropicana Atlantic City
+[2026-09-28 13:49:39 ET]   · 04-CA-395632 | 2026-09-24 | Foulkeways at Gwynedd
+[2026-09-28 13:49:39 ET]   · 04-CA-395659 | 2026-09-25 | North Penn Polishing & Plating
+[2026-09-28 13:49:39 ET]   · 04-CA-395664 | 2026-09-25 | Amazon Data Services
+[2026-09-28 13:49:39 ET]   · 04-CA-395669 | 2026-09-25 | Canteen/Compass Group
+[2026-09-28 13:49:41 ET]   digest sent to 3 recipient(s); 18 ULP case(s) flagged ulp_notified
