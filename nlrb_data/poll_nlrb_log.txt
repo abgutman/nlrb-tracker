@@ -1786,3 +1786,11 @@
 [2026-09-28 13:49:39 ET]   · 04-CA-395664 | 2026-09-25 | Amazon Data Services
 [2026-09-28 13:49:39 ET]   · 04-CA-395669 | 2026-09-25 | Canteen/Compass Group
 [2026-09-28 13:49:41 ET]   digest sent to 3 recipient(s); 18 ULP case(s) flagged ulp_notified
+[2026-09-28 14:59:35 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-28 14:59:42 ET]   DB ready: nlrb.db (1021 MB)
+[2026-09-28 14:59:42 ET]   source DB freshness (max filing.updated_at): 2026-09-28 11:31:03
+[2026-09-28 14:59:42 ET] === NLRB poll (since 2026-09-27; filings≥2026-09-20, decisions≥2026-09-13, live=True) ===
+[2026-09-28 14:59:42 ET]   filings: 0 new
+[2026-09-28 14:59:42 ET]   decisions: 0 new
+[2026-09-28 14:59:42 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
