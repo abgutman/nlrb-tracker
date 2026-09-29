@@ -1794,3 +1794,17 @@
 [2026-09-28 14:59:42 ET]   decisions: 0 new
 [2026-09-28 14:59:42 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-09-29 13:19:51 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-29 13:19:56 ET]   DB ready: nlrb.db (1021 MB)
+[2026-09-29 13:19:56 ET]   source DB freshness (max filing.updated_at): 2026-09-29 11:23:29
+[2026-09-29 13:19:56 ET] === NLRB poll (since 2026-09-28; filings≥2026-09-21, decisions≥2026-09-14, live=True) ===
+[2026-09-29 13:19:56 ET]   + FILING: 04-CA-395800 | CA | United States Postal Service
+[2026-09-29 13:19:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-29 13:19:57 ET]   + FILING: 04-CA-395818 | CA | Liberty Coca Cola
+[2026-09-29 13:19:57 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-29 13:19:57 ET]   + FILING: 04-CB-395808 | CB | Teamsters Local Union 830 (Liberty Coca Cola)
+[2026-09-29 13:19:57 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-29 13:19:57 ET]   filings: 3 new
+[2026-09-29 13:19:57 ET]   decisions: 0 new
+[2026-09-29 13:19:57 ET] === Poll done. 3 new filings, 0 new decisions. ===
+
