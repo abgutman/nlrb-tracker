@@ -13923,5 +13923,92 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-09-28",
   "captured_at": "2026-09-29T13:19:57-04:00"
+ },
+ "04-CA-395864": {
+  "case_number": "04-CA-395864",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "APWU Philadelphia Local",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395864",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-28",
+  "captured_at": "2026-09-30T13:17:43-04:00"
+ },
+ "04-CA-395920": {
+  "case_number": "04-CA-395920",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "South Jersey APWU Local 0526",
+  "city": "Williamstown",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395920",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-29",
+  "captured_at": "2026-09-30T13:17:44-04:00"
+ },
+ "04-CB-395904": {
+  "case_number": "04-CB-395904",
+  "name": "ILA Local 1694 (Enstructure)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "ILA Local 1694",
+  "union": null,
+  "city": "Wilmington",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395904",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-29",
+  "captured_at": "2026-09-30T13:17:44-04:00"
+ },
+ "04-RM-395862": {
+  "case_number": "04-RM-395862",
+  "name": "Canteen Vending a division of Compass Group, USA",
+  "kind": "Representation",
+  "case_type": "RM",
+  "case_code": "RM",
+  "employer": "Canteen Vending, a division of Compass Group USA",
+  "union": "United Auto Workers Local 677 a/w The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW)",
+  "city": "Allentown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RM-395862",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-09-30T13:17:45-04:00"
  }
 }

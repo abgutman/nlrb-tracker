@@ -1808,3 +1808,18 @@
 [2026-09-29 13:19:57 ET]   decisions: 0 new
 [2026-09-29 13:19:57 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-09-30 13:17:39 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-09-30 13:17:43 ET]   DB ready: nlrb.db (1021 MB)
+[2026-09-30 13:17:43 ET]   source DB freshness (max filing.updated_at): 2026-09-30 11:06:58
+[2026-09-30 13:17:43 ET] === NLRB poll (since 2026-09-29; filings≥2026-09-22, decisions≥2026-09-15, live=True) ===
+[2026-09-30 13:17:43 ET]   + FILING: 04-CA-395864 | CA | United States Postal Service
+[2026-09-30 13:17:43 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-30 13:17:44 ET]   + FILING: 04-CA-395920 | CA | United States Postal Service
+[2026-09-30 13:17:44 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-30 13:17:44 ET]   + FILING: 04-CB-395904 | CB | ILA Local 1694 (Enstructure)
+[2026-09-30 13:17:44 ET]     (ULP held for weekly digest — no immediate email)
+[2026-09-30 13:17:45 ET]   + FILING: 04-RM-395862 | RM | Canteen Vending a division of Compass Group, USA
+[2026-09-30 13:17:45 ET]   filings: 4 new
+[2026-09-30 13:17:46 ET]   decisions: 0 new
+[2026-09-30 13:17:46 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
