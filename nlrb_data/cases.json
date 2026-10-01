@@ -14010,5 +14010,117 @@
   "latest_action": "",
   "latest_action_date": "",
   "captured_at": "2026-09-30T13:17:45-04:00"
+ },
+ "04-CA-395959": {
+  "case_number": "04-CA-395959",
+  "name": "Morrison Healthcare",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Morrison Healthcare",
+  "union": "District 1199C National Union of Hospital and Health Care Employees, AFSCME AFL-CIO",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395959",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-29",
+  "captured_at": "2026-10-01T13:45:37-04:00"
+ },
+ "04-CB-395977": {
+  "case_number": "04-CB-395977",
+  "name": "Teamsters Local Union 229 (United Parcel Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United Parcel Service",
+  "union": "Teamsters Local Union 229",
+  "city": "Taylor",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395977",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-29",
+  "captured_at": "2026-10-01T13:45:37-04:00"
+ },
+ "04-CA-395966": {
+  "case_number": "04-CA-395966",
+  "name": "Merck Sharp & Dohme LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Merck Sharp & Dohme LLC",
+  "union": null,
+  "city": "Upper Gwynedd",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-395966",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-09-30",
+  "captured_at": "2026-10-01T13:45:38-04:00"
+ },
+ "04-CB-395973": {
+  "case_number": "04-CB-395973",
+  "name": "IUE-CWA Local 81134",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Timken/GGB",
+  "union": "IUE-CWA Local 81134",
+  "city": "Thorofare",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-395973",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-30",
+  "captured_at": "2026-10-01T13:45:38-04:00"
+ },
+ "04-CB-396037": {
+  "case_number": "04-CB-396037",
+  "name": "APWU Philadelphia Local 89 (USPS)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "APWU Philadelphia Local",
+  "city": "Darby",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396037",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-09-30",
+  "captured_at": "2026-10-01T13:45:38-04:00"
  }
 }
