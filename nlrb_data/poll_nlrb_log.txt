@@ -1841,3 +1841,16 @@
 [2026-10-01 13:45:39 ET]   decisions: 0 new
 [2026-10-01 13:45:39 ET] === Poll done. 5 new filings, 0 new decisions. ===
 
+[2026-10-02 13:05:44 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-02 13:05:48 ET]   DB ready: nlrb.db (1021 MB)
+[2026-10-02 13:05:48 ET]   source DB freshness (max filing.updated_at): 2026-10-02 11:08:58
+[2026-10-02 13:05:48 ET] === NLRB poll (since 2026-10-01; filings≥2026-09-24, decisions≥2026-09-17, live=True) ===
+[2026-10-02 13:05:49 ET]   + FILING: 04-CA-396077 | CA | United States Postal Service
+[2026-10-02 13:05:49 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-02 13:05:49 ET]   + FILING: 04-CA-396106 | CA | Davis Vision/Versant Health (Newtown Square Labora
+[2026-10-02 13:05:49 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-02 13:05:49 ET]   + FILING: 04-RM-396118 | RM | Eagleville Hospital
+[2026-10-02 13:05:50 ET]   filings: 3 new
+[2026-10-02 13:05:50 ET]   decisions: 0 new
+[2026-10-02 13:05:50 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

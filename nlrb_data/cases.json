@@ -14122,5 +14122,71 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-09-30",
   "captured_at": "2026-10-01T13:45:38-04:00"
+ },
+ "04-CA-396077": {
+  "case_number": "04-CA-396077",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "APWU / Phila. Local 89",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-09-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396077",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-01",
+  "captured_at": "2026-10-02T13:05:49-04:00"
+ },
+ "04-CA-396106": {
+  "case_number": "04-CA-396106",
+  "name": "Davis Vision/Versant Health (Newtown Square Laboratory Operations)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Davis Vision/Versant Health (Newtown Square Laboratory Operations)",
+  "union": "IUE-CWA 81408",
+  "city": "Newtown Square",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(2) Domination"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396106",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-01",
+  "captured_at": "2026-10-02T13:05:49-04:00"
+ },
+ "04-RM-396118": {
+  "case_number": "04-RM-396118",
+  "name": "Eagleville Hospital",
+  "kind": "Representation",
+  "case_type": "RM",
+  "case_code": "RM",
+  "employer": "Eagleville Hospital",
+  "union": "Philadelphia Security Officers Union",
+  "city": "Eagleville",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-01",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RM-396118",
+  "latest_action": "Signed RM Petition",
+  "latest_action_date": "2026-10-01",
+  "captured_at": "2026-10-02T13:05:49-04:00"
  }
 }
