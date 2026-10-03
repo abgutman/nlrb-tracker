@@ -1854,3 +1854,16 @@
 [2026-10-02 13:05:50 ET]   decisions: 0 new
 [2026-10-02 13:05:50 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-10-03 11:27:04 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-03 11:27:08 ET]   DB ready: nlrb.db (1022 MB)
+[2026-10-03 11:27:08 ET]   source DB freshness (max filing.updated_at): 2026-10-03 10:38:15
+[2026-10-03 11:27:08 ET] === NLRB poll (since 2026-10-02; filings≥2026-09-25, decisions≥2026-09-18, live=True) ===
+[2026-10-03 11:27:08 ET]   + FILING: 04-CB-396161 | CB | South Jersey Area Local 526 - APWU
+[2026-10-03 11:27:08 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-03 11:27:08 ET]   + FILING: 04-CA-396207 | CA | Traffic Engineering Services
+[2026-10-03 11:27:08 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-03 11:27:08 ET]   filings: 2 new
+[2026-10-03 11:27:08 ET]   + DECISION: 04-RM-394147 | Certification of Representative | 2026-10-02 | RAM Partners, LLC
+[2026-10-03 11:27:09 ET]   decisions: 1 new
+[2026-10-03 11:27:09 ET] === Poll done. 2 new filings, 1 new decisions. ===
+
