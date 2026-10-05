@@ -1892,3 +1892,11 @@
 [2026-10-05 14:52:20 ET]   · 04-CB-396161 | 2026-10-01 | United States Postal Service
 [2026-10-05 14:52:20 ET]   · 04-CA-396207 | 2026-10-02 | Traffic Engineering Services
 [2026-10-05 14:52:22 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
+[2026-10-05 15:58:34 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-05 15:58:39 ET]   DB ready: nlrb.db (1022 MB)
+[2026-10-05 15:58:39 ET]   source DB freshness (max filing.updated_at): 2026-10-05 12:05:04
+[2026-10-05 15:58:39 ET] === NLRB poll (since 2026-10-04; filings≥2026-09-27, decisions≥2026-09-20, live=True) ===
+[2026-10-05 15:58:39 ET]   filings: 0 new
+[2026-10-05 15:58:39 ET]   decisions: 0 new
+[2026-10-05 15:58:39 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
