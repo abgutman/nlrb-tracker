@@ -1875,3 +1875,20 @@
 [2026-10-04 12:12:01 ET]   decisions: 0 new
 [2026-10-04 12:12:02 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-05 14:52:20 ET] === NLRB weekly ULP digest (15 pending, live=True) ===
+[2026-10-05 14:52:20 ET]   · 04-CA-395800 | 2026-09-28 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CA-395818 | 2026-09-28 | Liberty Coca Cola
+[2026-10-05 14:52:20 ET]   · 04-CA-395864 | 2026-09-28 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CB-395808 | 2026-09-28 | Liberty Coca Cola
+[2026-10-05 14:52:20 ET]   · 04-CA-395920 | 2026-09-29 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CA-395959 | 2026-09-29 | Morrison Healthcare
+[2026-10-05 14:52:20 ET]   · 04-CB-395904 | 2026-09-29 | ILA Local 1694
+[2026-10-05 14:52:20 ET]   · 04-CB-395977 | 2026-09-29 | United Parcel Service
+[2026-10-05 14:52:20 ET]   · 04-CA-395966 | 2026-09-30 | Merck Sharp & Dohme LLC
+[2026-10-05 14:52:20 ET]   · 04-CA-396077 | 2026-09-30 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CB-395973 | 2026-09-30 | Timken/GGB
+[2026-10-05 14:52:20 ET]   · 04-CB-396037 | 2026-09-30 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CA-396106 | 2026-10-01 | Davis Vision/Versant Health (Newtown Square Labora
+[2026-10-05 14:52:20 ET]   · 04-CB-396161 | 2026-10-01 | United States Postal Service
+[2026-10-05 14:52:20 ET]   · 04-CA-396207 | 2026-10-02 | Traffic Engineering Services
+[2026-10-05 14:52:22 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
