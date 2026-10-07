@@ -910,5 +910,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d4584399102",
   "captured_at": "2026-10-03T11:27:08-04:00"
+ },
+ "04-RD-392905::2026-10-06::a9a3": {
+  "case_number": "04-RD-392905",
+  "name": "Fairmount Foundry, Inc.",
+  "kind": "Representation",
+  "case_code": "RD",
+  "decision_type": "Election Results Certified",
+  "date": "2026-10-06",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458439fb2b",
+  "captured_at": "2026-10-07T14:10:23-04:00"
  }
 }

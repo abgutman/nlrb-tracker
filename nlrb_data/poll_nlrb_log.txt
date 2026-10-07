@@ -1908,3 +1908,20 @@
 [2026-10-06 13:38:25 ET]   decisions: 0 new
 [2026-10-06 13:38:25 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-07 14:10:14 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-07 14:10:22 ET]   DB ready: nlrb.db (1022 MB)
+[2026-10-07 14:10:22 ET]   source DB freshness (max filing.updated_at): 2026-10-07 11:51:24
+[2026-10-07 14:10:22 ET] === NLRB poll (since 2026-10-06; filings≥2026-09-29, decisions≥2026-09-22, live=True) ===
+[2026-10-07 14:10:22 ET]   + FILING: 04-CA-396354 | CA | Geisinger Community Medical Center
+[2026-10-07 14:10:22 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-07 14:10:23 ET]   + FILING: 04-CA-396373 | CA | American Oncologic Hospital d/b/a Hospital of the 
+[2026-10-07 14:10:23 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-07 14:10:23 ET]   + FILING: 04-CA-396387 | CA | Independent Options LLC
+[2026-10-07 14:10:23 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-07 14:10:23 ET]   + FILING: 04-CB-396400 | CB | BCTGM Local 464 Chocolate Workers (Cargill)
+[2026-10-07 14:10:23 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-07 14:10:23 ET]   filings: 4 new
+[2026-10-07 14:10:23 ET]   + DECISION: 04-RD-392905 | Election Results Certified | 2026-10-06 | Fairmount Foundry, Inc.
+[2026-10-07 14:10:25 ET]   decisions: 1 new
+[2026-10-07 14:10:25 ET] === Poll done. 4 new filings, 1 new decisions. ===
+

@@ -14262,5 +14262,93 @@
   "captured_at": "2026-10-03T11:27:08-04:00",
   "ulp_notified": true,
   "ulp_notified_at": "2026-10-05T14:52:22-04:00"
+ },
+ "04-CA-396354": {
+  "case_number": "04-CA-396354",
+  "name": "Geisinger Community Medical Center",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Geisinger Community Medical Center",
+  "union": "Northeast Pennsylvania Nurses Association PASNAP",
+  "city": "Scranton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-05",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396354",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-06",
+  "captured_at": "2026-10-07T14:10:22-04:00"
+ },
+ "04-CA-396373": {
+  "case_number": "04-CA-396373",
+  "name": "American Oncologic Hospital d/b/a Hospital of the Fox Chase Cancer Center/Temple University Health System",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "American Oncologic Hospital d/b/a Hospital of the Fox Chase Cancer Center/Temple University Health System",
+  "union": "Pennsylvania Association of Staff Nurses and Allied Professionals",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-06",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396373",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-06",
+  "captured_at": "2026-10-07T14:10:23-04:00"
+ },
+ "04-CA-396387": {
+  "case_number": "04-CA-396387",
+  "name": "Independent Options LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Independent Options LLC",
+  "union": null,
+  "city": "West Bradford",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-06",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396387",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-06",
+  "captured_at": "2026-10-07T14:10:23-04:00"
+ },
+ "04-CB-396400": {
+  "case_number": "04-CB-396400",
+  "name": "BCTGM Local 464 Chocolate Workers (Cargill)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Cargill",
+  "union": "BCTGM Local 464 Chocolate Workers",
+  "city": "Lititz",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-06",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396400",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-06",
+  "captured_at": "2026-10-07T14:10:23-04:00"
  }
 }
