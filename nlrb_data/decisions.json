@@ -922,5 +922,17 @@
   "document": "Certification of Results",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d458439fb2b",
   "captured_at": "2026-10-07T14:10:23-04:00"
+ },
+ "04-RM-390302::2026-10-06::1598": {
+  "case_number": "04-RM-390302",
+  "name": "Pleasant Hospitality LLC d/b/a Four Points by Sheraton Northeast",
+  "kind": "Representation",
+  "case_code": "RM",
+  "decision_type": "Board Decision",
+  "date": "2026-10-06",
+  "actor": "NLRB - Board",
+  "document": "Board Decision",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843a2797",
+  "captured_at": "2026-10-08T14:12:37-04:00"
  }
 }

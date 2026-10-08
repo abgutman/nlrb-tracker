@@ -14350,5 +14350,47 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-06",
   "captured_at": "2026-10-07T14:10:23-04:00"
+ },
+ "04-CA-396573": {
+  "case_number": "04-CA-396573",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Reading",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-07",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396573",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-07",
+  "captured_at": "2026-10-08T14:12:36-04:00"
+ },
+ "04-RC-396481": {
+  "case_number": "04-RC-396481",
+  "name": "US Facilities Company Inc.",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "U.S. Facilities Company, Inc.",
+  "union": "International Union of Operating Engineers, Local 542",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-07",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-396481",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-10-07",
+  "captured_at": "2026-10-08T14:12:36-04:00"
  }
 }
