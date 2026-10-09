@@ -1937,3 +1937,17 @@
 [2026-10-08 14:12:39 ET]   decisions: 1 new
 [2026-10-08 14:12:39 ET] === Poll done. 2 new filings, 1 new decisions. ===
 
+[2026-10-09 13:45:40 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-09 13:45:45 ET]   DB ready: nlrb.db (1022 MB)
+[2026-10-09 13:45:45 ET]   source DB freshness (max filing.updated_at): 2026-10-09 12:07:35
+[2026-10-09 13:45:45 ET] === NLRB poll (since 2026-10-08; filings≥2026-10-01, decisions≥2026-09-24, live=True) ===
+[2026-10-09 13:45:45 ET]   + FILING: 04-CB-396574 | CB | American Postal Workers Union (United States Posta
+[2026-10-09 13:45:45 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-09 13:45:45 ET]   + FILING: 04-CB-396575 | CB | SEIU Healthcare Pennsylvania (Rosemont Care and Re
+[2026-10-09 13:45:45 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-09 13:45:46 ET]   + FILING: 04-CA-396608 | CA | Six Flags Great Adventure
+[2026-10-09 13:45:46 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-09 13:45:46 ET]   filings: 3 new
+[2026-10-09 13:45:46 ET]   decisions: 0 new
+[2026-10-09 13:45:46 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

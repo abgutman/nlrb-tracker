@@ -14392,5 +14392,74 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-10-07",
   "captured_at": "2026-10-08T14:12:36-04:00"
+ },
+ "04-CB-396574": {
+  "case_number": "04-CB-396574",
+  "name": "American Postal Workers Union (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "American Postal Workers Union",
+  "city": "Reading",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-07",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access",
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining",
+   "8(b)(1)(A) Coercion, incl'g Statements and Violence"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396574",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-07",
+  "captured_at": "2026-10-09T13:45:45-04:00"
+ },
+ "04-CB-396575": {
+  "case_number": "04-CB-396575",
+  "name": "SEIU Healthcare Pennsylvania (Rosemont Care and Rehabilitation Center)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Rosemont Care and Rehabilitation Center",
+  "union": "SEIU Healthcare Pennsylvania CTW, CLC",
+  "city": "Bryn Mawr",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-07",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396575",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-07",
+  "captured_at": "2026-10-09T13:45:45-04:00"
+ },
+ "04-CA-396608": {
+  "case_number": "04-CA-396608",
+  "name": "Six Flags Great Adventure",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Six Flags Great Adventure",
+  "union": null,
+  "city": "Jackson",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-08",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396608",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-08",
+  "captured_at": "2026-10-09T13:45:46-04:00"
  }
 }
