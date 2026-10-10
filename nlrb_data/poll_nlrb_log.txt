@@ -1951,3 +1951,17 @@
 [2026-10-09 13:45:46 ET]   decisions: 0 new
 [2026-10-09 13:45:46 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-10-10 12:39:02 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-10 12:39:10 ET]   DB ready: nlrb.db (1022 MB)
+[2026-10-10 12:39:11 ET]   source DB freshness (max filing.updated_at): 2026-10-10 11:23:21
+[2026-10-10 12:39:11 ET] === NLRB poll (since 2026-10-09; filings≥2026-10-02, decisions≥2026-09-25, live=True) ===
+[2026-10-10 12:39:11 ET]   + FILING: 04-CA-396774 | CA | Penn Terminals, LLC f/k/a Penn Terminals, Inc.
+[2026-10-10 12:39:11 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-10 12:39:11 ET]   + FILING: 04-CB-396776 | CB | Lodge 602 Of International Brotherhood Of Boilerma
+[2026-10-10 12:39:11 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-10 12:39:11 ET]   + FILING: 04-RC-396743 | RC | Hudson Property Management Services, LLC
+[2026-10-10 12:39:14 ET]   + FILING: 04-UD-396718 | UD | United States Postal Service
+[2026-10-10 12:39:16 ET]   filings: 4 new
+[2026-10-10 12:39:16 ET]   decisions: 0 new
+[2026-10-10 12:39:16 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
