@@ -1985,3 +1985,11 @@
 [2026-10-12 15:23:15 ET]   · 04-CA-396774 | 2026-10-09 | Penn Terminals, LLC f/k/a Penn Terminals, Inc.
 [2026-10-12 15:23:15 ET]   · 04-CB-396776 | 2026-10-09 | Penn Terminals, LLC f/k/a Penn Terminals, Inc.
 [2026-10-12 15:23:16 ET]   digest sent to 3 recipient(s); 10 ULP case(s) flagged ulp_notified
+[2026-10-12 16:37:56 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-12 16:38:01 ET]   DB ready: nlrb.db (1023 MB)
+[2026-10-12 16:38:01 ET]   source DB freshness (max filing.updated_at): 2026-10-11 11:33:24
+[2026-10-12 16:38:01 ET] === NLRB poll (since 2026-10-11; filings≥2026-10-04, decisions≥2026-09-27, live=True) ===
+[2026-10-12 16:38:01 ET]   filings: 0 new
+[2026-10-12 16:38:01 ET]   decisions: 0 new
+[2026-10-12 16:38:01 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
