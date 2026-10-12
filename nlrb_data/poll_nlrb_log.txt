@@ -1973,3 +1973,15 @@
 [2026-10-11 13:05:12 ET]   decisions: 0 new
 [2026-10-11 13:05:12 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-12 15:23:15 ET] === NLRB weekly ULP digest (10 pending, live=True) ===
+[2026-10-12 15:23:15 ET]   · 04-CA-396354 | 2026-10-05 | Geisinger Community Medical Center
+[2026-10-12 15:23:15 ET]   · 04-CA-396373 | 2026-10-06 | American Oncologic Hospital d/b/a Hospital of the 
+[2026-10-12 15:23:15 ET]   · 04-CA-396387 | 2026-10-06 | Independent Options LLC
+[2026-10-12 15:23:15 ET]   · 04-CB-396400 | 2026-10-06 | Cargill
+[2026-10-12 15:23:15 ET]   · 04-CA-396573 | 2026-10-07 | United States Postal Service
+[2026-10-12 15:23:15 ET]   · 04-CB-396574 | 2026-10-07 | United States Postal Service
+[2026-10-12 15:23:15 ET]   · 04-CB-396575 | 2026-10-07 | Rosemont Care and Rehabilitation Center
+[2026-10-12 15:23:15 ET]   · 04-CA-396608 | 2026-10-08 | Six Flags Great Adventure
+[2026-10-12 15:23:15 ET]   · 04-CA-396774 | 2026-10-09 | Penn Terminals, LLC f/k/a Penn Terminals, Inc.
+[2026-10-12 15:23:15 ET]   · 04-CB-396776 | 2026-10-09 | Penn Terminals, LLC f/k/a Penn Terminals, Inc.
+[2026-10-12 15:23:16 ET]   digest sent to 3 recipient(s); 10 ULP case(s) flagged ulp_notified
