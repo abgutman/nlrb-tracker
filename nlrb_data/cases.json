@@ -14566,5 +14566,160 @@
   "latest_action": "Signed UD Petition",
   "latest_action_date": "2026-10-09",
   "captured_at": "2026-10-10T12:39:14-04:00"
+ },
+ "04-CA-396807": {
+  "case_number": "04-CA-396807",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Reading",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396807",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:01-04:00"
+ },
+ "04-CA-396835": {
+  "case_number": "04-CA-396835",
+  "name": "Elwyn",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Elwyn, NJ",
+  "union": "COMMUNICATIONS WORKERS OF AMERICA, LOCAL 1040",
+  "city": "Media",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396835",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:02-04:00"
+ },
+ "04-CA-396856": {
+  "case_number": "04-CA-396856",
+  "name": "Pelican Pointe",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Pelican Pointe",
+  "union": "United Food and Commercial Workers, Local Union 152",
+  "city": "North Cape May",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396856",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:02-04:00"
+ },
+ "04-CA-396873": {
+  "case_number": "04-CA-396873",
+  "name": "The Hershey Company",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Hershey Company",
+  "union": null,
+  "city": "Hershey",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396873",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:02-04:00"
+ },
+ "04-CA-396890": {
+  "case_number": "04-CA-396890",
+  "name": "Acreage CCF NJ LLC.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Acreage CCF NJ LLC.",
+  "union": "United Food and Commercial Workers, Local Union 360",
+  "city": "Egg Harbor Township",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Changes in Terms and Conditions of Employment"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396890",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:02-04:00"
+ },
+ "04-CB-396802": {
+  "case_number": "04-CB-396802",
+  "name": "Teamsters Local 463 (Wawa Inc)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Wawa Inc",
+  "union": "Teamsters Local 463",
+  "city": "Media",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396802",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:03-04:00"
+ },
+ "04-CB-396826": {
+  "case_number": "04-CB-396826",
+  "name": "Laborers Local Union 108 (Aventura at Pembrooke)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Aventura at Pembrooke",
+  "union": "Laborers Local Union 108",
+  "city": "West Chester",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-396826",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-13",
+  "captured_at": "2026-10-14T12:13:03-04:00"
  }
 }
