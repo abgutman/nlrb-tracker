@@ -14721,5 +14721,51 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-13",
   "captured_at": "2026-10-14T12:13:03-04:00"
+ },
+ "04-CA-396912": {
+  "case_number": "04-CA-396912",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-08",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396912",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-10-15T12:00:29-04:00"
+ },
+ "04-CA-396985": {
+  "case_number": "04-CA-396985",
+  "name": "Cooking Acquisitions, LLC d/b/a Culinary Crafted Solutions",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Cooking Acquisitions, LLC d/b/a Culinary Crafted Solutions",
+  "union": "United Food and Commercial Workers Union Local 152",
+  "city": "Pennsauken",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-14",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Recognize",
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-396985",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-14",
+  "captured_at": "2026-10-15T12:00:29-04:00"
  }
 }

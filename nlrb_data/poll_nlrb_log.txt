@@ -2024,3 +2024,15 @@
 [2026-10-14 12:13:05 ET]   decisions: 1 new
 [2026-10-14 12:13:05 ET] === Poll done. 7 new filings, 1 new decisions. ===
 
+[2026-10-15 12:00:22 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-15 12:00:28 ET]   DB ready: nlrb.db (1023 MB)
+[2026-10-15 12:00:29 ET]   source DB freshness (max filing.updated_at): 2026-10-15 09:56:15
+[2026-10-15 12:00:29 ET] === NLRB poll (since 2026-10-14; filings≥2026-10-07, decisions≥2026-09-30, live=True) ===
+[2026-10-15 12:00:29 ET]   + FILING: 04-CA-396912 | CA | United States Postal Service
+[2026-10-15 12:00:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-15 12:00:29 ET]   + FILING: 04-CA-396985 | CA | Cooking Acquisitions, LLC d/b/a Culinary Crafted S
+[2026-10-15 12:00:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-15 12:00:29 ET]   filings: 2 new
+[2026-10-15 12:00:30 ET]   decisions: 0 new
+[2026-10-15 12:00:30 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
