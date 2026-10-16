@@ -14767,5 +14767,94 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-10-14",
   "captured_at": "2026-10-15T12:00:29-04:00"
+ },
+ "04-CA-397043": {
+  "case_number": "04-CA-397043",
+  "name": "Pennsylvania American Water",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Pennsylvania American Water",
+  "union": "Teamsters Local Union 229",
+  "city": "Scranton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397043",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-15",
+  "captured_at": "2026-10-16T11:49:01-04:00"
+ },
+ "04-CA-397050": {
+  "case_number": "04-CA-397050",
+  "name": "The Fire One",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Fire One",
+  "union": null,
+  "city": "Warrington",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397050",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-15",
+  "captured_at": "2026-10-16T11:49:01-04:00"
+ },
+ "04-CA-397088": {
+  "case_number": "04-CA-397088",
+  "name": "Target Corporation (Store #3263)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Target Corporation (Store #3263)",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Interrogation (including Polling)",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397088",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-15",
+  "captured_at": "2026-10-16T11:49:02-04:00"
+ },
+ "04-CB-397086": {
+  "case_number": "04-CB-397086",
+  "name": "ILA Local Union 1694 (Enstructure)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Enstructure",
+  "union": "ILA Local Union 1694",
+  "city": "Wilmington",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-15",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Hiring Halls"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397086",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-15",
+  "captured_at": "2026-10-16T11:49:02-04:00"
  }
 }
