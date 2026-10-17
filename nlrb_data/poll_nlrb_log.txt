@@ -2052,3 +2052,16 @@
 [2026-10-16 11:49:02 ET]   decisions: 0 new
 [2026-10-16 11:49:02 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-10-17 10:41:58 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-17 10:42:02 ET]   DB ready: nlrb.db (1023 MB)
+[2026-10-17 10:42:03 ET]   source DB freshness (max filing.updated_at): 2026-10-17 09:39:44
+[2026-10-17 10:42:03 ET] === NLRB poll (since 2026-10-16; filings≥2026-10-09, decisions≥2026-10-02, live=True) ===
+[2026-10-17 10:42:03 ET]   + FILING: 04-CA-397170 | CA | Muller, Inc.
+[2026-10-17 10:42:03 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-17 10:42:04 ET]   + FILING: 04-CB-397130 | CB | Teamsters Local Union 929 (Ryeco LLC)
+[2026-10-17 10:42:04 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-17 10:42:04 ET]   filings: 2 new
+[2026-10-17 10:42:04 ET]   + DECISION: 04-RC-393858 | Election Results Certified | 2026-10-15 | Starbucks Corporation
+[2026-10-17 10:42:05 ET]   decisions: 1 new
+[2026-10-17 10:42:05 ET] === Poll done. 2 new filings, 1 new decisions. ===
+

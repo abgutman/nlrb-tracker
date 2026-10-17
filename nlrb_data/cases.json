@@ -14856,5 +14856,49 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-15",
   "captured_at": "2026-10-16T11:49:02-04:00"
+ },
+ "04-CA-397170": {
+  "case_number": "04-CA-397170",
+  "name": "Muller, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Muller, Inc.",
+  "union": "Teamsters Local Union No. 830",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397170",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-16",
+  "captured_at": "2026-10-17T10:42:03-04:00"
+ },
+ "04-CB-397130": {
+  "case_number": "04-CB-397130",
+  "name": "Teamsters Local Union 929 (Ryeco LLC)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Ryeco LLC",
+  "union": "Teamsters Local Union 929",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397130",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-16",
+  "captured_at": "2026-10-17T10:42:04-04:00"
  }
 }

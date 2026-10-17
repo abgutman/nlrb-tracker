@@ -946,5 +946,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843ae748",
   "captured_at": "2026-10-14T12:13:03-04:00"
+ },
+ "04-RC-393858::2026-10-15::a9a3": {
+  "case_number": "04-RC-393858",
+  "name": "Starbucks Corporation",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Election Results Certified",
+  "date": "2026-10-15",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843b3122",
+  "captured_at": "2026-10-17T10:42:04-04:00"
  }
 }
