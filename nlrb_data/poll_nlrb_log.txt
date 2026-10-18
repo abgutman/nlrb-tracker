@@ -2065,3 +2065,11 @@
 [2026-10-17 10:42:05 ET]   decisions: 1 new
 [2026-10-17 10:42:05 ET] === Poll done. 2 new filings, 1 new decisions. ===
 
+[2026-10-18 11:07:37 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-18 11:07:43 ET]   DB ready: nlrb.db (1023 MB)
+[2026-10-18 11:07:43 ET]   source DB freshness (max filing.updated_at): 2026-10-18 09:43:27
+[2026-10-18 11:07:43 ET] === NLRB poll (since 2026-10-17; filings≥2026-10-10, decisions≥2026-10-03, live=True) ===
+[2026-10-18 11:07:43 ET]   filings: 0 new
+[2026-10-18 11:07:43 ET]   decisions: 0 new
+[2026-10-18 11:07:43 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
