@@ -2073,3 +2073,20 @@
 [2026-10-18 11:07:43 ET]   decisions: 0 new
 [2026-10-18 11:07:43 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-19 12:38:40 ET] === NLRB weekly ULP digest (15 pending, live=True) ===
+[2026-10-19 12:38:40 ET]   · 04-CA-396912 | 2026-10-08 | United States Postal Service
+[2026-10-19 12:38:40 ET]   · 04-CA-396807 | 2026-10-13 | United States Postal Service
+[2026-10-19 12:38:40 ET]   · 04-CA-396835 | 2026-10-13 | Elwyn, NJ
+[2026-10-19 12:38:40 ET]   · 04-CA-396856 | 2026-10-13 | Pelican Pointe
+[2026-10-19 12:38:40 ET]   · 04-CA-396873 | 2026-10-13 | The Hershey Company
+[2026-10-19 12:38:40 ET]   · 04-CA-396890 | 2026-10-13 | Acreage CCF NJ LLC.
+[2026-10-19 12:38:40 ET]   · 04-CB-396802 | 2026-10-13 | Wawa Inc
+[2026-10-19 12:38:40 ET]   · 04-CB-396826 | 2026-10-13 | Aventura at Pembrooke
+[2026-10-19 12:38:40 ET]   · 04-CA-396985 | 2026-10-14 | Cooking Acquisitions, LLC d/b/a Culinary Crafted S
+[2026-10-19 12:38:40 ET]   · 04-CA-397043 | 2026-10-15 | Pennsylvania American Water
+[2026-10-19 12:38:40 ET]   · 04-CA-397050 | 2026-10-15 | The Fire One
+[2026-10-19 12:38:40 ET]   · 04-CA-397088 | 2026-10-15 | Target Corporation (Store #3263)
+[2026-10-19 12:38:40 ET]   · 04-CB-397086 | 2026-10-15 | Enstructure
+[2026-10-19 12:38:40 ET]   · 04-CA-397170 | 2026-10-16 | Muller, Inc.
+[2026-10-19 12:38:40 ET]   · 04-CB-397130 | 2026-10-16 | Ryeco LLC
+[2026-10-19 12:38:41 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
