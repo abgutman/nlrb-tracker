@@ -2090,3 +2090,11 @@
 [2026-10-19 12:38:40 ET]   · 04-CA-397170 | 2026-10-16 | Muller, Inc.
 [2026-10-19 12:38:40 ET]   · 04-CB-397130 | 2026-10-16 | Ryeco LLC
 [2026-10-19 12:38:41 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
+[2026-10-19 14:00:07 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-19 14:00:14 ET]   DB ready: nlrb.db (1023 MB)
+[2026-10-19 14:00:14 ET]   source DB freshness (max filing.updated_at): 2026-10-19 10:44:33
+[2026-10-19 14:00:14 ET] === NLRB poll (since 2026-10-18; filings≥2026-10-11, decisions≥2026-10-04, live=True) ===
+[2026-10-19 14:00:14 ET]   filings: 0 new
+[2026-10-19 14:00:15 ET]   decisions: 0 new
+[2026-10-19 14:00:15 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
