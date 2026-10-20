@@ -2098,3 +2098,30 @@
 [2026-10-19 14:00:15 ET]   decisions: 0 new
 [2026-10-19 14:00:15 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-20 12:04:20 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-20 12:04:27 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-20 12:04:27 ET]   source DB freshness (max filing.updated_at): 2026-10-20 10:15:02
+[2026-10-20 12:04:27 ET] === NLRB poll (since 2026-10-19; filings≥2026-10-12, decisions≥2026-10-05, live=True) ===
+[2026-10-20 12:04:27 ET]   + FILING: 04-CA-397231 | CA | Bicycle Transit Systems, Inc. d/b/a Revolution BTS
+[2026-10-20 12:04:27 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:28 ET]   + FILING: 04-CA-397239 | CA | Audacy Pennsylvania LLC Radio D/B/A Sports Radio 9
+[2026-10-20 12:04:28 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:28 ET]   + FILING: 04-CA-397246 | CA | United States Postal Services
+[2026-10-20 12:04:28 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:28 ET]   + FILING: 04-CA-397244 | CA | Dave’s Trash Removal
+[2026-10-20 12:04:28 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:28 ET]   + FILING: 04-CA-397254 | CA | Leading Logistics
+[2026-10-20 12:04:28 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:29 ET]   + FILING: 04-CA-397260 | CA | Ports of the Marine Delaware Trade Association
+[2026-10-20 12:04:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:29 ET]   + FILING: 04-CA-397299 | CA | Lloyd Industries, Inc.
+[2026-10-20 12:04:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:29 ET]   + FILING: 04-CB-397283 | CB | International Brotherhood of Teamsters Local Union
+[2026-10-20 12:04:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:29 ET]   + FILING: 04-CB-397345 | CB | International Longshoremen's Association Local 129
+[2026-10-20 12:04:29 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-20 12:04:30 ET]   + FILING: 04-RC-397333 | RC | Equipment Share
+[2026-10-20 12:04:31 ET]   filings: 10 new
+[2026-10-20 12:04:31 ET]   decisions: 0 new
+[2026-10-20 12:04:31 ET] === Poll done. 10 new filings, 0 new decisions. ===
+
