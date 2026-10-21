@@ -2125,3 +2125,16 @@
 [2026-10-20 12:04:31 ET]   decisions: 0 new
 [2026-10-20 12:04:31 ET] === Poll done. 10 new filings, 0 new decisions. ===
 
+[2026-10-21 12:20:36 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-21 12:20:41 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-21 12:20:41 ET]   source DB freshness (max filing.updated_at): 2026-10-21 10:18:29
+[2026-10-21 12:20:41 ET] === NLRB poll (since 2026-10-20; filings≥2026-10-13, decisions≥2026-10-06, live=True) ===
+[2026-10-21 12:20:42 ET]   + FILING: 04-CB-397255 | CB | International Association of Bridge, Structural, O
+[2026-10-21 12:20:42 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-21 12:20:42 ET]   + FILING: 04-CA-397370 | CA | Aramark
+[2026-10-21 12:20:42 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-21 12:20:42 ET]   + FILING: 04-RM-397406 | RM | Healthcare Services Group, Inc.
+[2026-10-21 12:20:44 ET]   filings: 3 new
+[2026-10-21 12:20:44 ET]   decisions: 0 new
+[2026-10-21 12:20:44 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

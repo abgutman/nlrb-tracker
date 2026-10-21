@@ -15154,5 +15154,73 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-10-19",
   "captured_at": "2026-10-20T12:04:30-04:00"
+ },
+ "04-CB-397255": {
+  "case_number": "04-CB-397255",
+  "name": "International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers, AFL-CIO (Northern Valley Erectors. Inc.)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Northern Valley Erectors, Inc.",
+  "union": "International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers, AFL-CIO",
+  "city": "Washington",
+  "state": "DC",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(2) Hiring Hall Related",
+   "8(b)(2) Union Security Related Actions",
+   "8(b)(1)(A) Hiring Halls",
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397255",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-16",
+  "captured_at": "2026-10-21T12:20:42-04:00"
+ },
+ "04-CA-397370": {
+  "case_number": "04-CA-397370",
+  "name": "Aramark",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Aramark",
+  "union": null,
+  "city": "Wilkes-Barre",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397370",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-20",
+  "captured_at": "2026-10-21T12:20:42-04:00"
+ },
+ "04-RM-397406": {
+  "case_number": "04-RM-397406",
+  "name": "Healthcare Services Group, Inc.",
+  "kind": "Representation",
+  "case_type": "RM",
+  "case_code": "RM",
+  "employer": "Healthcare Service Group, Inc.",
+  "union": "National Union of Hospitals and Health Care Employees, AFSCME, AFL-CIO and its Affiliate District 1199C",
+  "city": "Broomall",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RM-397406",
+  "latest_action": "Signed RM Petition",
+  "latest_action_date": "2026-10-20",
+  "captured_at": "2026-10-21T12:20:42-04:00"
  }
 }
