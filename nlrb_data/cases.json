@@ -15222,5 +15222,92 @@
   "latest_action": "Signed RM Petition",
   "latest_action_date": "2026-10-20",
   "captured_at": "2026-10-21T12:20:42-04:00"
+ },
+ "04-CA-397464": {
+  "case_number": "04-CA-397464",
+  "name": "The Milton Hershey School",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Milton Hershey School",
+  "union": "Teamsters Local Union 776",
+  "city": "Hershey",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information",
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397464",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-20",
+  "captured_at": "2026-10-22T12:20:24-04:00"
+ },
+ "04-CA-397475": {
+  "case_number": "04-CA-397475",
+  "name": "CLC Philadelphia AFL-CIO",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "CLC Philadelphia AFL-CIO",
+  "union": "Teamsters Local Union 623",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-20",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397475",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-20",
+  "captured_at": "2026-10-22T12:20:24-04:00"
+ },
+ "04-CA-397526": {
+  "case_number": "04-CA-397526",
+  "name": "Berry Refrigeration Company, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Berry Refrigeration Company, Inc.",
+  "union": "Mid Atlantic Pipe Trades Association",
+  "city": "Newark",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397526",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-21",
+  "captured_at": "2026-10-22T12:20:24-04:00"
+ },
+ "04-RC-397516": {
+  "case_number": "04-RC-397516",
+  "name": "Alta Bus Group, Inc., d/b/a Alta Bus",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Alta Bus Group, Inc. d/b/a Alta Bus",
+  "union": "United Service Employees Union Local 455, IUJAT",
+  "city": "Chester",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-21",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-397516",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-10-21",
+  "captured_at": "2026-10-22T12:20:24-04:00"
  }
 }

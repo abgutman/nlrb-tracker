@@ -2138,3 +2138,18 @@
 [2026-10-21 12:20:44 ET]   decisions: 0 new
 [2026-10-21 12:20:44 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-10-22 12:20:17 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-22 12:20:23 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-22 12:20:23 ET]   source DB freshness (max filing.updated_at): 2026-10-22 10:25:56
+[2026-10-22 12:20:23 ET] === NLRB poll (since 2026-10-21; filings≥2026-10-14, decisions≥2026-10-07, live=True) ===
+[2026-10-22 12:20:24 ET]   + FILING: 04-CA-397464 | CA | The Milton Hershey School
+[2026-10-22 12:20:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-22 12:20:24 ET]   + FILING: 04-CA-397475 | CA | CLC Philadelphia AFL-CIO
+[2026-10-22 12:20:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-22 12:20:24 ET]   + FILING: 04-CA-397526 | CA | Berry Refrigeration Company, Inc.
+[2026-10-22 12:20:24 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-22 12:20:24 ET]   + FILING: 04-RC-397516 | RC | Alta Bus Group, Inc., d/b/a Alta Bus
+[2026-10-22 12:20:26 ET]   filings: 4 new
+[2026-10-22 12:20:27 ET]   decisions: 0 new
+[2026-10-22 12:20:27 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
