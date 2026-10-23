@@ -2153,3 +2153,20 @@
 [2026-10-22 12:20:27 ET]   decisions: 0 new
 [2026-10-22 12:20:27 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-10-23 12:09:28 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-23 12:09:33 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-23 12:09:33 ET]   source DB freshness (max filing.updated_at): 2026-10-23 10:35:50
+[2026-10-23 12:09:33 ET] === NLRB poll (since 2026-10-22; filings≥2026-10-15, decisions≥2026-10-08, live=True) ===
+[2026-10-23 12:09:34 ET]   + FILING: 04-CA-397542 | CA | Temple University Hospital
+[2026-10-23 12:09:34 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-23 12:09:34 ET]   + FILING: 04-CA-397573 | CA | Dentistry in Middletown
+[2026-10-23 12:09:34 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-23 12:09:34 ET]   + FILING: 04-CA-397581 | CA | Davidson Hospitality Group d/b/a the Sheraton Phil
+[2026-10-23 12:09:34 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-23 12:09:35 ET]   + FILING: 04-CA-397619 | CA | The American Oncologic Hospital d/b/a Hospital of 
+[2026-10-23 12:09:35 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-23 12:09:35 ET]   + FILING: 04-RC-397541 | RC | Temple Health - Chestnut Hill Hospital
+[2026-10-23 12:09:36 ET]   filings: 5 new
+[2026-10-23 12:09:37 ET]   decisions: 0 new
+[2026-10-23 12:09:37 ET] === Poll done. 5 new filings, 0 new decisions. ===
+
