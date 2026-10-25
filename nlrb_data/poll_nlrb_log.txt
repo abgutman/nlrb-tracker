@@ -2178,3 +2178,28 @@
 [2026-10-24 11:05:45 ET]   decisions: 0 new
 [2026-10-24 11:05:45 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-10-25 11:18:11 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-25 11:18:18 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-25 11:18:18 ET]   source DB freshness (max filing.updated_at): 2026-10-25 09:58:48
+[2026-10-25 11:18:18 ET] === NLRB poll (since 2026-10-24; filings≥2026-10-17, decisions≥2026-10-10, live=True) ===
+[2026-10-25 11:18:18 ET]   + FILING: 04-CA-397666 | CA | Pomeroy
+[2026-10-25 11:18:18 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:19 ET]   + FILING: 04-CA-397656 | CA | Brinks
+[2026-10-25 11:18:19 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:19 ET]   + FILING: 04-CA-397681 | CA | Norsk Hydro
+[2026-10-25 11:18:19 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:20 ET]   + FILING: 04-CA-397705 | CA | Bimbo Bakeries USA
+[2026-10-25 11:18:20 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:20 ET]   + FILING: 04-CA-397719 | CA | Temple Health d/b/a Temple University Hospital
+[2026-10-25 11:18:20 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:20 ET]   + FILING: 04-CB-397677 | CB | Federation of Teachers staff Union, #4 ("FTW") (Am
+[2026-10-25 11:18:20 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:21 ET]   + FILING: 04-CB-397685 | CB | Bakery, Confectionary, Tobacco, and Grain Millers,
+[2026-10-25 11:18:21 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-25 11:18:21 ET]   + FILING: 04-RC-397717 | RC | Random Productions, LLC (Task)
+[2026-10-25 11:18:22 ET]   filings: 8 new
+[2026-10-25 11:18:22 ET]   + DECISION: 04-RC-394654 | Certification of Representative | 2026-10-22 | Enliven, LLC d/b/a Enliven Planters
+[2026-10-25 11:18:24 ET]   + DECISION: 04-RM-394433 | Certification of Representative | 2026-10-22 | Enliven, LLC d/b/a Enliven Planters
+[2026-10-25 11:18:25 ET]   decisions: 2 new
+[2026-10-25 11:18:25 ET] === Poll done. 8 new filings, 2 new decisions. ===
+
