@@ -2203,3 +2203,30 @@
 [2026-10-25 11:18:25 ET]   decisions: 2 new
 [2026-10-25 11:18:25 ET] === Poll done. 8 new filings, 2 new decisions. ===
 
+[2026-10-26 12:19:04 ET] === NLRB weekly ULP digest (25 pending, live=True) ===
+[2026-10-26 12:19:04 ET]   · 04-CA-397231 | 2026-10-16 | Bicycle Transit Systems, Inc. d/b/a Revolution BTS
+[2026-10-26 12:19:04 ET]   · 04-CA-397239 | 2026-10-16 | Audacy Pennsylvania LLC Radio D/B/A Sports Radio 9
+[2026-10-26 12:19:04 ET]   · 04-CA-397246 | 2026-10-16 | United States Postal Services
+[2026-10-26 12:19:04 ET]   · 04-CB-397255 | 2026-10-16 | Northern Valley Erectors, Inc.
+[2026-10-26 12:19:04 ET]   · 04-CA-397244 | 2026-10-19 | Dave’s Trash Removal
+[2026-10-26 12:19:04 ET]   · 04-CA-397254 | 2026-10-19 | Leading Logistics
+[2026-10-26 12:19:04 ET]   · 04-CA-397260 | 2026-10-19 | Ports of the Delaware River Marine Trade Associati
+[2026-10-26 12:19:04 ET]   · 04-CA-397299 | 2026-10-19 | Lloyd Industries, Inc.
+[2026-10-26 12:19:04 ET]   · 04-CB-397283 | 2026-10-19 | Philly Transportation LLC
+[2026-10-26 12:19:04 ET]   · 04-CB-397345 | 2026-10-19 | Ports of the Delaware River Marine Trade Associati
+[2026-10-26 12:19:04 ET]   · 04-CA-397370 | 2026-10-20 | Aramark
+[2026-10-26 12:19:04 ET]   · 04-CA-397464 | 2026-10-20 | The Milton Hershey School
+[2026-10-26 12:19:04 ET]   · 04-CA-397475 | 2026-10-20 | CLC Philadelphia AFL-CIO
+[2026-10-26 12:19:04 ET]   · 04-CA-397526 | 2026-10-21 | Berry Refrigeration Company, Inc.
+[2026-10-26 12:19:04 ET]   · 04-CA-397542 | 2026-10-21 | Temple University Hospital
+[2026-10-26 12:19:04 ET]   · 04-CA-397573 | 2026-10-22 | Dentistry in Middletown
+[2026-10-26 12:19:04 ET]   · 04-CA-397581 | 2026-10-22 | Davidson Hospitality Group d/b/a the Sheraton Phil
+[2026-10-26 12:19:04 ET]   · 04-CA-397619 | 2026-10-22 | Institute for Cancer Research
+[2026-10-26 12:19:04 ET]   · 04-CA-397666 | 2026-10-22 | Pomeroy
+[2026-10-26 12:19:04 ET]   · 04-CA-397656 | 2026-10-23 | Brinks
+[2026-10-26 12:19:04 ET]   · 04-CA-397681 | 2026-10-23 | Norsk Hydro
+[2026-10-26 12:19:04 ET]   · 04-CA-397705 | 2026-10-23 | Bimbo Bakeries USA
+[2026-10-26 12:19:04 ET]   · 04-CA-397719 | 2026-10-23 | Temple Health d/b/a Temple University Hospital
+[2026-10-26 12:19:04 ET]   · 04-CB-397677 | 2026-10-23 | Federation of Teachers staff Union, #4 ("FTW") (Am
+[2026-10-26 12:19:04 ET]   · 04-CB-397685 | 2026-10-23 | Bimbo Bakeries USA
+[2026-10-26 12:19:06 ET]   digest sent to 3 recipient(s); 25 ULP case(s) flagged ulp_notified
