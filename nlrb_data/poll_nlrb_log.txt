@@ -2230,3 +2230,11 @@
 [2026-10-26 12:19:04 ET]   · 04-CB-397677 | 2026-10-23 | Federation of Teachers staff Union, #4 ("FTW") (Am
 [2026-10-26 12:19:04 ET]   · 04-CB-397685 | 2026-10-23 | Bimbo Bakeries USA
 [2026-10-26 12:19:06 ET]   digest sent to 3 recipient(s); 25 ULP case(s) flagged ulp_notified
+[2026-10-26 13:59:00 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-26 13:59:05 ET]   DB ready: nlrb.db (1024 MB)
+[2026-10-26 13:59:05 ET]   source DB freshness (max filing.updated_at): 2026-10-26 10:52:14
+[2026-10-26 13:59:05 ET] === NLRB poll (since 2026-10-25; filings≥2026-10-18, decisions≥2026-10-11, live=True) ===
+[2026-10-26 13:59:05 ET]   filings: 0 new
+[2026-10-26 13:59:06 ET]   decisions: 0 new
+[2026-10-26 13:59:06 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
