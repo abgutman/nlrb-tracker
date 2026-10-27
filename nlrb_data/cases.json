@@ -15645,5 +15645,49 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-10-23",
   "captured_at": "2026-10-25T11:18:21-04:00"
+ },
+ "04-CB-397752": {
+  "case_number": "04-CB-397752",
+  "name": "Laborers Local 1180 (Tunner/ Wilson)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Tunner/ Wilson",
+  "union": "Laborers Local 1180",
+  "city": "Lancaster",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-23",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397752",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-26",
+  "captured_at": "2026-10-27T13:04:54-04:00"
+ },
+ "04-CA-397831": {
+  "case_number": "04-CA-397831",
+  "name": "The Lion Brewery",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "The Lion Brewery",
+  "union": "International Union of Operating Engineers Local 542",
+  "city": "Pittston",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-26",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Weingarten"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397831",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-26",
+  "captured_at": "2026-10-27T13:04:54-04:00"
  }
 }
