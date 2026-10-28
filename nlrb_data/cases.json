@@ -15689,5 +15689,116 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-10-26",
   "captured_at": "2026-10-27T13:04:54-04:00"
+ },
+ "04-CA-397928": {
+  "case_number": "04-CA-397928",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": null,
+  "city": "Lakewood",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397928",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-27",
+  "captured_at": "2026-10-28T13:41:29-04:00"
+ },
+ "04-CA-397935": {
+  "case_number": "04-CA-397935",
+  "name": "Magic Ice USA, Inc. / Everything Ice, Inc. / Paychex PEO V LLC (Joint/Co-Employers)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Magic Ice USA, Inc. / Everything Ice, Inc. / Paychex PEO V LLC",
+  "union": null,
+  "city": "Conshohocken",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397935",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-27",
+  "captured_at": "2026-10-28T13:41:29-04:00"
+ },
+ "04-CB-397893": {
+  "case_number": "04-CB-397893",
+  "name": "Printing Packaging and Production Workers Union (Amcor Flexibles North America)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Amcor Flexibles North America",
+  "union": "Printing Packaging Production Workers Union",
+  "city": "Tresckow",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397893",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-27",
+  "captured_at": "2026-10-28T13:41:29-04:00"
+ },
+ "04-CB-397911": {
+  "case_number": "04-CB-397911",
+  "name": "Printing Packaging and Production Workers Union of North America Local 735-S (Amcor Flexibles North America)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Amcor Flexibles North America",
+  "union": "Printing Packaging Production Workers Union",
+  "city": "Tresckow",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397911",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-27",
+  "captured_at": "2026-10-28T13:41:30-04:00"
+ },
+ "04-CB-397915": {
+  "case_number": "04-CB-397915",
+  "name": "Printing Packaging and Production Workers Union (Amcor Flexibles North America)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Amcor Flexibles North America",
+  "union": "Printing Packaging Production Workers Union",
+  "city": "West Hazleton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-27",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-397915",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-27",
+  "captured_at": "2026-10-28T13:41:30-04:00"
  }
 }
