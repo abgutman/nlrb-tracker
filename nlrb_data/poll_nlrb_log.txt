@@ -2268,3 +2268,17 @@
 [2026-10-28 13:41:30 ET]   decisions: 0 new
 [2026-10-28 13:41:30 ET] === Poll done. 5 new filings, 0 new decisions. ===
 
+[2026-10-29 13:48:36 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-29 13:48:40 ET]   DB ready: nlrb.db (1025 MB)
+[2026-10-29 13:48:40 ET]   source DB freshness (max filing.updated_at): 2026-10-29 11:53:39
+[2026-10-29 13:48:40 ET] === NLRB poll (since 2026-10-28; filings≥2026-10-21, decisions≥2026-10-14, live=True) ===
+[2026-10-29 13:48:40 ET]   + FILING: 04-CA-397974 | CA | United Parcel Service
+[2026-10-29 13:48:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-29 13:48:41 ET]   + FILING: 04-CA-398034 | CA | Express Appliance Service
+[2026-10-29 13:48:41 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-29 13:48:41 ET]   + FILING: 04-CB-398019 | CB | Bakery, Confectionary, Tobacco, and Grain Millers,
+[2026-10-29 13:48:41 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-29 13:48:41 ET]   filings: 3 new
+[2026-10-29 13:48:41 ET]   decisions: 0 new
+[2026-10-29 13:48:41 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

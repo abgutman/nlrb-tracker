@@ -15800,5 +15800,71 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-27",
   "captured_at": "2026-10-28T13:41:30-04:00"
+ },
+ "04-CA-397974": {
+  "case_number": "04-CA-397974",
+  "name": "United Parcel Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United Parcel Service",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-397974",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-28",
+  "captured_at": "2026-10-29T13:48:40-04:00"
+ },
+ "04-CA-398034": {
+  "case_number": "04-CA-398034",
+  "name": "Express Appliance Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Express Appliance Service",
+  "union": null,
+  "city": "Pottstown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398034",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-28",
+  "captured_at": "2026-10-29T13:48:41-04:00"
+ },
+ "04-CB-398019": {
+  "case_number": "04-CB-398019",
+  "name": "Bakery, Confectionary, Tobacco, and Grain Millers, AFL-CIO, CLC Local 6 (Bimbo Bakeries USA)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Bimbo Bakeries USA",
+  "union": "Bakers Confectionary Workers & Grain Millers Union Local 6",
+  "city": "Horsham",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-28",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398019",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-28",
+  "captured_at": "2026-10-29T13:48:41-04:00"
  }
 }
