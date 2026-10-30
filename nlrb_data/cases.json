@@ -15866,5 +15866,49 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-28",
   "captured_at": "2026-10-29T13:48:41-04:00"
+ },
+ "04-CA-398077": {
+  "case_number": "04-CA-398077",
+  "name": "Aramark HQ",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Aramark HQ",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398077",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-29",
+  "captured_at": "2026-10-30T13:29:45-04:00"
+ },
+ "04-CB-398071": {
+  "case_number": "04-CB-398071",
+  "name": "Unite Here Local Union 274 (Aramark Xfinity Mobile Arena)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Aramark Xfinity Mobile Arena",
+  "union": "UNITE HERE Local Union 274",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-29",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398071",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-10-29",
+  "captured_at": "2026-10-30T13:29:46-04:00"
  }
 }

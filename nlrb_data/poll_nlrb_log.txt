@@ -2282,3 +2282,15 @@
 [2026-10-29 13:48:41 ET]   decisions: 0 new
 [2026-10-29 13:48:41 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-10-30 13:29:40 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-30 13:29:45 ET]   DB ready: nlrb.db (1025 MB)
+[2026-10-30 13:29:45 ET]   source DB freshness (max filing.updated_at): 2026-10-30 11:51:05
+[2026-10-30 13:29:45 ET] === NLRB poll (since 2026-10-29; filings≥2026-10-22, decisions≥2026-10-15, live=True) ===
+[2026-10-30 13:29:45 ET]   + FILING: 04-CA-398077 | CA | Aramark HQ
+[2026-10-30 13:29:45 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-30 13:29:46 ET]   + FILING: 04-CB-398071 | CB | Unite Here Local Union 274 (Aramark Xfinity Mobile
+[2026-10-30 13:29:46 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-30 13:29:46 ET]   filings: 2 new
+[2026-10-30 13:29:46 ET]   decisions: 0 new
+[2026-10-30 13:29:46 ET] === Poll done. 2 new filings, 0 new decisions. ===
+
