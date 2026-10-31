@@ -15910,5 +15910,27 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-10-29",
   "captured_at": "2026-10-30T13:29:46-04:00"
+ },
+ "04-CA-398199": {
+  "case_number": "04-CA-398199",
+  "name": "Sterling Utilities LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Sterling Utilities LLC",
+  "union": null,
+  "city": "Plymouth Meeting",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-10-30",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398199",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-10-30",
+  "captured_at": "2026-10-31T12:33:43-04:00"
  }
 }

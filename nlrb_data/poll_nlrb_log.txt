@@ -2294,3 +2294,13 @@
 [2026-10-30 13:29:46 ET]   decisions: 0 new
 [2026-10-30 13:29:46 ET] === Poll done. 2 new filings, 0 new decisions. ===
 
+[2026-10-31 12:33:38 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-10-31 12:33:43 ET]   DB ready: nlrb.db (1025 MB)
+[2026-10-31 12:33:43 ET]   source DB freshness (max filing.updated_at): 2026-10-31 11:08:30
+[2026-10-31 12:33:43 ET] === NLRB poll (since 2026-10-30; filings≥2026-10-23, decisions≥2026-10-16, live=True) ===
+[2026-10-31 12:33:43 ET]   + FILING: 04-CA-398199 | CA | Sterling Utilities LLC
+[2026-10-31 12:33:43 ET]     (ULP held for weekly digest — no immediate email)
+[2026-10-31 12:33:43 ET]   filings: 1 new
+[2026-10-31 12:33:44 ET]   decisions: 0 new
+[2026-10-31 12:33:44 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
