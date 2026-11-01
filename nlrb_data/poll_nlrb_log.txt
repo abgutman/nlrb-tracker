@@ -2304,3 +2304,13 @@
 [2026-10-31 12:33:44 ET]   decisions: 0 new
 [2026-10-31 12:33:44 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-11-01 13:25:51 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-01 13:25:58 ET]   DB ready: nlrb.db (1025 MB)
+[2026-11-01 13:25:58 ET]   source DB freshness (max filing.updated_at): 2026-11-01 12:03:27
+[2026-11-01 13:25:58 ET] === NLRB poll (since 2026-10-31; filings≥2026-10-24, decisions≥2026-10-17, live=True) ===
+[2026-11-01 13:25:58 ET]   filings: 0 new
+[2026-11-01 13:25:58 ET]   + DECISION: 04-RC-395717 | Certification of Representative | 2026-10-30 | Canteen, a division of Compass Group, US
+[2026-11-01 13:25:59 ET]   + DECISION: 04-RM-395862 | Certification of Representative | 2026-10-30 | Canteen, a division of Compass Group, US
+[2026-11-01 13:26:00 ET]   decisions: 2 new
+[2026-11-01 13:26:00 ET] === Poll done. 0 new filings, 2 new decisions. ===
+
