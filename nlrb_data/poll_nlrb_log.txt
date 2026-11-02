@@ -2329,3 +2329,11 @@
 [2026-11-02 15:49:12 ET]   · 04-CB-398071 | 2026-10-29 | Aramark Xfinity Mobile Arena
 [2026-11-02 15:49:12 ET]   · 04-CA-398199 | 2026-10-30 | Sterling Utilities LLC
 [2026-11-02 15:49:14 ET]   digest sent to 3 recipient(s); 13 ULP case(s) flagged ulp_notified
+[2026-11-02 17:08:24 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-02 17:08:34 ET]   DB ready: nlrb.db (1025 MB)
+[2026-11-02 17:08:34 ET]   source DB freshness (max filing.updated_at): 2026-11-02 13:12:00
+[2026-11-02 17:08:34 ET] === NLRB poll (since 2026-11-01; filings≥2026-10-25, decisions≥2026-10-18, live=True) ===
+[2026-11-02 17:08:34 ET]   filings: 0 new
+[2026-11-02 17:08:34 ET]   decisions: 0 new
+[2026-11-02 17:08:34 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
