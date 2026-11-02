@@ -2314,3 +2314,18 @@
 [2026-11-01 13:26:00 ET]   decisions: 2 new
 [2026-11-01 13:26:00 ET] === Poll done. 0 new filings, 2 new decisions. ===
 
+[2026-11-02 15:49:12 ET] === NLRB weekly ULP digest (13 pending, live=True) ===
+[2026-11-02 15:49:12 ET]   · 04-CB-397752 | 2026-10-23 | Tunner/ Wilson
+[2026-11-02 15:49:12 ET]   · 04-CA-397831 | 2026-10-26 | The Lion Brewery
+[2026-11-02 15:49:12 ET]   · 04-CA-397928 | 2026-10-27 | United States Postal Service
+[2026-11-02 15:49:12 ET]   · 04-CA-397935 | 2026-10-27 | Magic Ice USA, Inc. / Everything Ice, Inc. / Paych
+[2026-11-02 15:49:12 ET]   · 04-CB-397893 | 2026-10-27 | Amcor Flexibles North America
+[2026-11-02 15:49:12 ET]   · 04-CB-397911 | 2026-10-27 | Amcor Flexibles North America
+[2026-11-02 15:49:12 ET]   · 04-CB-397915 | 2026-10-27 | Amcor Flexibles North America
+[2026-11-02 15:49:12 ET]   · 04-CA-397974 | 2026-10-28 | United Parcel Service
+[2026-11-02 15:49:12 ET]   · 04-CA-398034 | 2026-10-28 | Express Appliance Service
+[2026-11-02 15:49:12 ET]   · 04-CB-398019 | 2026-10-28 | Bimbo Bakeries USA
+[2026-11-02 15:49:12 ET]   · 04-CA-398077 | 2026-10-29 | Aramark HQ
+[2026-11-02 15:49:12 ET]   · 04-CB-398071 | 2026-10-29 | Aramark Xfinity Mobile Arena
+[2026-11-02 15:49:12 ET]   · 04-CA-398199 | 2026-10-30 | Sterling Utilities LLC
+[2026-11-02 15:49:14 ET]   digest sent to 3 recipient(s); 13 ULP case(s) flagged ulp_notified
