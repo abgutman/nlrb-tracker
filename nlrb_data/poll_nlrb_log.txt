@@ -2337,3 +2337,19 @@
 [2026-11-02 17:08:34 ET]   decisions: 0 new
 [2026-11-02 17:08:34 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-03 14:51:34 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-03 14:51:39 ET]   DB ready: nlrb.db (1025 MB)
+[2026-11-03 14:51:39 ET]   source DB freshness (max filing.updated_at): 2026-11-03 12:39:49
+[2026-11-03 14:51:39 ET] === NLRB poll (since 2026-11-02; filings≥2026-10-26, decisions≥2026-10-19, live=True) ===
+[2026-11-03 14:51:39 ET]   + FILING: 04-RC-398260 | RC | FreedomPark Valet Services
+[2026-11-03 14:51:43 ET]   + FILING: 04-CA-398247 | CA | Jefferson Health d/b/a Jefferson Einstein Center O
+[2026-11-03 14:51:43 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-03 14:51:44 ET]   + FILING: 04-CB-398289 | CB | United Steelworkers (USW) Local 286
+[2026-11-03 14:51:44 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-03 14:51:44 ET]   + FILING: 04-CB-398296 | CB | American Federation of State, County and Municipal
+[2026-11-03 14:51:44 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-03 14:51:44 ET]   + FILING: 04-RC-398249 | RC | SCA Sweeping Corporation of America
+[2026-11-03 14:51:45 ET]   filings: 5 new
+[2026-11-03 14:51:45 ET]   decisions: 0 new
+[2026-11-03 14:51:45 ET] === Poll done. 5 new filings, 0 new decisions. ===
+
