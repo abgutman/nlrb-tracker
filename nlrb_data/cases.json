@@ -16066,5 +16066,96 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-11-02",
   "captured_at": "2026-11-03T14:51:44-04:00"
+ },
+ "04-CA-398399": {
+  "case_number": "04-CA-398399",
+  "name": "Hyde Park Hospitality, LLC",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Hyde Park Hospitality, LLC",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398399",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-03",
+  "captured_at": "2026-11-04T15:08:17-04:00"
+ },
+ "04-CA-398406": {
+  "case_number": "04-CA-398406",
+  "name": "Baldor Specialty Foods",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Baldor Specialty Foods",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(4) Discharge (including Layoff and Refusal to Hire)",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398406",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-03",
+  "captured_at": "2026-11-04T15:08:18-04:00"
+ },
+ "04-CB-398385": {
+  "case_number": "04-CB-398385",
+  "name": "ILA Local 1883 Clerks & Checkers (Enstructure Wilmington)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Enstructure Wilmington",
+  "union": "ILA Local 1883 Clerks & Checkers",
+  "city": "Wilmington",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(2) Hiring Hall Related",
+   "8(b)(1)(A) Hiring Halls"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398385",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-03",
+  "captured_at": "2026-11-04T15:08:18-04:00"
+ },
+ "04-CB-398402": {
+  "case_number": "04-CB-398402",
+  "name": "Teamsters Local Union 463 (Grocery Haulers INC. GCI)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "Grocery Haulers Inc (GHI)",
+  "union": "Teamsters Local Union 463",
+  "city": "Burlington",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-03",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398402",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-02",
+  "captured_at": "2026-11-04T15:08:18-04:00"
  }
 }
