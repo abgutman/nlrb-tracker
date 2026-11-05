@@ -2370,3 +2370,17 @@
 [2026-11-04 15:08:20 ET]   decisions: 1 new
 [2026-11-04 15:08:20 ET] === Poll done. 4 new filings, 1 new decisions. ===
 
+[2026-11-05 15:15:26 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-05 15:15:31 ET]   DB ready: nlrb.db (1026 MB)
+[2026-11-05 15:15:31 ET]   source DB freshness (max filing.updated_at): 2026-11-05 13:07:31
+[2026-11-05 15:15:31 ET] === NLRB poll (since 2026-11-04; filings≥2026-10-28, decisions≥2026-10-21, live=True) ===
+[2026-11-05 15:15:31 ET]   + FILING: 04-CA-398448 | CA | Ball Corp
+[2026-11-05 15:15:31 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-05 15:15:32 ET]   + FILING: 04-CA-398451 | CA | Zest Restaurant Group
+[2026-11-05 15:15:32 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-05 15:15:32 ET]   + FILING: 04-CA-398469 | CA | United States Postal Service
+[2026-11-05 15:15:32 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-05 15:15:32 ET]   filings: 3 new
+[2026-11-05 15:15:32 ET]   decisions: 0 new
+[2026-11-05 15:15:32 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

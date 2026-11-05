@@ -16157,5 +16157,72 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-02",
   "captured_at": "2026-11-04T15:08:18-04:00"
+ },
+ "04-CA-398448": {
+  "case_number": "04-CA-398448",
+  "name": "Ball Corp",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Ball Corp",
+  "union": null,
+  "city": "Pittston (Township)",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398448",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-04",
+  "captured_at": "2026-11-05T15:15:31-04:00"
+ },
+ "04-CA-398451": {
+  "case_number": "04-CA-398451",
+  "name": "Zest Restaurant Group",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Zest Restaurant Group",
+  "union": null,
+  "city": "Cape May",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398451",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-04",
+  "captured_at": "2026-11-05T15:15:32-04:00"
+ },
+ "04-CA-398469": {
+  "case_number": "04-CA-398469",
+  "name": "United States Postal Service",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United States Postal Service",
+  "union": "South Jersey Area Local 0526",
+  "city": "Williamstown",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-04",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398469",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-04",
+  "captured_at": "2026-11-05T15:15:32-04:00"
  }
 }
