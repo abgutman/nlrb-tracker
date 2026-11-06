@@ -1018,5 +1018,17 @@
   "document": "Certification of Representative",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843d2cf8",
   "captured_at": "2026-11-04T15:08:18-04:00"
+ },
+ "04-UD-395104::2026-11-05::a9a3": {
+  "case_number": "04-UD-395104",
+  "name": "Penske Truck Leasing Co., LP",
+  "kind": "Representation",
+  "case_code": "UD",
+  "decision_type": "Election Results Certified",
+  "date": "2026-11-05",
+  "actor": "NLRB - GC",
+  "document": "Certification of Results",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843e6d91",
+  "captured_at": "2026-11-06T14:42:17-04:00"
  }
 }

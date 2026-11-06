@@ -16224,5 +16224,51 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-04",
   "captured_at": "2026-11-05T15:15:32-04:00"
+ },
+ "04-CA-398552": {
+  "case_number": "04-CA-398552",
+  "name": "OVG Hospitality",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "OVG Hospitality",
+  "union": null,
+  "city": "Atlantic City",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-05",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398552",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-05",
+  "captured_at": "2026-11-06T14:42:17-04:00"
+ },
+ "04-CA-398635": {
+  "case_number": "04-CA-398635",
+  "name": "Whole Foods Market Group, Inc.",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Whole Foods Market Group, Inc.",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-05",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(3) Changes in Terms and Conditions of Employment"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398635",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-05",
+  "captured_at": "2026-11-06T14:42:17-04:00"
  }
 }
