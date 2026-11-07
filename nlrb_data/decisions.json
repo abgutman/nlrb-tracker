@@ -1030,5 +1030,29 @@
   "document": "Certification of Results",
   "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843e6d91",
   "captured_at": "2026-11-06T14:42:17-04:00"
+ },
+ "04-RM-394951::2026-11-06::82aa": {
+  "case_number": "04-RM-394951",
+  "name": "Comprehensive Logistics, Inc.",
+  "kind": "Representation",
+  "case_code": "RM",
+  "decision_type": "Certification of Representative",
+  "date": "2026-11-06",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843e7797",
+  "captured_at": "2026-11-07T13:12:34-04:00"
+ },
+ "04-RC-395600::2026-11-06::82aa": {
+  "case_number": "04-RC-395600",
+  "name": "Eagleville Hospital",
+  "kind": "Representation",
+  "case_code": "RC",
+  "decision_type": "Certification of Representative",
+  "date": "2026-11-06",
+  "actor": "NLRB - GC",
+  "document": "Certification of Representative",
+  "nlrb_url": "https://apps.nlrb.gov/link/document.aspx/09031d45843e9efc",
+  "captured_at": "2026-11-07T13:12:35-04:00"
  }
 }

@@ -2397,3 +2397,18 @@
 [2026-11-06 14:42:18 ET]   decisions: 1 new
 [2026-11-06 14:42:18 ET] === Poll done. 2 new filings, 1 new decisions. ===
 
+[2026-11-07 13:12:27 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-07 13:12:32 ET]   DB ready: nlrb.db (1026 MB)
+[2026-11-07 13:12:32 ET]   source DB freshness (max filing.updated_at): 2026-11-07 11:51:20
+[2026-11-07 13:12:32 ET] === NLRB poll (since 2026-11-06; filings≥2026-10-30, decisions≥2026-10-23, live=True) ===
+[2026-11-07 13:12:33 ET]   + FILING: 04-CA-398670 | CA | Jefferson Health d/b/a Jefferson Bucks Hospital
+[2026-11-07 13:12:33 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-07 13:12:33 ET]   + FILING: 04-CB-398676 | CB | Teamsters Local 623 (United Parcel Services)
+[2026-11-07 13:12:33 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-07 13:12:33 ET]   + FILING: 04-RC-398658 | RC | SES Americom
+[2026-11-07 13:12:34 ET]   filings: 3 new
+[2026-11-07 13:12:34 ET]   + DECISION: 04-RM-394951 | Certification of Representative | 2026-11-06 | Comprehensive Logistics, Inc.
+[2026-11-07 13:12:35 ET]   + DECISION: 04-RC-395600 | Certification of Representative | 2026-11-06 | Eagleville Hospital
+[2026-11-07 13:12:36 ET]   decisions: 2 new
+[2026-11-07 13:12:36 ET] === Poll done. 3 new filings, 2 new decisions. ===
+
