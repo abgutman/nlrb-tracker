@@ -2436,3 +2436,11 @@
 [2026-11-09 16:10:41 ET]   · 04-CA-398670 | 2026-11-05 | Jefferson Health d/b/a Jefferson Bucks Hospital
 [2026-11-09 16:10:41 ET]   · 04-CB-398676 | 2026-11-06 | United Parcel Services
 [2026-11-09 16:10:43 ET]   digest sent to 3 recipient(s); 14 ULP case(s) flagged ulp_notified
+[2026-11-09 17:46:13 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-09 17:46:20 ET]   DB ready: nlrb.db (1026 MB)
+[2026-11-09 17:46:20 ET]   source DB freshness (max filing.updated_at): 2026-11-09 13:39:53
+[2026-11-09 17:46:20 ET] === NLRB poll (since 2026-11-08; filings≥2026-11-01, decisions≥2026-10-25, live=True) ===
+[2026-11-09 17:46:20 ET]   filings: 0 new
+[2026-11-09 17:46:20 ET]   decisions: 0 new
+[2026-11-09 17:46:20 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
