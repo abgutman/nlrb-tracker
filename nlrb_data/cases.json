@@ -16001,7 +16001,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398247",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-02",
-  "captured_at": "2026-11-03T14:51:43-04:00"
+  "captured_at": "2026-11-03T14:51:43-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CB-398289": {
   "case_number": "04-CB-398289",
@@ -16023,7 +16025,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-398289",
   "latest_action": "Signed Amended Charge Against Union",
   "latest_action_date": "2026-11-02",
-  "captured_at": "2026-11-03T14:51:44-04:00"
+  "captured_at": "2026-11-03T14:51:44-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CB-398296": {
   "case_number": "04-CB-398296",
@@ -16045,7 +16049,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-398296",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-02",
-  "captured_at": "2026-11-03T14:51:44-04:00"
+  "captured_at": "2026-11-03T14:51:44-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-RC-398249": {
   "case_number": "04-RC-398249",
@@ -16087,7 +16093,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398399",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-03",
-  "captured_at": "2026-11-04T15:08:17-04:00"
+  "captured_at": "2026-11-04T15:08:17-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398406": {
   "case_number": "04-CA-398406",
@@ -16111,7 +16119,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398406",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-03",
-  "captured_at": "2026-11-04T15:08:18-04:00"
+  "captured_at": "2026-11-04T15:08:18-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CB-398385": {
   "case_number": "04-CB-398385",
@@ -16134,7 +16144,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-398385",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-03",
-  "captured_at": "2026-11-04T15:08:18-04:00"
+  "captured_at": "2026-11-04T15:08:18-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CB-398402": {
   "case_number": "04-CB-398402",
@@ -16156,7 +16168,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-398402",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-02",
-  "captured_at": "2026-11-04T15:08:18-04:00"
+  "captured_at": "2026-11-04T15:08:18-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398448": {
   "case_number": "04-CA-398448",
@@ -16178,7 +16192,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398448",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-04",
-  "captured_at": "2026-11-05T15:15:31-04:00"
+  "captured_at": "2026-11-05T15:15:31-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398451": {
   "case_number": "04-CA-398451",
@@ -16200,7 +16216,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398451",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-04",
-  "captured_at": "2026-11-05T15:15:32-04:00"
+  "captured_at": "2026-11-05T15:15:32-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398469": {
   "case_number": "04-CA-398469",
@@ -16223,7 +16241,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398469",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-04",
-  "captured_at": "2026-11-05T15:15:32-04:00"
+  "captured_at": "2026-11-05T15:15:32-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398552": {
   "case_number": "04-CA-398552",
@@ -16245,7 +16265,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398552",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-05",
-  "captured_at": "2026-11-06T14:42:17-04:00"
+  "captured_at": "2026-11-06T14:42:17-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398635": {
   "case_number": "04-CA-398635",
@@ -16269,7 +16291,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398635",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-05",
-  "captured_at": "2026-11-06T14:42:17-04:00"
+  "captured_at": "2026-11-06T14:42:17-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CA-398670": {
   "case_number": "04-CA-398670",
@@ -16294,7 +16318,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CA-398670",
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-06",
-  "captured_at": "2026-11-07T13:12:33-04:00"
+  "captured_at": "2026-11-07T13:12:33-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-CB-398676": {
   "case_number": "04-CB-398676",
@@ -16316,7 +16342,9 @@
   "nlrb_url": "https://www.nlrb.gov/case/04-CB-398676",
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-06",
-  "captured_at": "2026-11-07T13:12:33-04:00"
+  "captured_at": "2026-11-07T13:12:33-04:00",
+  "ulp_notified": true,
+  "ulp_notified_at": "2026-11-09T16:10:43-04:00"
  },
  "04-RC-398658": {
   "case_number": "04-RC-398658",

@@ -2420,3 +2420,19 @@
 [2026-11-08 13:25:00 ET]   decisions: 0 new
 [2026-11-08 13:25:00 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-09 16:10:41 ET] === NLRB weekly ULP digest (14 pending, live=True) ===
+[2026-11-09 16:10:41 ET]   · 04-CA-398247 | 2026-11-02 | Jefferson Health d/b/a Jefferson Einstein Center O
+[2026-11-09 16:10:41 ET]   · 04-CB-398289 | 2026-11-02 | Catalent
+[2026-11-09 16:10:41 ET]   · 04-CB-398296 | 2026-11-02 | ExcelCare at Egg Harbor
+[2026-11-09 16:10:41 ET]   · 04-CA-398399 | 2026-11-03 | Hyde Park Hospitality, LLC
+[2026-11-09 16:10:41 ET]   · 04-CA-398406 | 2026-11-03 | Baldor Specialty Foods
+[2026-11-09 16:10:41 ET]   · 04-CB-398385 | 2026-11-03 | Enstructure Wilmington
+[2026-11-09 16:10:41 ET]   · 04-CB-398402 | 2026-11-03 | Grocery Haulers Inc (GHI)
+[2026-11-09 16:10:41 ET]   · 04-CA-398448 | 2026-11-04 | Ball Corp
+[2026-11-09 16:10:41 ET]   · 04-CA-398451 | 2026-11-04 | Zest Restaurant Group
+[2026-11-09 16:10:41 ET]   · 04-CA-398469 | 2026-11-04 | United States Postal Service
+[2026-11-09 16:10:41 ET]   · 04-CA-398552 | 2026-11-05 | OVG Hospitality
+[2026-11-09 16:10:41 ET]   · 04-CA-398635 | 2026-11-05 | Whole Foods Market Group, Inc.
+[2026-11-09 16:10:41 ET]   · 04-CA-398670 | 2026-11-05 | Jefferson Health d/b/a Jefferson Bucks Hospital
+[2026-11-09 16:10:41 ET]   · 04-CB-398676 | 2026-11-06 | United Parcel Services
+[2026-11-09 16:10:43 ET]   digest sent to 3 recipient(s); 14 ULP case(s) flagged ulp_notified
