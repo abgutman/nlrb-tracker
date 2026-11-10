@@ -2444,3 +2444,29 @@
 [2026-11-09 17:46:20 ET]   decisions: 0 new
 [2026-11-09 17:46:20 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-10 15:05:27 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-10 15:05:35 ET]   DB ready: nlrb.db (1026 MB)
+[2026-11-10 15:05:35 ET]   source DB freshness (max filing.updated_at): 2026-11-10 13:25:36
+[2026-11-10 15:05:35 ET] === NLRB poll (since 2026-11-09; filings≥2026-11-02, decisions≥2026-10-26, live=True) ===
+[2026-11-10 15:05:35 ET]   + FILING: 04-CA-398790 | CA | The American Oncologic Hospital d/b/a Hospital of 
+[2026-11-10 15:05:35 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:35 ET]   + FILING: 04-CA-398792 | CA | Canteen/Compass Group
+[2026-11-10 15:05:35 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:36 ET]   + FILING: 04-CA-398879 | CA | Embassy At Wyoming Valley
+[2026-11-10 15:05:36 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:36 ET]   + FILING: 04-CA-398880 | CA | Embassy of Tunkhannock
+[2026-11-10 15:05:36 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:36 ET]   + FILING: 04-CA-398881 | CA | Embassy At Scranton
+[2026-11-10 15:05:36 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:37 ET]   + FILING: 04-CA-398882 | CA | Embassy East Mountain
+[2026-11-10 15:05:37 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:37 ET]   + FILING: 04-CB-398793 | CB | South Jersey Area Local 526- APWU  (United States 
+[2026-11-10 15:05:37 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:37 ET]   + FILING: 04-CB-398878 | CB | Teamsters Local No. 773 (First Student)
+[2026-11-10 15:05:37 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-10 15:05:38 ET]   + FILING: 04-RC-398810 | RC | Environmental Specialties
+[2026-11-10 15:05:39 ET]   + FILING: 04-RC-398849 | RC | Resorts Casino Hotel
+[2026-11-10 15:05:40 ET]   filings: 10 new
+[2026-11-10 15:05:40 ET]   decisions: 0 new
+[2026-11-10 15:05:40 ET] === Poll done. 10 new filings, 0 new decisions. ===
+
