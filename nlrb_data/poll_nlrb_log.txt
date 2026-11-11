@@ -2470,3 +2470,15 @@
 [2026-11-10 15:05:40 ET]   decisions: 0 new
 [2026-11-10 15:05:40 ET] === Poll done. 10 new filings, 0 new decisions. ===
 
+[2026-11-11 15:01:48 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-11 15:01:55 ET]   DB ready: nlrb.db (1026 MB)
+[2026-11-11 15:01:55 ET]   source DB freshness (max filing.updated_at): 2026-11-11 12:39:39
+[2026-11-11 15:01:55 ET] === NLRB poll (since 2026-11-10; filings≥2026-11-03, decisions≥2026-10-27, live=True) ===
+[2026-11-11 15:01:56 ET]   + FILING: 04-CA-398945 | CA | Lancaster Behavioral Health Hospital
+[2026-11-11 15:01:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-11 15:01:56 ET]   + FILING: 04-CB-398896 | CB | International Brotherhood of Teamsters Local 773 (
+[2026-11-11 15:01:56 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-11 15:01:56 ET]   filings: 2 new
+[2026-11-11 15:01:56 ET]   decisions: 0 new
+[2026-11-11 15:01:56 ET] === Poll done. 2 new filings, 0 new decisions. ===
+

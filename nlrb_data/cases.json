@@ -16581,5 +16581,50 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-11-09",
   "captured_at": "2026-11-10T15:05:39-04:00"
+ },
+ "04-CA-398945": {
+  "case_number": "04-CA-398945",
+  "name": "Lancaster Behavioral Health Hospital",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Lancaster Behavioral Health Hospital",
+  "union": "Teamsters Local Union No. 771",
+  "city": "Lancaster (Township)",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(4) Discharge (including Layoff and Refusal to Hire)",
+   "8(a)(4) Changes in Terms and Conditions of Employment"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-398945",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-10",
+  "captured_at": "2026-11-11T15:01:56-04:00"
+ },
+ "04-CB-398896": {
+  "case_number": "04-CB-398896",
+  "name": "International Brotherhood of Teamsters Local 773 (United Parcel Service, Inc. (UPS) - Easton / BETPA Hub)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United Parcel Service, Inc. (UPS) - Easton / BETPA Hub",
+  "union": "International Brotherhood of Teamsters Local 773",
+  "city": "Easton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-10",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398896",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-10",
+  "captured_at": "2026-11-11T15:01:56-04:00"
  }
 }
