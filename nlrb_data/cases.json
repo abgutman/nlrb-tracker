@@ -16626,5 +16626,27 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-10",
   "captured_at": "2026-11-11T15:01:56-04:00"
+ },
+ "04-CB-398986": {
+  "case_number": "04-CB-398986",
+  "name": "District 1199C, National Union of Hospital and Health Care Employees (CFG Health)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "CFG Health",
+  "union": "District 1199C, National Union of Hospital and Health Care Employees",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-12",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-398986",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-11-12T15:20:44-04:00"
  }
 }
