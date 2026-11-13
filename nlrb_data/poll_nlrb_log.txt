@@ -2492,3 +2492,13 @@
 [2026-11-12 15:20:44 ET]   decisions: 0 new
 [2026-11-12 15:20:44 ET] === Poll done. 1 new filings, 0 new decisions. ===
 
+[2026-11-13 14:58:29 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-13 14:58:34 ET]   DB ready: nlrb.db (1027 MB)
+[2026-11-13 14:58:34 ET]   source DB freshness (max filing.updated_at): 2026-11-13 13:02:37
+[2026-11-13 14:58:34 ET] === NLRB poll (since 2026-11-12; filings≥2026-11-05, decisions≥2026-10-29, live=True) ===
+[2026-11-13 14:58:34 ET]   + FILING: 04-CA-398987 | CA | ACAM Management Company
+[2026-11-13 14:58:34 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-13 14:58:34 ET]   filings: 1 new
+[2026-11-13 14:58:34 ET]   decisions: 0 new
+[2026-11-13 14:58:34 ET] === Poll done. 1 new filings, 0 new decisions. ===
+
