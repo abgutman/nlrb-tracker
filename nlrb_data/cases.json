@@ -16670,5 +16670,91 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-12",
   "captured_at": "2026-11-13T14:58:34-04:00"
+ },
+ "04-CA-399100": {
+  "case_number": "04-CA-399100",
+  "name": "CLC Philadelphia AFL-CIO",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "CLC Philadelphia AFL-CIO",
+  "union": "Teamsters Local 623",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-12",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399100",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-13",
+  "captured_at": "2026-11-14T13:29:26-04:00"
+ },
+ "04-CA-399109": {
+  "case_number": "04-CA-399109",
+  "name": "Cooper Bone and Joint Institute",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Cooper Bone and Joint Institute",
+  "union": null,
+  "city": "Camden",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399109",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-11-14T13:29:26-04:00"
+ },
+ "04-CB-399104": {
+  "case_number": "04-CB-399104",
+  "name": "APWU Philadelphia Local Union #89 (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "APWU Philadelphia Local Union #89",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-399104",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-13",
+  "captured_at": "2026-11-14T13:29:26-04:00"
+ },
+ "04-RC-399121": {
+  "case_number": "04-RC-399121",
+  "name": "Hand & Stone Manahawkin",
+  "kind": "Representation",
+  "case_type": "RC",
+  "case_code": "RC",
+  "employer": "Hand & Stone Manahawkin",
+  "union": "United Food and Commercial Workers, AFL-CIO Local 152",
+  "city": "Manahawkin",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-13",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [],
+  "nlrb_url": "https://www.nlrb.gov/case/04-RC-399121",
+  "latest_action": "Signed RC Petition",
+  "latest_action_date": "2026-11-13",
+  "captured_at": "2026-11-14T13:29:27-04:00"
  }
 }
