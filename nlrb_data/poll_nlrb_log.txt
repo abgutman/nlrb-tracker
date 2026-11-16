@@ -2542,3 +2542,11 @@
 [2026-11-16 15:53:24 ET]   · 04-CA-399109 | 2026-11-13 | Cooper Bone and Joint Institute
 [2026-11-16 15:53:24 ET]   · 04-CB-399104 | 2026-11-13 | United States Postal Service
 [2026-11-16 15:53:25 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
+[2026-11-16 17:26:50 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-16 17:26:55 ET]   DB ready: nlrb.db (1027 MB)
+[2026-11-16 17:26:55 ET]   source DB freshness (max filing.updated_at): 2026-11-16 13:33:21
+[2026-11-16 17:26:55 ET] === NLRB poll (since 2026-11-15; filings≥2026-11-08, decisions≥2026-11-01, live=True) ===
+[2026-11-16 17:26:55 ET]   filings: 0 new
+[2026-11-16 17:26:55 ET]   decisions: 0 new
+[2026-11-16 17:26:55 ET] === Poll done. 0 new filings, 0 new decisions. ===
+
