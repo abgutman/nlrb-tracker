@@ -2525,3 +2525,20 @@
 [2026-11-15 14:16:27 ET]   decisions: 0 new
 [2026-11-15 14:16:27 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-16 15:53:24 ET] === NLRB weekly ULP digest (15 pending, live=True) ===
+[2026-11-16 15:53:24 ET]   · 04-CA-398790 | 2026-11-09 | The American Oncologic Hospital d/b/a Hospital of 
+[2026-11-16 15:53:24 ET]   · 04-CA-398792 | 2026-11-09 | Canteen/Compass Group
+[2026-11-16 15:53:24 ET]   · 04-CA-398879 | 2026-11-09 | Embassy At Wyoming Valley
+[2026-11-16 15:53:24 ET]   · 04-CA-398880 | 2026-11-09 | Embassy of Tunkhannock
+[2026-11-16 15:53:24 ET]   · 04-CA-398881 | 2026-11-09 | Embassy At Scranton
+[2026-11-16 15:53:24 ET]   · 04-CA-398882 | 2026-11-09 | Embassy East Mountain
+[2026-11-16 15:53:24 ET]   · 04-CB-398793 | 2026-11-09 | United States Postal Service
+[2026-11-16 15:53:24 ET]   · 04-CB-398878 | 2026-11-09 | First Student
+[2026-11-16 15:53:24 ET]   · 04-CA-398945 | 2026-11-10 | Lancaster Behavioral Health Hospital
+[2026-11-16 15:53:24 ET]   · 04-CB-398896 | 2026-11-10 | United Parcel Service, Inc. (UPS) - Easton / BETPA
+[2026-11-16 15:53:24 ET]   · 04-CA-398987 | 2026-11-12 | ACAM Management Company
+[2026-11-16 15:53:24 ET]   · 04-CA-399100 | 2026-11-12 | CLC Philadelphia AFL-CIO
+[2026-11-16 15:53:24 ET]   · 04-CB-398986 | 2026-11-12 | CFG Health
+[2026-11-16 15:53:24 ET]   · 04-CA-399109 | 2026-11-13 | Cooper Bone and Joint Institute
+[2026-11-16 15:53:24 ET]   · 04-CB-399104 | 2026-11-13 | United States Postal Service
+[2026-11-16 15:53:25 ET]   digest sent to 3 recipient(s); 15 ULP case(s) flagged ulp_notified
