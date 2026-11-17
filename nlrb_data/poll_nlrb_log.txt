@@ -2550,3 +2550,17 @@
 [2026-11-16 17:26:55 ET]   decisions: 0 new
 [2026-11-16 17:26:55 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-17 16:15:15 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-17 16:15:21 ET]   DB ready: nlrb.db (1027 MB)
+[2026-11-17 16:15:21 ET]   source DB freshness (max filing.updated_at): 2026-11-17 14:15:07
+[2026-11-17 16:15:21 ET] === NLRB poll (since 2026-11-16; filings≥2026-11-09, decisions≥2026-11-02, live=True) ===
+[2026-11-17 16:15:21 ET]   + FILING: 04-CA-399279 | CA | Rue 21
+[2026-11-17 16:15:21 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-17 16:15:21 ET]   + FILING: 04-CA-399341 | CA | Aetna Hose Hook & Ladder Fire Company
+[2026-11-17 16:15:21 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-17 16:15:22 ET]   + FILING: 04-CB-399244 | CB | South Jersey Area Local 526- APWU (United States P
+[2026-11-17 16:15:22 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-17 16:15:22 ET]   filings: 3 new
+[2026-11-17 16:15:22 ET]   decisions: 0 new
+[2026-11-17 16:15:22 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

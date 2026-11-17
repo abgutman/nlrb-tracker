@@ -16786,5 +16786,74 @@
   "latest_action": "Signed RC Petition",
   "latest_action_date": "2026-11-13",
   "captured_at": "2026-11-14T13:29:27-04:00"
+ },
+ "04-CA-399279": {
+  "case_number": "04-CA-399279",
+  "name": "Rue 21",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Rue 21",
+  "union": null,
+  "city": "Springfield",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399279",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-16",
+  "captured_at": "2026-11-17T16:15:21-04:00"
+ },
+ "04-CA-399341": {
+  "case_number": "04-CA-399341",
+  "name": "Aetna Hose Hook & Ladder Fire Company",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Aetna Hose, Hook & Ladder Company",
+  "union": "International Association of Firefighters, Local 4417",
+  "city": "New Castle",
+  "state": "DE",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)",
+   "8(a)(3) Changes in Terms and Conditions of Employment",
+   "8(a)(2) Domination"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399341",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-16",
+  "captured_at": "2026-11-17T16:15:21-04:00"
+ },
+ "04-CB-399244": {
+  "case_number": "04-CB-399244",
+  "name": "South Jersey Area Local 526- APWU (United States Postal Service)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "United States Postal Service",
+  "union": "South Jersey Area Local 526- APWU",
+  "city": "Williamstown",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-16",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-399244",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-16",
+  "captured_at": "2026-11-17T16:15:22-04:00"
  }
 }
