@@ -2564,3 +2564,17 @@
 [2026-11-17 16:15:22 ET]   decisions: 0 new
 [2026-11-17 16:15:22 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-11-18 15:46:08 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-18 15:46:12 ET]   DB ready: nlrb.db (1027 MB)
+[2026-11-18 15:46:12 ET]   source DB freshness (max filing.updated_at): 2026-11-18 13:53:37
+[2026-11-18 15:46:12 ET] === NLRB poll (since 2026-11-17; filings≥2026-11-10, decisions≥2026-11-03, live=True) ===
+[2026-11-18 15:46:13 ET]   + FILING: 04-CA-399360 | CA | L3Harris Technologies, Communications-Systems-East
+[2026-11-18 15:46:13 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-18 15:46:13 ET]   + FILING: 04-CA-399374 | CA | L3Harris Technologies, Communications Systems-East
+[2026-11-18 15:46:13 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-18 15:46:13 ET]   + FILING: 04-CA-399450 | CA | United Parcel Services
+[2026-11-18 15:46:13 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-18 15:46:13 ET]   filings: 3 new
+[2026-11-18 15:46:14 ET]   decisions: 0 new
+[2026-11-18 15:46:14 ET] === Poll done. 3 new filings, 0 new decisions. ===
+

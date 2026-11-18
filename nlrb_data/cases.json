@@ -16855,5 +16855,71 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-16",
   "captured_at": "2026-11-17T16:15:22-04:00"
+ },
+ "04-CA-399360": {
+  "case_number": "04-CA-399360",
+  "name": "L3Harris Technologies, Communications-Systems-East",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "L3Harris Technologies, Communications Systems-East",
+  "union": "IUE-CWA Local 81103",
+  "city": "Camden",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399360",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-17",
+  "captured_at": "2026-11-18T15:46:13-04:00"
+ },
+ "04-CA-399374": {
+  "case_number": "04-CA-399374",
+  "name": "L3Harris Technologies, Communications Systems-East (McAdams)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "L3Harris Technologies, Communications Systems-East",
+  "union": "IUE-CWA Local 81103",
+  "city": "Camden",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(5) Refusal to Furnish Information"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399374",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-17",
+  "captured_at": "2026-11-18T15:46:13-04:00"
+ },
+ "04-CA-399450": {
+  "case_number": "04-CA-399450",
+  "name": "United Parcel Services",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United Parcel Service",
+  "union": null,
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-17",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399450",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-17",
+  "captured_at": "2026-11-18T15:46:13-04:00"
  }
 }
