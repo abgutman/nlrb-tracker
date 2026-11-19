@@ -16921,5 +16921,27 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-17",
   "captured_at": "2026-11-18T15:46:13-04:00"
+ },
+ "04-CB-399528": {
+  "case_number": "04-CB-399528",
+  "name": "UFCW Local 152 (J&J Snack Foods)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "J&J Snack Foods",
+  "union": "UFCW Local 152",
+  "city": "Egg Harbor Township",
+  "state": "NJ",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-19",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-399528",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-19",
+  "captured_at": "2026-11-19T15:46:28-04:00"
  }
 }
