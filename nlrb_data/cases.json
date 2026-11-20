@@ -16943,5 +16943,50 @@
   "latest_action": "Signed Charge Against Union",
   "latest_action_date": "2026-11-19",
   "captured_at": "2026-11-19T15:46:28-04:00"
+ },
+ "04-CA-399593": {
+  "case_number": "04-CA-399593",
+  "name": "Lehigh Valley Health Network and Jefferson Health, as joint employers and/or a single employer",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "Lehigh Valley Health Network and Jefferson Health, as joint employers and/or a single employer",
+  "union": null,
+  "city": "Allentown",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-19",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Interrogation (including Polling)",
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399593",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-11-20T15:27:12-04:00"
+ },
+ "04-CB-399598": {
+  "case_number": "04-CB-399598",
+  "name": "CWA Local AFL-CIO and its affiliated Local 13000 (AT&T)",
+  "kind": "ULP",
+  "case_type": "CB",
+  "case_code": "CB",
+  "employer": "AT&T Mobility Services LLC",
+  "union": "Communications Workers of America, AFL-CIO",
+  "city": "Philadelphia",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-19",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CB-399598",
+  "latest_action": "Signed Charge Against Union",
+  "latest_action_date": "2026-11-19",
+  "captured_at": "2026-11-20T15:27:13-04:00"
  }
 }
