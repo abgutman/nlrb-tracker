@@ -2609,3 +2609,18 @@
 [2026-11-21 14:29:03 ET]   decisions: 0 new
 [2026-11-21 14:29:03 ET] === Poll done. 0 new filings, 0 new decisions. ===
 
+[2026-11-22 14:51:35 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-22 14:51:39 ET]   DB ready: nlrb.db (1028 MB)
+[2026-11-22 14:51:39 ET]   source DB freshness (max filing.updated_at): 2026-11-22 13:16:19
+[2026-11-22 14:51:39 ET] === NLRB poll (since 2026-11-21; filings≥2026-11-14, decisions≥2026-11-07, live=True) ===
+[2026-11-22 14:51:40 ET]   + FILING: 04-CA-399645 | CA | Metropolitan Edison Company (First Energy Corporat
+[2026-11-22 14:51:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-22 14:51:40 ET]   + FILING: 04-CB-399685 | CB | NALC Branch 725 (USPS)
+[2026-11-22 14:51:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-22 14:51:40 ET]   + FILING: 04-CB-399713 | CB | Federation of Teachers Staff Union #4 ('FTW") (Ame
+[2026-11-22 14:51:40 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-22 14:51:40 ET]   + FILING: 04-RC-399639 | RC | Kimmel Center, Inc. d/b/a Ensemble Arts Philly
+[2026-11-22 14:51:42 ET]   filings: 4 new
+[2026-11-22 14:51:42 ET]   decisions: 0 new
+[2026-11-22 14:51:42 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
