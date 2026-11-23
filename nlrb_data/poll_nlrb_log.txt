@@ -2624,3 +2624,17 @@
 [2026-11-22 14:51:42 ET]   decisions: 0 new
 [2026-11-22 14:51:42 ET] === Poll done. 4 new filings, 0 new decisions. ===
 
+[2026-11-23 17:43:10 ET] === NLRB weekly ULP digest (12 pending, live=True) ===
+[2026-11-23 17:43:10 ET]   · 04-CA-399279 | 2026-11-16 | Rue 21
+[2026-11-23 17:43:10 ET]   · 04-CA-399341 | 2026-11-16 | Aetna Hose, Hook & Ladder Company
+[2026-11-23 17:43:10 ET]   · 04-CB-399244 | 2026-11-16 | United States Postal Service
+[2026-11-23 17:43:10 ET]   · 04-CA-399360 | 2026-11-17 | L3Harris Technologies, Communications Systems-East
+[2026-11-23 17:43:10 ET]   · 04-CA-399374 | 2026-11-17 | L3Harris Technologies, Communications Systems-East
+[2026-11-23 17:43:10 ET]   · 04-CA-399450 | 2026-11-17 | United Parcel Service
+[2026-11-23 17:43:10 ET]   · 04-CA-399593 | 2026-11-19 | Lehigh Valley Health Network and Jefferson Health,
+[2026-11-23 17:43:10 ET]   · 04-CB-399528 | 2026-11-19 | J&J Snack Foods
+[2026-11-23 17:43:10 ET]   · 04-CB-399598 | 2026-11-19 | AT&T Mobility Services LLC
+[2026-11-23 17:43:10 ET]   · 04-CA-399645 | 2026-11-20 | Metropolitan Edison Company (First Energy Corporat
+[2026-11-23 17:43:10 ET]   · 04-CB-399685 | 2026-11-20 | United States Postal Service
+[2026-11-23 17:43:10 ET]   · 04-CB-399713 | 2026-11-20 | Federation of Teachers Staff Union #4 ('FTW") (Ame
+[2026-11-23 17:43:10 ET]   digest sent to 3 recipient(s); 12 ULP case(s) flagged ulp_notified
