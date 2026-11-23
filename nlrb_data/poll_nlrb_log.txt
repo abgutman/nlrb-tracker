@@ -2638,3 +2638,12 @@
 [2026-11-23 17:43:10 ET]   · 04-CB-399685 | 2026-11-20 | United States Postal Service
 [2026-11-23 17:43:10 ET]   · 04-CB-399713 | 2026-11-20 | Federation of Teachers Staff Union #4 ('FTW") (Ame
 [2026-11-23 17:43:10 ET]   digest sent to 3 recipient(s); 12 ULP case(s) flagged ulp_notified
+[2026-11-23 19:06:00 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-23 19:06:07 ET]   DB ready: nlrb.db (1028 MB)
+[2026-11-23 19:06:07 ET]   source DB freshness (max filing.updated_at): 2026-11-23 15:14:53
+[2026-11-23 19:06:07 ET] === NLRB poll (since 2026-11-22; filings≥2026-11-15, decisions≥2026-11-08, live=True) ===
+[2026-11-23 19:06:07 ET]   filings: 0 new
+[2026-11-23 19:06:07 ET]   + DECISION: 04-RC-397717 | Certification of Representative | 2026-11-23 | Random Productions, LLC
+[2026-11-23 19:06:08 ET]   decisions: 1 new
+[2026-11-23 19:06:08 ET] === Poll done. 0 new filings, 1 new decisions. ===
+
