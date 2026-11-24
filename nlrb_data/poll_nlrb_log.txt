@@ -2647,3 +2647,15 @@
 [2026-11-23 19:06:08 ET]   decisions: 1 new
 [2026-11-23 19:06:08 ET] === Poll done. 0 new filings, 1 new decisions. ===
 
+[2026-11-24 17:45:32 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-24 17:45:38 ET]   DB ready: nlrb.db (1028 MB)
+[2026-11-24 17:45:38 ET]   source DB freshness (max filing.updated_at): 2026-11-24 15:34:07
+[2026-11-24 17:45:38 ET] === NLRB poll (since 2026-11-23; filings≥2026-11-16, decisions≥2026-11-09, live=True) ===
+[2026-11-24 17:45:38 ET]   + FILING: 04-CA-399807 | CA | Republic Service
+[2026-11-24 17:45:38 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-24 17:45:38 ET]   + FILING: 04-RC-399820 | RC | New Standard Senior Living Millville NJ
+[2026-11-24 17:45:40 ET]   + FILING: 04-RC-399825 | RC | Mt. Carmel Nursing and Rehab
+[2026-11-24 17:45:41 ET]   filings: 3 new
+[2026-11-24 17:45:41 ET]   decisions: 0 new
+[2026-11-24 17:45:41 ET] === Poll done. 3 new filings, 0 new decisions. ===
+
