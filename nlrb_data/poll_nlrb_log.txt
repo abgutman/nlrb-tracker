@@ -2659,3 +2659,19 @@
 [2026-11-24 17:45:41 ET]   decisions: 0 new
 [2026-11-24 17:45:41 ET] === Poll done. 3 new filings, 0 new decisions. ===
 
+[2026-11-25 16:52:15 ET]   downloading nightly DB from https://github.com/labordata/nlrb-data/releases/download/nightly/nlrb.db.zip
+[2026-11-25 16:52:19 ET]   DB ready: nlrb.db (1028 MB)
+[2026-11-25 16:52:19 ET]   source DB freshness (max filing.updated_at): 2026-11-25 14:58:34
+[2026-11-25 16:52:19 ET] === NLRB poll (since 2026-11-24; filings≥2026-11-17, decisions≥2026-11-10, live=True) ===
+[2026-11-25 16:52:19 ET]   + FILING: 04-CB-399908 | CB | SEIU Local 32BJ
+[2026-11-25 16:52:19 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-25 16:52:19 ET]   + FILING: 04-CA-399884 | CA | Hudson Hopper Philadelphia JV and Hudson Warehouse
+[2026-11-25 16:52:19 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-25 16:52:20 ET]   + FILING: 04-CB-399872 | CB | Printing Packaging and Production Workers Union (A
+[2026-11-25 16:52:20 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-25 16:52:20 ET]   + FILING: 04-CA-399973 | CA | Lake Adventure Campground
+[2026-11-25 16:52:20 ET]     (ULP held for weekly digest — no immediate email)
+[2026-11-25 16:52:20 ET]   filings: 4 new
+[2026-11-25 16:52:20 ET]   decisions: 0 new
+[2026-11-25 16:52:20 ET] === Poll done. 4 new filings, 0 new decisions. ===
+
