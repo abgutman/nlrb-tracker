@@ -17256,5 +17256,54 @@
   "latest_action": "Signed Charge Against Employer",
   "latest_action_date": "2026-11-25",
   "captured_at": "2026-11-25T16:52:20-04:00"
+ },
+ "04-CA-399977": {
+  "case_number": "04-CA-399977",
+  "name": "United Parcel Service Inc. (UPS)",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "United Parcel Service Inc. (UPS)",
+  "union": null,
+  "city": "Easton",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-24",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(3) Discipline",
+   "8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))",
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)",
+   "8(a)(1) Coercive Actions (Surveillance, etc)"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-399977",
+  "latest_action": "",
+  "latest_action_date": "",
+  "captured_at": "2026-11-26T16:43:54-04:00"
+ },
+ "04-CA-400025": {
+  "case_number": "04-CA-400025",
+  "name": "WindRiver Environmental",
+  "kind": "ULP",
+  "case_type": "CA",
+  "case_code": "CA",
+  "employer": "WindRiver Environmental",
+  "union": null,
+  "city": "Douglass",
+  "state": "PA",
+  "region_assigned": "Region 04, Philadelphia, Pennsylvania",
+  "date_filed": "2026-11-25",
+  "status": "Open",
+  "date_closed": null,
+  "allegations": [
+   "8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)",
+   "8(a)(1) Coercive Rules"
+  ],
+  "nlrb_url": "https://www.nlrb.gov/case/04-CA-400025",
+  "latest_action": "Signed Charge Against Employer",
+  "latest_action_date": "2026-11-25",
+  "captured_at": "2026-11-26T16:43:55-04:00"
  }
 }
